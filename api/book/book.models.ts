@@ -1,15 +1,10 @@
 import { model, Schema, Document, Types } from 'mongoose'
 
-export interface IOption {
-    option: string
-    key: string
-}
-
 
 export interface IEvaluation {
     question: string
-    correctKey: string
-    options?: IOption[]
+    correctOption: number
+    options?: string[]
 }
 
 export interface IBook extends Document {
@@ -18,15 +13,15 @@ export interface IBook extends Document {
     state: boolean
     isFeatured: boolean
     image: string
+    imageSM:string
     subject: Types.ObjectId
-    minPrice: number
-    maxPrice: number
+    price: number
     rating: number
     dateCreated: Date
     numReviews: number
     autor: Types.ObjectId
     link: string
-    // evaluation: IEvaluation[]
+    evaluation: IEvaluation[]
     content: string
 }
 
@@ -35,35 +30,38 @@ const bookSchema: Schema<IBook> = new Schema({
         type: String,
         unique: true,
         lowercase: true,
-        required: [true, 'The book is required'],
+        required: [true, 'The book is required']
     },
     description: {
         type: String,
-        // required: [true, 'The description is required'],
+        required: [true, 'The description is required']
     },
     state: {
         type: Boolean,
         default: true,
     },
+    isFeatured: {
+        type: Boolean,
+        default: false,
+    },
     image: {
+        type: String,
+    },
+    imageSM: {
         type: String,
     },
     subject: {
         type: Schema.Types.ObjectId,
         ref: "Subject",
-        required:true
+        required: true
     },
 
-    minPrice: {
+    price: {
         type: Number,
         min: 0,
         default: 30
     },
-    maxPrice: {
-        type: Number,
-        min: 0,
-        default: 150
-    },
+
     dateCreated: {
         type: Date,
         default: Date.now,
@@ -71,54 +69,32 @@ const bookSchema: Schema<IBook> = new Schema({
     autor: {
         type: Schema.Types.ObjectId,
         ref: 'Autor',
-        required:true
-        
+        required: true
+
     },
     link: {
         type: String,
-        required: true,
+        // required: true,
     },
-    // evaluation: {
-    //     type: [
-    //         {
-    //             question: {
-    //                 type: String,
-    //                 required: [true, 'The question is required'],
-    //             },
-    //             correctKey: {
-    //                 lowercase: true,
-    //                 type: String,
-    //                 required: [true, 'The correctKey is required'],
-    //             },
-    //             options: {
-    //                 type: [
-    //                     {
-    //                         option: {
-    //                             type: String,
-    //                             required: [true, 'The option is required'],
-    //                         },
-    //                         key: {
-    //                             lowercase: true,
-    //                             type: String,
-    //                             required: [true, 'The key is required'],
-    //                         },
-    //                     },
-    //                     {
-    //                         _id: false,
-    //                     },
-    //                 ],
-    //                 _id: false,
-    //             },
-    //         },
-    //         {
-    //             _id: false,
-    //         },
-    //     ],
-    //     _id: false,
-    // },
+    evaluation: [{
+        type: {
+            question: {
+                type: String,
+                require: true
+            },
+            options: [{
+                type: String,
+                require: true
+            },],
+            correctOption: {
+                type: Number,
+                require: true
+            },
+        }
+    }],
     content: {
         type: String,
-        required: [true, 'The content is required'],
+        required: [true, 'The content is required']
     },
 })
 
@@ -129,4 +105,4 @@ bookSchema.methods.toJSON = function () {
 }
 
 export const Book = model<IBook>('Book', bookSchema)
-{}
+{ }

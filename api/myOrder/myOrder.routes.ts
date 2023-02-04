@@ -4,25 +4,62 @@ import { validateCamps } from '../../middlewares/validate-camps'
 import { validateUserJwt } from '../../middlewares/validate-user-JWT'
 import {
 
+    myOrderEvaluationPatch,
+    myOrderGetById,
+    myOrderGetEvaluation,
     myOrdersGet,
-    myPlaceOrderPost,
+    mySessionPost,
 } from './myOrder.controllers'
 
-// PATH /api/myorders
+// PATH /api/myorder
 export const router = Router()
 
 router.get('/', [validateUserJwt], myOrdersGet)
 
-router.post(
-    '/placeorder/:id',
+router.get(
+    '/id/:id',
     [
         validateUserJwt,
         check('id', "it isn't a valid id").isMongoId(),
-        check('price', "it isn't a valid id").notEmpty(),
-        check('price', "it isn't a valid id").isNumeric(),
-
+        validateCamps,
+    ],
+    myOrderGetById
+)
+router.get(
+    '/evaluation/:id',
+    [
+        validateUserJwt,
+        check('id', "it isn't a valid id").isMongoId(),
+        validateCamps,
+    ],
+    myOrderGetEvaluation
+)
+router.post(
+    '/session',
+    [
+        validateUserJwt,
+        check('ids', "it isn't a valid id").isArray(),
+        // check('price', "it isn't a valid id").notEmpty(),
+        // check('price', "it isn't a valid id").isNumeric(),
 
         validateCamps,
     ],
-    myPlaceOrderPost
+    mySessionPost
 )
+router.patch(
+    '/id/:id',
+    [
+        validateUserJwt,
+        check('id', "it isn't a valid id").isMongoId(),
+
+        validateCamps,
+    ],
+    myOrderEvaluationPatch
+)
+
+
+
+
+
+
+

@@ -3,16 +3,23 @@ import bcrypt from 'bcrypt'
 
 export interface IUser extends Document {
     name: string
-
     lastName: string
     email: string
+    emailConfirmed:boolean
     password: string
     phone: number
+    phoneConfirmed:boolean
     isAdmin: boolean
     state: boolean
     address?: IAddress
     // cryptoAddress?: ICryptoAddress
+    books: Types.ObjectId[]
     dateCreated: Date
+    referralCode: string,
+    referredBy: string,
+    firstBuy: Boolean,
+
+
 
 
 
@@ -30,26 +37,26 @@ export interface IAddress extends Document {
 //     wallet: string
 // }
 
-const addressSchema: Schema<IAddress> = new Schema(
-    {
-        street: {
-            type: String,
-        },
-        apartament: {
-            type: String,
-        },
-        city: {
-            type: String,
-        },
-        zip: {
-            type: String,
-        },
-        country: {
-            type: String,
-        },
-    },
-    { _id: false }
-)
+// const addressSchema: Schema<IAddress> = new Schema(
+//     {
+//         street: {
+//             type: String,
+//         },
+//         apartament: {
+//             type: String,
+//         },
+//         city: {
+//             type: String,
+//         },
+//         zip: {
+//             type: String,
+//         },
+//         country: {
+//             type: String,
+//         },
+//     },
+//     { _id: false }
+// )
 // const cryptoAddressSchema: Schema<ICryptoAddress> = new Schema(
 //     {
 //         cryptoType: {
@@ -81,13 +88,17 @@ const userSchema: Schema<IUser> = new Schema({
         required: [true, 'email is required'],
         unique: true,
     },
+    emailConfirmed: {
+        type: Boolean,
+        default: false
+    },
     password: {
         type: String,
         required: [true, 'password is required'],
     },
-    address: {
-        type: addressSchema,
-    },
+    // address: {
+    //     type: addressSchema,
+    // },
     // cryptoAddress: {
     //     type: cryptoAddressSchema,
 
@@ -95,6 +106,11 @@ const userSchema: Schema<IUser> = new Schema({
     phone: {
         type: Number,
         required: [true, 'zip is required'],
+    },
+
+    phoneConfirmed: {
+        type: Boolean,
+        default: false
     },
     isAdmin: {
         type: Boolean,
@@ -104,6 +120,23 @@ const userSchema: Schema<IUser> = new Schema({
         type: Boolean,
         default: true,
     },
+    referralCode: {
+        type: String,
+        required: true,
+        unique: true,
+    },
+    referredBy: {
+        type: String,
+    },
+    firstBuy:{
+        type: Boolean,
+        default: true
+    },
+    books: [{
+        type: Schema.Types.ObjectId,
+        ref: 'Book',
+    }],
+
     dateCreated: {
         type: Date,
         default: Date.now,

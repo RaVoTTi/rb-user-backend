@@ -8,6 +8,7 @@ import { validateCamps } from '../../middlewares/validate-camps'
 import { validateUserJwt } from '../../middlewares/validate-user-JWT'
 import {
     myLearningGet,
+    myLearningGetById,
     // myLearningGetById,
     myLearningPatchById,
 } from './myLearning.controllers'
@@ -16,13 +17,15 @@ import {
 export const router = Router()
 
 router.get('/', [validateUserJwt], myLearningGet)
-// router.get(
-//   '/mylearning/:id',
-//   [
-//       validateUserJwt,
-//   ],
-//   myLearningGetById
-// )
+router.get(
+    '/id/:id',
+    [
+        validateUserJwt,
+        check('id', "it isn't a valid id").isMongoId(),
+        validateCamps,
+    ],
+    myLearningGetById
+)
 router.patch(
     '/:id',
     [

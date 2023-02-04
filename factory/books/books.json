@@ -1,0 +1,736 @@
+[
+    {
+        "name": "A Series of Unfortunate Events",
+        "description": "\"A Series of Unfortunate Events\" is a series of thirteen children's novels that chronicle the tragic lives of the Baudelaire orphans: Violet, Klaus, and Sunny. After their parents die in a mysterious fire, the siblings face numerous misfortunes while trying to uncover the truth about their family's past, primarily pursued by the evil Count Olaf who is after their inheritance. The series includes the following books: 'The Bad Beginning,' 'The Reptile Room,' 'The Wide Window,' 'The Miserable Mill,' 'The Austere Academy,' 'The Ersatz Elevator,' 'The Vile Village,' 'The Hostile Hospital,' 'The Carnivorous Carnival,' 'The Slippery Slope,' 'The Grim Grotto,' 'The Penultimate Peril,' and 'The End.' Themes of misfortune, perseverance, moral ambiguity, secrets, and mysteries run throughout the series.",
+        "evaluation": [
+            {
+                "question": "What is the primary antagonist pursuing the Baudelaire orphans in the series?",
+                "options": [
+                    "The evil Count Dracula",
+                    "The cunning Count Chocula",
+                    "The malevolent Count Olaf",
+                    "The mysterious Count Dooku"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "How many books are there in the \"A Series of Unfortunate Events\" series?",
+                "options": [
+                    "Three",
+                    "Seven",
+                    "Ten",
+                    "Thirteen"
+                ],
+                "correctOption": "4"
+            },
+            {
+                "question": "What is one of the central themes explored in the series?",
+                "options": [
+                    "The pursuit of wealth and power",
+                    "The importance of giving up in the face of adversity",
+                    "Misfortune and perseverance",
+                    "The glory of being an orphan"
+                ],
+                "correctOption": "3"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/q1bnflugeoljj1fmvmbx.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/nrgq1q0cgnkwthtqxvi6.webp",
+        "content": "<h3>Summary of &quot;A Series of Unfortunate Events&quot; by Lemony Snicket (Daniel Handler)</h3>\n<h4>Overview</h4>\n<p>&quot;A Series of Unfortunate Events&quot; is a series of thirteen children's novels that chronicle the tragic lives of the Baudelaire orphans: Violet, Klaus, and Sunny. After their parents die in a mysterious fire, the siblings face numerous misfortunes while trying to uncover the truth about their family's past, primarily pursued by the evil Count Olaf who is after their inheritance.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>The Bad Beginning</strong>: The Baudelaires are placed in the care of Count Olaf, who tries to steal their inheritance by marrying Violet.</p>\n</li>\n<li>\n<p><strong>The Reptile Room</strong>: The orphans move in with Uncle Monty, who is murdered by Olaf.</p>\n</li>\n<li>\n<p><strong>The Wide Window</strong>: Living with Aunt Josephine, they again encounter Olaf, who pushes Josephine into leech-infested waters.</p>\n</li>\n<li>\n<p><strong>The Miserable Mill</strong>: The children are sent to work in a lumber mill. Olaf appears and causes more trouble.</p>\n</li>\n<li>\n<p><strong>The Austere Academy</strong>: At a boarding school, they befriend the Quagmire triplets, who are kidnapped by Olaf.</p>\n</li>\n<li>\n<p><strong>The Ersatz Elevator</strong>: The Baudelaires live with the fashionable Squalors and discover a secret about the Quagmires.</p>\n</li>\n<li>\n<p><strong>The Vile Village</strong>: The children are adopted by an entire village but are accused of murder when Olaf stages a crime.</p>\n</li>\n<li>\n<p><strong>The Hostile Hospital</strong>: On the run, they're pursued by Olaf and nearly subjected to a dangerous surgery.</p>\n</li>\n<li>\n<p><strong>The Carnivorous Carnival</strong>: Disguised as circus freaks, they discover more about a mysterious organization connected to their parents.</p>\n</li>\n<li>\n<p><strong>The Slippery Slope</strong>: In the mountains, they find the Quagmire triplets and learn more about the secret organization.</p>\n</li>\n<li>\n<p><strong>The Grim Grotto</strong>: The siblings discover another clue in a submarine but are again thwarted by Olaf.</p>\n</li>\n<li>\n<p><strong>The Penultimate Peril</strong>: At the Hotel Denouement, secrets are unveiled, and allegiances are tested.</p>\n</li>\n<li>\n<p><strong>The End</strong>: Stranded on an island, the Baudelaires discover its strange inhabitants and confront Olaf one last time. They eventually leave the island, and their ultimate fates are left ambiguous.</p>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Misfortune and Perseverance</strong>: The Baudelaires face constant adversity but always persevere, relying on their unique skills and each other.</p>\n</li>\n<li>\n<p><strong>Moral Ambiguity</strong>: The series often blurs the lines between right and wrong, with the Baudelaires sometimes having to make morally questionable decisions.</p>\n</li>\n<li>\n<p><strong>Secrets and Mysteries</strong>: The Baudelaire family's past is filled with secrets, many connected to a mysterious organization known as V.F.D.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine three siblings constantly facing misfortune, from deadly leeches to terrible guardians, all while trying to solve the mystery of their parents' past. Through a series of darkly comedic and often perilous events, the children confront the evil Count Olaf, discover family secrets, and learn the importance of perseverance and moral integrity.</p>\n<h3>Concise Summary</h3>\n<p>&quot;A Series of Unfortunate Events&quot; follows the Baudelaire orphans as they navigate a series of tragic and mysterious circumstances after the death of their parents. Pursued by the malevolent Count Olaf, who is after their inheritance, the siblings uncover secrets about their family and a clandestine organization. Over thirteen books, the series delves into themes of misfortune, perseverance, and moral ambiguity, all wrapped in a darkly comedic narrative.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "description": "\"Atomic Habits\" by James Clear explores the science of habits, emphasizing the impact of small actions over time. The book outlines the four laws of behavior change: Cue, Craving, Response, and Reward. Clear provides strategies to cultivate good habits and eliminate bad ones, focusing on systems rather than goals. He also discusses advanced tactics and the importance of shaping one's identity based on desired habits.",
+        "evaluation": [
+            {
+                "question": "What are the four laws of behavior change according to James Clear?",
+                "options": [
+                    "Cue, Strategy, Response, Reward",
+                    "Trigger, Motivation, Action, Outcome",
+                    "Cue, Craving, Response, Reward",
+                    "Initiation, Motive, Action, Satisfaction"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "Why does James Clear advocate focusing on systems (habits) over goals?",
+                "options": [
+                    "Goals are unattainable in the long run",
+                    "Habits provide a sense of routine",
+                    "Systems determine progress, while goals set direction",
+                    "Systems are easier to track than goals"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "What is the importance of aligning habits with one's identity?",
+                "options": [
+                    "It helps in gaining social recognition",
+                    "It boosts self-esteem temporarily",
+                    "It makes habits seem more interesting",
+                    "It makes habit adaptation more natural"
+                ],
+                "correctOption": "3"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/la3xjxsqru5rnl7rr6hz.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/bomtnstamxgb3uukbao0.webp",
+        "content": "<p><strong>Detailed Summary</strong>:</p>\n<p><em>&quot;Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones&quot;</em> by James Clear delves into the science of habits and provides actionable advice on how to cultivate good habits and discard detrimental ones. The book's primary message is the transformative power of small habits compounded over time.</p>\n<ol>\n<li>\n<p><strong>The Basics of Habits</strong>:</p>\n<ul>\n<li>Clear begins by explaining the compound growth of habits, highlighting that tiny changes can result in significant outcomes. Think of habits as the compound interest of self-improvement.</li>\n<li>He introduces the concept of the &quot;aggregation of marginal gains,&quot; where improving by just 1% in multiple areas can result in significant overall improvement.</li>\n</ul>\n</li>\n<li>\n<p><strong>Four Laws of Behavior Change</strong>:</p>\n<ul>\n<li>Clear presents a framework based on four laws to build a good habit: <em>Cue, Craving, Response, and Reward</em>.</li>\n<li><em>Cue</em>: What triggers the habit.</li>\n<li><em>Craving</em>: The desire or motivation behind the habit.</li>\n<li><em>Response</em>: The action you take.</li>\n<li><em>Reward</em>: The end benefit of the action.</li>\n</ul>\n</li>\n<li>\n<p><strong>Cultivating Good Habits</strong>:</p>\n<ul>\n<li>To encourage a good habit, Clear suggests making the cue obvious, the craving attractive, the response easy, and the reward satisfying.</li>\n<li>For example, if one wants to cultivate a reading habit, placing books in easily visible places (obvious cue), selecting engaging books (attractive craving), setting a target of just one page a day (easy response), and allowing oneself a treat after reading (satisfying reward) can be effective.</li>\n</ul>\n</li>\n<li>\n<p><strong>Discarding Bad Habits</strong>:</p>\n<ul>\n<li>To break a bad habit, invert the four laws: make the cue invisible, the craving unattractive, the response difficult, and the reward unsatisfying.</li>\n<li>For instance, to reduce screen time, one might keep the phone in another room (invisible cue), remind oneself of the negative effects of excessive screen time (unattractive craving), set a long password (difficult response), and track and limit app usage (unsatisfying reward).</li>\n</ul>\n</li>\n<li>\n<p><strong>Advanced Tactics</strong>:</p>\n<ul>\n<li>Clear also delves into more nuanced tactics like habit stacking (pairing a new habit with an existing one), joining cultures where desired behavior is the norm, and employing accountability partners.</li>\n</ul>\n</li>\n<li>\n<p><strong>Habits vs. Goals</strong>:</p>\n<ul>\n<li>One of the book's powerful arguments is focusing on systems (habits) over goals. While goals are useful for setting direction, it's the systems (daily habits and routines) that determine progress.</li>\n</ul>\n</li>\n<li>\n<p><strong>Identity-Based Habits</strong>:</p>\n<ul>\n<li>Lastly, Clear discusses the importance of shaping one's identity based on desired habits. Instead of saying, &quot;I want to read,&quot; one should say, &quot;I am a reader.&quot; By aligning habits with identity, the process of adaptation becomes more natural.</li>\n</ul>\n</li>\n</ol>\n<hr>\n<p><strong>Concise Summary</strong>:</p>\n<p>&quot;Atomic Habits&quot; by James Clear emphasizes the transformative power of small, daily habits over time. Using the framework of Cue, Craving, Response, and Reward, Clear provides strategies to cultivate good habits and eliminate bad ones. He champions the idea of focusing on systems over goals and aligning habits with one's identity for sustainable change.</p>\n<hr>\n<p>Remember, &quot;Every action you take is a vote for the type of person you wish to become.&quot; – James Clear. A bit of casual humor for you: imagine if all our good habits had a voting system; we'd all be model citizens in no time! 😉</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "Brave New World",
+        "description": "\"Brave New World\" is a dystopian novel set in the World State, a futuristic society where people are produced in hatcheries, conditioned for their roles in life, and kept content through consumerism, promiscuous sex, and a drug called soma. The novel delves into themes of technology, control, individuality, freedom, and the nature of happiness.",
+        "evaluation": [
+            {
+                "question": "What is the primary method of maintaining control in the World State?",
+                "options": [
+                    "Religious indoctrination",
+                    "Consumerism",
+                    "Genetic engineering and conditioning",
+                    "Military force"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "Who is Bernard Marx in the novel?",
+                "options": [
+                    "The World Controller",
+                    "A character born in the Savage Reservation",
+                    "An Alpha Plus who feels out of place",
+                    "The inventor of soma"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "What role does the drug soma play in the society depicted in the novel?",
+                "options": [
+                    "It's a powerful weapon used in warfare.",
+                    "It's a means of controlling the weather.",
+                    "It's a hallucinogenic drug that keeps people content.",
+                    "It's a type of transportation used for long journeys."
+                ],
+                "correctOption": "2"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/dhmh2uu6rrazwynhyomi.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/pyq28es0oz9wc7iuwrcf.webp",
+        "content": "<h3>Extended Summary of &quot;Brave New World&quot; by Aldous Huxley</h3>\n<h4>Overview</h4>\n<p>&quot;Brave New World&quot; is a dystopian novel set in the World State, a futuristic society where people are produced in hatcheries, conditioned for their roles in life, and kept content through consumerism, promiscuous sex, and a drug called soma. The novel delves into themes of technology, control, individuality, freedom, and the nature of happiness.</p>\n<h4>Plot Breakdown</h4>\n<ul>\n<li>\n<p><strong>Introduction to the World State</strong>: The novel begins with a tour of the Central London Hatchery and Conditioning Centre, where humans are artificially produced and conditioned for their roles in society. There are different castes, from the intelligent Alphas to the menial Epsilons.</p>\n</li>\n<li>\n<p><strong>Bernard Marx</strong>: Bernard, an Alpha, feels out of place due to his smaller stature and individualistic thinking. He's attracted to Lenina Crowne, a Beta, but is uncomfortable with the society's casual approach to sex.</p>\n</li>\n<li>\n<p><strong>Visit to the Savage Reservations</strong>: Bernard and Lenina visit a Savage Reservation, a place outside the World State where people live primitively. There, they meet John, the &quot;Savage,&quot; who was born on the Reservation but is the son of two citizens of the World State.</p>\n</li>\n<li>\n<p><strong>John's Struggle</strong>: Bernard brings John back to the World State. John becomes a sensation due to his unfamiliarity with the society's ways. He struggles with the values of the World State, especially after witnessing his mother's death in a soma-induced stupor.</p>\n</li>\n<li>\n<p><strong>Climax</strong>: John's rebellion against the World State culminates in a confrontation with Mustapha Mond, one of the World Controllers. Mond argues that the society's approach—sacrificing individuality, emotions, and true art for stability and happiness—is justified.</p>\n</li>\n<li>\n<p><strong>Conclusion</strong>: Unable to reconcile with the values of the World State, and devastated by the death of his mother and his own actions under soma's influence, John isolates himself. However, his desire for penance becomes a public spectacle, leading him to take a tragic decision to end his life.</p>\n</li>\n</ul>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Control and Conditioning</strong>: The World State maintains control through genetic engineering, conditioning, and the suppression of individual desires and emotions. This raises questions about the cost of stability and uniformity.</p>\n</li>\n<li>\n<p><strong>Nature of Happiness</strong>: The citizens of the World State are content, but their happiness is superficial, achieved through drugs and the suppression of negative emotions and experiences.</p>\n</li>\n<li>\n<p><strong>Individuality vs. Conformity</strong>: Characters like Bernard and John grapple with their individual desires and beliefs in a society that values conformity above all.</p>\n</li>\n<li>\n<p><strong>The Role of Technology</strong>: The World State uses advanced technology to control every aspect of human life, from birth to death, raising concerns about the dehumanizing effects of technological advancement.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine a world where natural birth is obsolete, where people are conditioned to accept their roles without question, and where a drug ensures everyone remains perpetually content. &quot;Brave New World&quot; presents such a society, exploring the consequences of sacrificing individuality, emotion, and true freedom for the sake of stability and superficial happiness. Through the eyes of Bernard, Lenina, and John, the novel delves into the tension between individual desires and societal expectations, posing profound questions about the nature of happiness, freedom, and humanity.</p>\n<h3>Concise Summary</h3>\n<p>&quot;Brave New World&quot; by Aldous Huxley is a dystopian novel set in a future society where people are artificially produced, conditioned for specific roles, and kept content through consumerism and a drug called soma. The story follows Bernard Marx, an outcast in this society, and John, the &quot;Savage,&quot; who was born outside the World State's controls. As they grapple with the values of this world, the novel delves into themes of individuality, the nature of happiness, and the consequences of unchecked technological advancement.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "Bridgerton Series",
+        "description": "The \"Bridgerton\" series by Julia Quinn is a collection of historical romance novels set in Regency-era London. The series revolves around the Bridgerton family, consisting of eight siblings, with each book primarily focusing on one sibling's romantic endeavors. The books in the series include: 'The Duke and I,' 'The Viscount Who Loved Me,' 'An Offer from a Gentleman,' 'Romancing Mister Bridgerton,' 'To Sir Phillip, With Love,' 'When He Was Wicked,' 'It's in His Kiss,' and 'On the Way to the Wedding.' The series explores themes of love, family dynamics, and societal expectations against the backdrop of London's high society in the 1800s.",
+        "evaluation": [
+            {
+                "question": "Which Bridgerton sibling is the focus of the first book, 'The Duke and I'?",
+                "options": [
+                    "Anthony Bridgerton",
+                    "Benedict Bridgerton",
+                    "Daphne Bridgerton",
+                    "Eloise Bridgerton"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "Who is the mysterious gossip columnist who influences characters' reputations in the series?",
+                "options": [
+                    "Lady Whistledown",
+                    "Sir Reginald Gossipington",
+                    "Lord Rumormonger",
+                    "Miss Tattletale"
+                ],
+                "correctOption": "0"
+            },
+            {
+                "question": "In which time period is the 'Bridgerton' series set?",
+                "options": [
+                    "Victorian era",
+                    "Medieval era",
+                    "Regency-era London",
+                    "Renaissance era"
+                ],
+                "correctOption": "2"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/b4o2lve5fubttgksbkq5.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/u8hvpoks3i8qrfwhwacw.webp",
+        "content": "<h3>Summary of the &quot;Bridgerton&quot; Series by Julia Quinn</h3>\n<h4>Overview</h4>\n<p>The &quot;Bridgerton&quot; series is a collection of historical romance novels set in Regency-era London. The series revolves around the Bridgerton family, which consists of eight siblings. Each book primarily focuses on one sibling's romantic endeavors, with overarching family dynamics and societal events woven throughout.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>The Duke and I (Daphne's story)</strong>: Daphne Bridgerton enters into a ruse with Simon Basset, the Duke of Hastings, to appear as a couple. This arrangement benefits both, but they eventually fall in love for real, facing various challenges along the way.</p>\n</li>\n<li>\n<p><strong>The Viscount Who Loved Me (Anthony's story)</strong>: Anthony Bridgerton, the eldest sibling and viscount, decides to settle down and marry. He pursues Edwina Sheffield but ends up falling for her older, more headstrong sister, Kate.</p>\n</li>\n<li>\n<p><strong>An Offer from a Gentleman (Benedict's story)</strong>: Inspired by Cinderella, this story follows Benedict Bridgerton's romance with Sophie Beckett, a servant who once was a lady, as they navigate societal expectations and class differences.</p>\n</li>\n<li>\n<p><strong>Romancing Mister Bridgerton (Penelope and Colin's story)</strong>: Penelope Featherington has been in love with her best friend's brother, Colin Bridgerton, for years. As secrets unravel, their relationship takes a romantic turn.</p>\n</li>\n<li>\n<p><strong>To Sir Phillip, With Love (Eloise's story)</strong>: After corresponding through letters, Eloise Bridgerton meets Sir Phillip Crane, a widower with two children. Their relationship develops as they navigate personal baggage and familial responsibilities.</p>\n</li>\n<li>\n<p><strong>When He Was Wicked (Francesca's story)</strong>: Francesca Bridgerton, a widow, finds love again with Michael Stirling, her late husband's cousin, but their relationship is fraught with guilt and societal judgment.</p>\n</li>\n<li>\n<p><strong>It's in His Kiss (Hyacinth's story)</strong>: The spirited Hyacinth Bridgerton gets involved with Gareth St. Clair, primarily due to a mysterious diary written in Italian. As they seek to translate it, their relationship deepens.</p>\n</li>\n<li>\n<p><strong>On the Way to the Wedding (Gregory's story)</strong>: Gregory Bridgerton believes in true love and thinks he's found it with Hermione Watson. However, it's Hermione's best friend, Lucy Abernathy, who might be his real match.</p>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Love and Marriage</strong>: Each novel explores the complexities of love, from arranged marriages to hidden affections, set against the backdrop of Regency-era societal norms.</p>\n</li>\n<li>\n<p><strong>Family Dynamics</strong>: The close-knit Bridgerton family is central to the series, with siblings often appearing in each other's stories, offering advice, or causing mischief.</p>\n</li>\n<li>\n<p><strong>Society and Gossip</strong>: The mysterious gossip columnist, Lady Whistledown, provides commentary on societal events, influencing characters' reputations and decisions.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine the glamour and intrigue of London's high society in the 1800s, where ballroom dances, secret letters, and whispered rumors dictate one's reputation. The &quot;Bridgerton&quot; series immerses readers in this world, following the romantic escapades of the Bridgerton siblings as they navigate love, family, and societal expectations.</p>\n<h3>Concise Summary</h3>\n<p>The &quot;Bridgerton&quot; series by Julia Quinn is a set of historical romance novels centered on the Bridgerton family in Regency-era London. Each book follows a different sibling's journey to find love amidst societal pressures, family dynamics, and the ever-watchful eye of the gossip columnist, Lady Whistledown. The series delves into themes of love, reputation, and family, offering a blend of romance, drama, and humor.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "Dune Series",
+        "description": "The \"Dune\" series by Frank Herbert is a collection of science fiction novels set in a distant future where interstellar travel and political intrigue revolve around a desert planet named Arrakis, the only source of the spice melange. The series delves into themes of politics, religion, ecology, and human evolution. The books in the series include 'Dune,' 'Dune Messiah,' 'Children of Dune,' 'God Emperor of Dune,' 'Heretics of Dune,' and 'Chapterhouse: Dune.'",
+        "evaluation": [
+            {
+                "question": "Who is the central character in the first book of the 'Dune' series?",
+                "options": [
+                    "Leto II",
+                    "Paul Atreides",
+                    "Sheeana",
+                    "Alia"
+                ],
+                "correctOption": "1"
+            },
+            {
+                "question": "What is the spice melange's primary significance in the 'Dune' series?",
+                "options": [
+                    "Extended life",
+                    "Interstellar travel",
+                    "Superhuman strength",
+                    "Telepathy"
+                ],
+                "correctOption": "0"
+            },
+            {
+                "question": "What is the central theme explored in the 'Dune' series?",
+                "options": [
+                    "Romance and love",
+                    "Space exploration",
+                    "Politics and power",
+                    "Time travel"
+                ],
+                "correctOption": "2"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/hnuvxnn9x2orisu8gex2.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/h78kfkgsltu5k7te64tq.webp",
+        "content": "<h3>Summary of the &quot;Dune&quot; Series by Frank Herbert</h3>\n<h4>Overview</h4>\n<p>The &quot;Dune&quot; series is a collection of science fiction novels set in a distant future where interstellar travel and political intrigue revolve around a desert planet named Arrakis (or Dune). This planet is the only source of the spice melange, a substance that grants extended life, heightened consciousness, and is vital for space navigation. The series delves into themes of politics, religion, ecology, and human evolution.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>Dune</strong>: Paul Atreides, a young noble, and his family are entrusted with the governance of Arrakis. Betrayed by the rival Harkonnen family and the Galactic Emperor, Paul becomes a messianic figure among the planet's native Fremen and leads a rebellion.</p>\n</li>\n<li>\n<p><strong>Dune Messiah</strong>: Set a few years after &quot;Dune,&quot; Paul's empire faces internal and external threats. He grapples with his prescient visions, the consequences of his leadership, and a conspiracy to topple his rule.</p>\n</li>\n<li>\n<p><strong>Children of Dune</strong>: Paul's twin children, Leto II and Ghanima, become central figures. With Paul missing, they navigate political intrigue and face a religious figure named Alia, their aunt, who's being corrupted by her powers.</p>\n</li>\n<li>\n<p><strong>God Emperor of Dune</strong>: Thousands of years later, Leto II has transformed into a sandworm-human hybrid and rules as a god-emperor. The novel explores his tyrannical yet purposeful rule and the eventual challenges to his reign.</p>\n</li>\n<li>\n<p><strong>Heretics of Dune</strong>: Set 1,500 years after Leto II's death, the universe is different, with new powers like the Bene Gesserit sisterhood and the Honored Matres. The story follows a young girl named Sheeana, who can control sandworms, and the return of Arrakis as a central location.</p>\n</li>\n<li>\n<p><strong>Chapterhouse: Dune</strong>: Continues from &quot;Heretics,&quot; focusing on the conflict between the Bene Gesserit and the Honored Matres. The Bene Gesserit aim to merge the two groups, while also planning to find a new world to replace Dune, which has been destroyed.</p>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Power and Politics</strong>: The series delves deep into the intricacies of political maneuvering, betrayals, and the nature of power.</p>\n</li>\n<li>\n<p><strong>Religion and Prophecy</strong>: The rise of Paul as a messianic figure and the religious fervor surrounding the sandworms and the spice are central to the narrative.</p>\n</li>\n<li>\n<p><strong>Ecology</strong>: Arrakis's desert ecosystem, the life cycle of the sandworms, and the Fremen's dream of terraforming the planet play significant roles.</p>\n</li>\n<li>\n<p><strong>Human Evolution and Identity</strong>: From the Bene Gesserit's breeding program to Leto II's transformation, the series explores humanity's potential paths and the consequences of playing with genetics.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine a universe where a single desert planet holds the key to immense power, not just because of its resources but due to its influence on religion, politics, and human evolution. The &quot;Dune&quot; series is a sprawling epic that delves into this universe, exploring complex characters, intricate political plots, and profound philosophical questions.</p>\n<h3>Concise Summary</h3>\n<p>The &quot;Dune&quot; series by Frank Herbert is a science fiction saga set in a distant future centered on the desert planet Arrakis. The narrative follows the Atreides family, especially Paul Atreides, as they navigate political betrayals, prophecies, and the immense significance of the spice melange. Across the series, themes of power, religion, ecology, and human evolution are explored, set against the backdrop of a richly detailed and politically charged universe.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "Fifty Shades Series",
+        "description": "The \"Fifty Shades\" series by E.L. James is a trilogy of erotic romance novels that follow the relationship between Anastasia Steele and Christian Grey. The series delves into themes of love, desire, and the exploration of BDSM in their relationship. The books in the series include 'Fifty Shades of Grey,' 'Fifty Shades Darker,' and 'Fifty Shades Freed.'",
+        "evaluation": [
+            {
+                "question": "What is the central theme explored in the 'Fifty Shades' series?",
+                "options": [
+                    "Family dynamics",
+                    "Time travel",
+                    "BDSM and desire",
+                    "Science fiction"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "What is the name of the male protagonist in the series?",
+                "options": [
+                    "Christian Grey",
+                    "Edward Cullen",
+                    "Anastasia Steele",
+                    "Ethan Hunt"
+                ],
+                "correctOption": "0"
+            },
+            {
+                "question": "What is the profession of the female protagonist, Anastasia Steele, in the series?",
+                "options": [
+                    "Lawyer",
+                    "Doctor",
+                    "Journalist",
+                    "Literature student"
+                ],
+                "correctOption": "3"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/yug3vws0ybelmezjqkpa.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/jnwrubqxn61hlmliwtpd.webp",
+        "content": "<h3>Summary of the &quot;Fifty Shades&quot; Series by E.L. James</h3>\n<h4>Overview</h4>\n<p>The &quot;Fifty Shades&quot; series is a trilogy of erotic romance novels that follow the relationship between a young college graduate, Anastasia Steele, and a young business magnate, Christian Grey. The series delves into themes of love, desire, and the exploration of BDSM in their relationship.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>Fifty Shades of Grey</strong>: Anastasia Steele, a literature student, interviews Christian Grey for her college newspaper. They are instantly attracted to each other. As they begin a relationship, Ana discovers Christian's desire for BDSM and his need for control in their intimate relationship. The book delves into Ana's struggle with Christian's sexual desires and her exploration of her own boundaries.</p>\n</li>\n<li>\n<p><strong>Fifty Shades Darker</strong>: After ending their relationship due to the intense nature of Christian's sexual preferences, Ana and Christian reconcile. As they try to build a more traditional relationship, figures from Christian's past emerge, posing threats to their future together. The novel delves deeper into Christian's traumatic past and how it affects his relationships.</p>\n</li>\n<li>\n<p><strong>Fifty Shades Freed</strong>: Now married, Ana and Christian face challenges in their relationship, including issues of trust, past traumas, and external threats. The story culminates in them navigating these challenges to find a deeper understanding and commitment to each other.</p>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Love and Desire</strong>: The series explores the complexities of love and desire, particularly how they intersect and sometimes conflict.</p>\n</li>\n<li>\n<p><strong>Control and Submission</strong>: Central to the narrative is the BDSM relationship between Ana and Christian, which serves as a metaphor for control, trust, and vulnerability in relationships.</p>\n</li>\n<li>\n<p><strong>Past Traumas</strong>: Both protagonists grapple with past traumas that influence their behaviors and choices in the relationship.</p>\n</li>\n<li>\n<p><strong>Identity and Self-Discovery</strong>: Ana's journey is also one of self-discovery, as she navigates her own desires, boundaries, and identity in the context of her relationship with Christian.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine a whirlwind romance that delves deep into the complexities of attraction, boundaries, and exploration of desires. The &quot;Fifty Shades&quot; series takes readers on a journey through the passionate and tumultuous relationship between Ana and Christian, exploring themes of love, trust, and personal growth against the backdrop of an erotic romance.</p>\n<h3>Concise Summary</h3>\n<p>The &quot;Fifty Shades&quot; series by E.L. James chronicles the intense and erotic relationship between Anastasia Steele and Christian Grey. Starting with an instant attraction, the trilogy delves into their exploration of BDSM, challenges stemming from Christian's traumatic past, and Ana's journey of self-discovery. Throughout the series, themes of love, desire, trust, and identity are explored, set against the backdrop of a passionate romance.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "Foundation Series",
+        "description": "The \"Foundation\" series by Isaac Asimov is a science fiction saga that chronicles the predicted fall of the Galactic Empire and the establishment of two \"Foundations\" to preserve knowledge and reduce the ensuing dark age. Using the concept of \"psychohistory,\" a science that predicts the future, the series explores the challenges the Foundations face over millennia, from external threats to internal corruption, and the tension between predetermined fate and individual agency. The narrative spans from the life of psychohistory's creator, Hari Seldon, to the far-reaching consequences of his predictions. The series include the following books: 'Foundation', 'Foundation and Empire', 'Second Foundation', 'Foundation's Edge' and 'Foundation and Earth'",
+        "evaluation": [
+            {
+                "question": "What scientific concept is central to the \"Foundation\" series?",
+                "options": [
+                    "Astrology",
+                    "Psychohistory",
+                    "Alchemy",
+                    "Quantum physics"
+                ],
+                "correctOption": "1"
+            },
+            {
+                "question": "What is the primary goal of the two \"Foundations\" established by Hari Seldon?",
+                "options": [
+                    "To conquer the galaxy",
+                    "To develop advanced technology",
+                    "To preserve knowledge and shorten the dark age",
+                    "To establish a utopian society"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "What is the central theme that the series explores?",
+                "options": [
+                    "Love and romance",
+                    "Fate and free will",
+                    "Time travel",
+                    "Exploration of new worlds"
+                ],
+                "correctOption": "1"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/aincfjdimpbdngoko68t.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/cf8wdm9ltviddldibpt5.webp",
+        "content": "<h3>Summary of the &quot;Foundation&quot; Series by Isaac Asimov</h3>\n<h4>Overview</h4>\n<p>The &quot;Foundation&quot; series is a set of science fiction novels that span thousands of years, chronicling the rise and fall of the Galactic Empire and the scientific effort to shorten the ensuing dark age. The series is built around the concept of &quot;psychohistory,&quot; a fictional science that combines history, sociology, and statistical mathematics to predict the future on a large scale.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>Foundation</strong>: The mathematician Hari Seldon predicts the fall of the Galactic Empire and a subsequent 30,000-year dark age. To mitigate this, he establishes two &quot;Foundations&quot; at opposite ends of the galaxy. The first Foundation focuses on the physical sciences, and its early years are chronicled in five short stories.</p>\n</li>\n<li>\n<p><strong>Foundation and Empire</strong>: This book is divided into two parts. The first deals with the Foundation's conflict with a fading Galactic Empire. The second introduces a character known as the Mule, a mutant who can alter emotions, and his unexpected disruption of Seldon's plan.</p>\n</li>\n<li>\n<p><strong>Second Foundation</strong>: After the Mule's reign, the search for the mysterious Second Foundation, which focuses on the mental sciences and can manipulate minds, becomes central. The First Foundation wants to find and eliminate it, believing it to be a threat.</p>\n</li>\n<li>\n<p><strong>Foundation's Edge</strong>: Set several centuries after the first books, the two Foundations have become powerful. Golan Trevize, a councilman of the First Foundation, is sent on a quest to find Earth and, in doing so, discovers the true nature of the two Foundations.</p>\n</li>\n<li>\n<p><strong>Foundation and Earth</strong>: Continuing Trevize's journey, this novel delves into his search for Earth and the reason behind his decision at the end of &quot;Foundation's Edge.&quot;</p>\n</li>\n<li>\n<p><strong>Prelude to Foundation</strong>: A prequel to the series, this book focuses on Hari Seldon, a young mathematician, as he develops the concept of psychohistory and becomes a threat to the reigning emperor.</p>\n</li>\n<li>\n<p><strong>Forward the Foundation</strong>: This sequel to &quot;Prelude&quot; and prequel to &quot;Foundation&quot; further explores Seldon's life, the development of psychohistory, and the establishment of the two Foundations.</p>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Fate and Free Will</strong>: The series grapples with the tension between the predetermined course of history (as predicted by psychohistory) and individual free will.</p>\n</li>\n<li>\n<p><strong>Science and Knowledge</strong>: The power of knowledge, especially in the form of the Encyclopedia Galactica and psychohistory, is a recurring theme.</p>\n</li>\n<li>\n<p><strong>Power and Corruption</strong>: The rise and fall of empires, the influence of the Mule, and the manipulations of the Second Foundation all explore the dynamics of power.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine a future where the entire galaxy is ruled by a single empire, but its downfall is imminent. A mathematician predicts this decline and the subsequent dark age, and he devises a grand plan to save humanity's collective knowledge and reduce the period of chaos. The &quot;Foundation&quot; series delves into this vast, intricate universe, exploring the interplay of fate, knowledge, and power.</p>\n<h3>Concise Summary</h3>\n<p>The &quot;Foundation&quot; series by Isaac Asimov is a science fiction saga that chronicles the predicted fall of the Galactic Empire and the establishment of two &quot;Foundations&quot; to preserve knowledge and reduce the ensuing dark age. Using the concept of &quot;psychohistory,&quot; a science that predicts the future, the series explores the challenges the Foundations face over millennia, from external threats to internal corruption, and the tension between predetermined fate and individual agency. The narrative spans from the life of psychohistory's creator, Hari Seldon, to the far-reaching consequences of his predictions.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "Harry Potter Series",
+        "description": "The \"Harry Potter\" series, consisting of seven books, follows the life of a young wizard, Harry Potter, as he attends Hogwarts School, forms deep friendships, and battles the dark wizard Voldemort. The series includes the following books: 'Harry Potter and the Sorcerer's Stone,' 'Harry Potter and the Chamber of Secrets,' 'Harry Potter and the Prisoner of Azkaban,' 'Harry Potter and the Goblet of Fire,' 'Harry Potter and the Order of the Phoenix,' 'Harry Potter and the Half-Blood Prince,' and 'Harry Potter and the Deathly Hallows.' Over these seven books, Harry faces challenges of love, loyalty, prejudice, and sacrifice, culminating in a final showdown between good and evil. The series is a magical journey of growth, adventure, and the enduring power of friendship and love.",
+        "evaluation": [
+            {
+                "question": "What is the central plot of the \"Harry Potter\" series?",
+                "options": [
+                    "Harry's quest to become the most powerful wizard.",
+                    "Ron, Hermione, and Harry's adventures at Hogwarts.",
+                    "Harry's struggle against the dark wizard Voldemort.",
+                    "Harry's journey to find his long-lost family."
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "What is the significance of the power of love in the series?",
+                "options": [
+                    "It has no significance in the story.",
+                    "It is the source of Voldemort's power.",
+                    "It is a central theme, contrasting with Voldemort's quest for power.",
+                    "It is a type of magical spell in the wizarding world."
+                ],
+                "correctOption": "3"
+            },
+            {
+                "question": "Who is the primary antagonist of the series?",
+                "options": [
+                    "Sirius Black",
+                    "Cedric Diggory",
+                    "Dolores Umbridge",
+                    "Lord Voldemort"
+                ],
+                "correctOption": "4"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/vy3vizggrhtupqtuxyee.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/bakmvlfihsmauz8bpmtu.webp",
+        "content": "<h3>Summary of the &quot;Harry Potter&quot; Series by J.K. Rowling</h3>\n<h4>Overview</h4>\n<p>The &quot;Harry Potter&quot; series consists of seven books that chronicle the life and adventures of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley. The series is set in the magical world, where they attend Hogwarts School of Witchcraft and Wizardry. The main plot concerns Harry's struggle against the dark wizard Lord Voldemort, who aims to become immortal and conquer the wizarding world.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>Harry Potter and the Sorcerer's Stone</strong>: Harry discovers he's a wizard on his 11th birthday. At Hogwarts, he learns about the Sorcerer's Stone, which grants immortality. With his friends, he prevents Voldemort from getting it.</p>\n</li>\n<li>\n<p><strong>Harry Potter and the Chamber of Secrets</strong>: Harry returns to Hogwarts and finds the school plagued by a series of mysterious attacks. He discovers an old diary of Tom Riddle (Voldemort's teenage self) and a hidden chamber within the school. Harry confronts and defeats a basilisk, saving Ginny Weasley's life.</p>\n</li>\n<li>\n<p><strong>Harry Potter and the Prisoner of Azkaban</strong>: The notorious Sirius Black escapes from Azkaban prison. Harry learns that Black is his godfather and was wrongfully imprisoned. Together, they uncover the truth about the night Harry's parents died.</p>\n</li>\n<li>\n<p><strong>Harry Potter and the Goblet of Fire</strong>: Harry is unexpectedly entered into the Triwizard Tournament. The tournament ends with the return of Voldemort to full power, and the death of a fellow student, Cedric Diggory.</p>\n</li>\n<li>\n<p><strong>Harry Potter and the Order of the Phoenix</strong>: Harry and his friends form &quot;Dumbledore's Army&quot; to fight against the oppressive regime of Dolores Umbridge at Hogwarts. Harry has a vision of his godfather being tortured and rushes to save him, only to find it's a trap. Sirius Black dies in the ensuing battle.</p>\n</li>\n<li>\n<p><strong>Harry Potter and the Half-Blood Prince</strong>: Harry learns about Voldemort's Horcruxes, objects containing pieces of his soul. Dumbledore is killed by Snape, leaving Harry devastated.</p>\n</li>\n<li>\n<p><strong>Harry Potter and the Deathly Hallows</strong>: Harry, Ron, and Hermione go on a quest to destroy the Horcruxes. This culminates in the Battle of Hogwarts, where many characters die, but Voldemort is finally defeated.</p>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Friendship and Loyalty</strong>: The bond between Harry, Ron, and Hermione is central to the series.</p>\n</li>\n<li>\n<p><strong>Love vs. Power</strong>: The power of love, especially the love Harry's mother had for him, is contrasted against Voldemort's quest for power.</p>\n</li>\n<li>\n<p><strong>Prejudice</strong>: The series addresses issues of prejudice and discrimination, especially through characters like Hermione, who fights for the rights of oppressed magical creatures.</p>\n</li>\n<li>\n<p><strong>Death and Sacrifice</strong>: The series doesn't shy away from the topics of death and the sacrifices made for the greater good.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine a world where magic is real, and a young boy discovers he's destined to be a powerful wizard. As he grows, he faces not just the challenges of school and adolescence but also the looming threat of a dark wizard who wants to rule the world. Through battles, friendships, and heartbreak, the boy becomes a hero.</p>\n<h3>Concise Summary</h3>\n<p>The &quot;Harry Potter&quot; series follows the life of a young wizard, Harry Potter, as he attends Hogwarts School, forms deep friendships, and battles the dark wizard Voldemort. Over seven books, Harry faces challenges of love, loyalty, prejudice, and sacrifice, culminating in a final showdown between good and evil. The series is a magical journey of growth, adventure, and the enduring power of friendship and love.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "IT",
+        "description": "\"IT\" is a horror novel set in the fictional town of Derry, Maine. The narrative alternates between two time periods: the 1950s and the 1980s. The story revolves around a group of children, known as the Losers' Club, who confront a malevolent entity that preys on the town's children. This entity, often appearing as Pennywise the Dancing Clown, is not just a physical being but a manifestation of the town's deeper evils.",
+        "evaluation": [
+            {
+                "question": "What is the recurring cycle of IT's appearances in Derry?",
+                "options": [
+                    "Every 27 years",
+                    "Every 10 years",
+                    "Every full moon",
+                    "Random and unpredictable"
+                ],
+                "correctOption": "0"
+            },
+            {
+                "question": "Who among the Losers' Club takes their own life as adults rather than face IT again?",
+                "options": [
+                    "Eddie",
+                    "Richie",
+                    "Bill",
+                    "Stan"
+                ],
+                "correctOption": "3"
+            },
+            {
+                "question": "What is the true form of IT that the Losers confront in the metaphysical realm?",
+                "options": [
+                    "A giant spider",
+                    "A demonic clown",
+                    "A shapeless, shadowy entity",
+                    "A cosmic being of light"
+                ],
+                "correctOption": "0"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/odcdlepkc9rj9rggof38.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/ef8nibpktsm0bio4kplh.webp",
+        "content": "<h3>Extended Summary of &quot;IT&quot; by Stephen King</h3>\n<h4>Overview</h4>\n<p>&quot;IT&quot; is a horror novel set in the fictional town of Derry, Maine. The narrative alternates between two time periods: the 1950s and the 1980s. The story revolves around a group of children, known as the Losers' Club, who confront a malevolent entity that preys on the town's children. This entity, often appearing as Pennywise the Dancing Clown, is not just a physical being but a manifestation of the town's deeper evils.</p>\n<h4>Plot Breakdown</h4>\n<ul>\n<li>\n<p><strong>1950s - Childhood Encounters</strong>:</p>\n<ul>\n<li>The Losers' Club, consisting of Bill, Beverly, Ben, Eddie, Mike, Richie, and Stan, come together due to shared experiences of being outcasts and facing a common enemy: both the local bullies and the mysterious entity.</li>\n<li>Each child has a terrifying encounter with IT, seeing the creature in various forms tailored to their individual fears.</li>\n<li>The group discovers that IT resurfaces roughly every 27 years in Derry, causing a spike in violence and child disappearances.</li>\n<li>Using Bill's little brother Georgie's death as a rallying point (Georgie was killed by IT), the children confront IT in its lair beneath Derry, wounding the creature and forcing it into hibernation.</li>\n</ul>\n</li>\n<li>\n<p><strong>1980s - The Return</strong>:</p>\n<ul>\n<li>Mike, the only member of the Losers' Club to remain in Derry, notices the pattern of child disappearances resuming. He contacts the other members, who have mostly forgotten the events of their childhood due to IT's influence.</li>\n<li>As the Losers return to Derry, memories of their childhood and the horrors they faced resurface.</li>\n<li>Henry Bowers, one of the bullies from their childhood who was driven mad by IT, escapes from a mental institution and attempts to kill the Losers on IT's behalf.</li>\n<li>The group descends once again into the sewers to confront IT. They discover IT's true form as a cosmic spider-like entity. Through a psychic ritual, they confront IT in the metaphysical realm and finally destroy the creature.</li>\n</ul>\n</li>\n<li>\n<p><strong>Aftermath</strong>:</p>\n<ul>\n<li>After the final confrontation, the Losers start to forget about IT and their shared experiences once again. The bonds they formed in childhood, rekindled in adulthood, begin to fade.</li>\n<li>Eddie dies during the final confrontation, and Stan, unable to face the return to Derry, takes his own life before the reunion.</li>\n<li>The novel concludes with the remaining members of the Losers' Club going their separate ways, but with a deeper sense of closure and peace.</li>\n</ul>\n</li>\n</ul>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>The Power of Memory</strong>: The novel delves into the nature of memory, especially childhood memories, and how they shape our adult lives.</p>\n</li>\n<li>\n<p><strong>Fear and Evil</strong>: IT's power is derived from fear. The creature often takes the form of whatever its victim fears the most.</p>\n</li>\n<li>\n<p><strong>Friendship and Unity</strong>: The bond between the members of the Losers' Club is central to the narrative. Their unity gives them the strength to confront and defeat IT.</p>\n</li>\n<li>\n<p><strong>The Loss of Innocence</strong>: The transition from childhood to adulthood, with all its associated traumas and challenges, is a recurring theme.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>&quot;IT&quot; is a chilling exploration of fear, set in a town haunted by a malevolent entity that feeds on the terror of its inhabitants, especially children. Through the eyes of seven friends, the story unfolds over two time periods, capturing their initial confrontation with the creature in their youth and their return as adults to face IT once more. Beyond the horror, the novel delves deep into the power of memory, the bonds of friendship, and the loss of innocence, painting a vivid picture of the challenges and traumas of growing up.</p>\n<h3>Concise Summary</h3>\n<p>Stephen King's &quot;IT&quot; is a horror epic set in Derry, Maine, where a group of friends confronts a shape-shifting entity that preys on children's fears. Alternating between the 1950s and the 1980s, the story follows the Losers' Club, first as children and then as adults, as they face the terror of IT, often manifested as Pennywise the Clown. Beyond the supernatural horror, the novel delves into themes of memory, friendship, and the transition from childhood to adulthood.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "Jack Reacher Series",
+        "description": "The \"Jack Reacher\" series by Lee Child follows the adventures of former military policeman Jack Reacher as he drifts across the U.S., often finding himself embroiled in mysteries, conspiracies, and action-packed situations. Operating on his own moral code, Reacher delivers justice in his own way, using his military training and sharp intellect to tackle challenges and confront adversaries. The series blends thrilling action with intricate plots, making it a staple in modern thriller literature. The series includes the following books:  'Killing Floor', 'Die Trying', 'Tripwire', 'The Visitor', 'Echo Burning', 'Without Fail', 'Persuader','The Enemy', 'One Shot', 'The Hard Way', 'Bad Luck and Trouble', 'Nothing to Lose', 'Gone Tomorrow', '61 Hours', 'Worth Dying For', 'The Affair', 'A Wanted Man', 'Never Go Back', 'Personal', 'Make Me', 'Night School', 'The Midnight Line', 'Past Tense' and 'Blue Moon'",
+        "evaluation": [
+            {
+                "question": "What is Jack Reacher's background before becoming a drifter?",
+                "options": [
+                    "FBI agent",
+                    "CIA operative",
+                    "Major in the U.S. Army Military Police Corps",
+                    "Police detective"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "What is a recurring theme in the Jack Reacher series?",
+                "options": [
+                    "Romantic relationships",
+                    "Justice and morality",
+                    "Science fiction elements",
+                    "Historical mysteries"
+                ],
+                "correctOption": "1"
+            },
+            {
+                "question": "How does Jack Reacher usually solve problems?",
+                "options": [
+                    "By following the law to the letter",
+                    "Through negotiation and diplomacy",
+                    "Using his military training and sharp intellect",
+                    "By avoiding confrontations"
+                ],
+                "correctOption": "3"
+            }
+        ],
+        "content": "<h3>Summary of the &quot;Jack Reacher&quot; Series by Lee Child</h3>\n<h4>Overview</h4>\n<p>The &quot;Jack Reacher&quot; series is a collection of thriller novels centered around the character Jack Reacher, a former major in the U.S. Army Military Police Corps. After leaving the service, Reacher becomes a drifter, traveling the United States without any fixed address or ties. Despite his aim to live a quiet life, he often finds himself embroiled in various adventures and mysteries, using his military skills to dispense justice.</p>\n<h4>Notable Entries (Given the extensive nature of the series, here are some highlights):</h4>\n<ol>\n<li>\n<p><strong>Killing Floor</strong>: The first novel introduces Reacher as he's arrested for a murder he didn't commit in the small town of Margrave, Georgia. He unravels a counterfeit money conspiracy and seeks revenge for his brother's murder.</p>\n</li>\n<li>\n<p><strong>Die Trying</strong>: Reacher becomes a hostage alongside an FBI agent when a militia group kidnaps them. He must use his wits and strength to escape and thwart their plans.</p>\n</li>\n<li>\n<p><strong>Without Fail</strong>: Reacher is hired by the Secret Service to test the Vice President's protection detail's efficacy. He stumbles upon a real assassination plot in the process.</p>\n</li>\n<li>\n<p><strong>Persuader</strong>: Reacher infiltrates a criminal operation to settle a personal score with a man from his past, leading to a confrontation with a drug kingpin.</p>\n</li>\n<li>\n<p><strong>The Midnight Line</strong>: Reacher's discovery of a West Point class ring in a pawn shop sets him on a quest to find its owner and uncovers a criminal operation exploiting veterans.</p>\n</li>\n<li>\n<p><strong>Past Tense</strong>: Reacher visits his father's hometown and becomes involved in a mystery connecting his family's past with a present-day threat.</p>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Justice and Morality</strong>: Reacher operates on his own moral code, often delivering justice outside the confines of the law.</p>\n</li>\n<li>\n<p><strong>Lone Hero</strong>: Embodying the archetype of the wandering hero, Reacher drifts from place to place, solving problems and righting wrongs.</p>\n</li>\n<li>\n<p><strong>Conspiracy and Corruption</strong>: Many of the novels involve Reacher uncovering vast conspiracies or instances of corruption, often linked to powerful individuals or organizations.</p>\n</li>\n<li>\n<p><strong>Military Precision</strong>: Reacher's military background informs his actions, decisions, and strategies, making him a formidable force.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine a 6'5&quot; ex-military drifter with a sharp mind and a strong sense of justice, wandering the U.S. and inadvertently finding trouble—or trouble finding him. Whether it's a small-town conspiracy, a criminal operation, or a personal vendetta, Jack Reacher faces challenges head-on, using his unique skill set to ensure justice prevails.</p>\n<h3>Concise Summary</h3>\n<p>The &quot;Jack Reacher&quot; series by Lee Child follows the adventures of former military policeman Jack Reacher as he drifts across the U.S., often finding himself embroiled in mysteries, conspiracies, and action-packed situations. Operating on his own moral code, Reacher delivers justice in his own way, using his military training and sharp intellect to tackle challenges and confront adversaries. The series blends thrilling action with intricate plots, making it a staple in modern thriller literature.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "Little Black Book for Stunning Success",
+        "description": "\"Little Black Book for Stunning Success\" by Robin Sharma is a motivational guide that provides actionable strategies for achieving success in personal and professional life. Covering topics like mindset, time management, leadership, and relationships, the book offers practical tips and insights to help readers reach their fullest potential.",
+        "evaluation": [
+            {
+                "question": "What is the \"5 AM Club\" concept promoted in the book?",
+                "options": [
+                    "A club where people gather at 5 AM to discuss success.",
+                    "A group of early risers who exercise together.",
+                    "A morning routine that starts at 5 AM, focusing on exercise, planning, and learning.",
+                    "A club dedicated to early morning meditation."
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "What is the main focus of the \"Twin Cycles of Elite Performance\" concept?",
+                "options": [
+                    "Achieving work-life balance through scheduled rest periods.",
+                    "Working twice as hard to achieve elite performance.",
+                    "Balancing work and personal life.",
+                    "Managing peak performance during work hours."
+                ],
+                "correctOption": "0"
+            },
+            {
+                "question": "How does the book suggest maintaining intellectual growth?",
+                "options": [
+                    "Reading at least one book a month.",
+                    "Listening to educational podcasts daily.",
+                    "Reading at least one book a week.",
+                    "Taking online courses regularly."
+                ],
+                "correctOption": "2"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/fr6x8sfemvvltrbvcruk.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/nmkcszxpnyovxa08jtvh.webp",
+        "content": "<h3>Summary of &quot;Little Black Book for Stunning Success&quot; by Robin Sharma</h3>\n<h4>Overview</h4>\n<p>&quot;Little Black Book for Stunning Success&quot; by Robin Sharma is a motivational guide aimed at helping individuals achieve high levels of success in both their personal and professional lives. The book is a compilation of insights, tips, and principles that Sharma has gathered over the years, designed to inspire and guide readers towards achieving their highest potential.</p>\n<h4>Detailed Concepts</h4>\n<ol>\n<li>\n<p><strong>Mindset Matters</strong>: Sharma argues that a growth mindset is crucial for success. He suggests techniques like visualization and affirmations to cultivate a positive mental attitude.</p>\n</li>\n<li>\n<p><strong>Daily Rituals</strong>: The book strongly advocates for the &quot;5 AM Club,&quot; a concept where waking up at 5 AM allows you to start your day with focus and clarity. Sharma suggests spending the first hour in exercise, planning, and learning.</p>\n</li>\n<li>\n<p><strong>Time Management</strong>: The &quot;20/20/20 Formula&quot; is a specific morning routine. Spend the first 20 minutes exercising to boost energy, the next 20 minutes planning your day, and the final 20 minutes learning something new.</p>\n</li>\n<li>\n<p><strong>Leadership</strong>: Sharma breaks down leadership into qualities like integrity, vision, and empathy. He argues that everyone can be a &quot;leader without a title&quot; by taking responsibility for their actions and influencing others positively.</p>\n</li>\n<li>\n<p><strong>Personal Mastery</strong>: Sharma introduces the concept of &quot;The 2 Massage Protocol,&quot; suggesting that investing in physical well-being can significantly improve performance. He also recommends reading at least one book a week to maintain intellectual growth.</p>\n</li>\n<li>\n<p><strong>Relationships</strong>: Sharma advises on &quot;The Daily Five,&quot; a practice of reaching out to five people every day to build and maintain relationships. This could be a simple thank-you note or a quick call.</p>\n</li>\n<li>\n<p><strong>Work-Life Balance</strong>: Sharma introduces the &quot;Twin Cycles of Elite Performance,&quot; which involves periods of intense work followed by deliberate rest, to maintain a healthy work-life balance.</p>\n</li>\n</ol>\n<h4>Technical Insights</h4>\n<ul>\n<li>\n<p><strong>Writing Style</strong>: Sharma uses a blend of anecdotes, case studies, and scientific research to make his points, making the book both engaging and credible.</p>\n</li>\n<li>\n<p><strong>Practical Tips</strong>: Each chapter ends with a &quot;Mastery Action Plan,&quot; a set of specific, actionable steps that readers can take to implement the principles discussed.</p>\n</li>\n<li>\n<p><strong>Inspirational Quotes</strong>: Sharma uses quotes not just as filler but as a way to underscore the principles he's discussing, often providing his own interpretation to add depth.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine having a life coach who gives you a daily routine, down to the minute, and even tells you why each part of that routine is essential. This book is like that coach, offering specific strategies, from waking up at 5 AM to sending five thank-you notes a day, to help you succeed in all areas of life.</p>\n<h3>Concise Summary</h3>\n<p>Robin Sharma's &quot;Little Black Book for Stunning Success&quot; is a comprehensive guide that offers specific, actionable strategies for achieving success. It covers a wide range of topics from mindset and daily rituals to leadership and work-life balance, providing readers with a detailed roadmap to reach their highest potential.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "Millennium Series",
+        "description": "The \"Millennium\" series, starting with Stieg Larsson's trilogy, follows journalist Mikael Blomkvist and hacker Lisbeth Salander as they investigate complex crimes and conspiracies in Sweden. From uncovering dark family secrets to battling government corruption, the duo faces challenges that touch on themes of justice, revenge, women's rights, and the power of technology. The series is a gripping blend of mystery, action, and social critique. The book in the series include 'The Girl with the Dragon Tattoo', 'The Girl Who Played with Fire', 'The Girl Who Kicked the Hornets' Nest',  'The Girl in the Spider's Web', 'The Girl Who Takes an Eye for an Eye' and 'The Girl Who Lived Twice'",
+        "evaluation": [
+            {
+                "question": "Who is the brilliant hacker in the Millennium series?",
+                "options": [
+                    "Mikael Blomkvist",
+                    "Henrik Vanger",
+                    "Lisbeth Salander",
+                    "Camilla Salander"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "What is a recurring theme in the Millennium series?",
+                "options": [
+                    "Historical mysteries",
+                    "Justice and revenge",
+                    "Adventure and exploration",
+                    "Romantic relationships"
+                ],
+                "correctOption": "1"
+            },
+            {
+                "question": "What is one of Lisbeth Salander's notable skills?",
+                "options": [
+                    "Cooking",
+                    "Hacking",
+                    "Singing",
+                    "Gardening"
+                ],
+                "correctOption": "0"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/ttbkmxfa2gklsqfebch1.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/xqnhq1zczgsiqratiwm7.webp",
+        "content": "<h3>Summary of the &quot;Millennium&quot; Series</h3>\n<h4>Overview</h4>\n<p>The &quot;Millennium&quot; series is a set of crime thriller novels originally authored by Stieg Larsson. The series follows journalist Mikael Blomkvist and hacker Lisbeth Salander as they delve into various investigations, often involving complex conspiracies, corruption, and criminal activities in Sweden. The series is notable for its intricate plots, strong character development, and themes addressing social issues.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>The Girl with the Dragon Tattoo</strong>: Mikael Blomkvist, a journalist, is hired by Henrik Vanger, a wealthy industrialist, to investigate the decades-old disappearance of his niece, Harriet. Blomkvist teams up with Lisbeth Salander, a brilliant but troubled hacker, to unravel the mystery. They uncover dark family secrets and a series of murders.</p>\n</li>\n<li>\n<p><strong>The Girl Who Played with Fire</strong>: Lisbeth Salander becomes the prime suspect in a triple murder case. As Blomkvist works to clear her name, the investigation reveals details about Salander's traumatic past and her connection to a secret government project.</p>\n</li>\n<li>\n<p><strong>The Girl Who Kicked the Hornets' Nest</strong>: Following the events of the previous book, Salander is recovering in a hospital and facing murder charges. Blomkvist works to uncover a conspiracy within the Swedish secret service to vindicate Salander. The novel delves deeper into Salander's past and the injustices she's faced.</p>\n</li>\n</ol>\n<p>After Stieg Larsson's death, the series was continued by David Lagercrantz:</p>\n<ol start=\"4\">\n<li>\n<p><strong>The Girl in the Spider's Web</strong>: Blomkvist and Salander are pulled into a web of spies, cybercriminals, and corrupt government officials when they investigate the murder of a renowned scientist and the kidnapping of his autistic son.</p>\n</li>\n<li>\n<p><strong>The Girl Who Takes an Eye for an Eye</strong>: Salander is serving a prison sentence and becomes involved in protecting a vulnerable inmate. This leads her to investigate a secretive and unethical experiment, with ties to her own past.</p>\n</li>\n<li>\n<p><strong>The Girl Who Lived Twice</strong>: Salander confronts her nemesis and twin sister, Camilla, while Blomkvist investigates a mysterious death. Their paths converge in a showdown.</p>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Justice and Revenge</strong>: Both protagonists, especially Salander, seek justice, often outside the confines of the law.</p>\n</li>\n<li>\n<p><strong>Corruption and Conspiracy</strong>: The series frequently delves into deep-rooted corruption within institutions, from corporations to government agencies.</p>\n</li>\n<li>\n<p><strong>Women's Rights</strong>: Salander's character embodies the struggles and injustices faced by women, and the series doesn't shy away from addressing issues like sexual abuse and misogyny.</p>\n</li>\n<li>\n<p><strong>Technology and Surveillance</strong>: Given Salander's skills as a hacker, themes of cybercrime, surveillance, and the power of information are prevalent.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine a tenacious journalist and a brilliant hacker teaming up to unravel intricate mysteries, from family secrets to government conspiracies. The &quot;Millennium&quot; series dives deep into the dark corners of Swedish society, blending thrilling investigations with powerful social commentary, especially on the rights and treatment of women.</p>\n<h3>Concise Summary</h3>\n<p>The &quot;Millennium&quot; series, starting with Stieg Larsson's trilogy, follows journalist Mikael Blomkvist and hacker Lisbeth Salander as they investigate complex crimes and conspiracies in Sweden. From uncovering dark family secrets to battling government corruption, the duo faces challenges that touch on themes of justice, revenge, women's rights, and the power of technology. The series is a gripping blend of mystery, action, and social critique.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "Outlander Series",
+        "description": "The 'Outlander' series by Diana Gabaldon follows Claire Randall, a 20th-century nurse who is transported from the 20th century to 18th-century Scotland in the first book titled 'Outlander.' There, she meets and falls in love with Jamie Fraser. The series spans multiple books, including 'Dragonfly in Amber,' 'Voyager,' 'Drums of Autumn,' 'The Fiery Cross,' 'A Breath of Snow and Ashes,' 'An Echo in the Bone,' and 'Written in My Own Heart's Blood.' Spanning decades and continents, from Scotland to the American colonies, the series intertwines historical events, time-traveling adventures, and a passionate romance. Through wars, betrayals, and the challenges of time, Jamie and Claire's love remains the constant heartbeat of the narrative.",
+        "evaluation": [
+            {
+                "question": "What is the central theme of the Outlander series?",
+                "options": [
+                    "Time travel and its consequences",
+                    "Love across different timelines",
+                    "Historical events and their impact",
+                    "Family and loyalty"
+                ],
+                "correctOption": "1"
+            },
+            {
+                "question": "Where is Claire Randall initially transported in the first book of the series?",
+                "options": [
+                    "To the future",
+                    "To 1743 Scotland",
+                    "To the Caribbean",
+                    "To the American colonies"
+                ],
+                "correctOption": "1"
+            },
+            {
+                "question": "In which book does Claire return to Jamie after thinking he died?",
+                "options": [
+                    "Outlander",
+                    "Dragonfly in Amber",
+                    "Voyager",
+                    "Drums of Autumn"
+                ],
+                "correctOption": "2"
+            }
+        ],
+        "content": "<h3>Summary of the &quot;Outlander&quot; Series by Diana Gabaldon</h3>\n<h4>Overview</h4>\n<p>The &quot;Outlander&quot; series is a blend of historical fiction, romance, and fantasy. The narrative follows Claire Randall, a former World War II nurse, who is mysteriously transported from 1945 to 1743 Scotland. Throughout the series, Claire navigates the challenges of the past, including the Jacobite risings, while maintaining a passionate and tumultuous relationship with a dashing Scottish warrior, Jamie Fraser.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>Outlander</strong>: Claire Randall is on a second honeymoon with her husband Frank in Scotland when she's transported to 1743. She meets Jamie Fraser, and they are forced into a marriage for her protection, leading to a deep bond between them.</p>\n</li>\n<li>\n<p><strong>Dragonfly in Amber</strong>: Claire and Jamie head to France to thwart the Jacobite risings and prevent the devastating Battle of Culloden. By the end, Claire returns to her original time, believing Jamie to have died at Culloden.</p>\n</li>\n<li>\n<p><strong>Voyager</strong>: Claire discovers Jamie survived Culloden. She travels back through the stones, reuniting with Jamie in the 18th century. Their adventures take them to the Caribbean and eventually the American colonies.</p>\n</li>\n<li>\n<p><strong>Drums of Autumn</strong>: The couple settles in North Carolina, just before the American Revolution. The story delves into their life in the New World and the challenges they face.</p>\n</li>\n<li>\n<p><strong>The Fiery Cross</strong>: Set against the backdrop of the looming American Revolution, Jamie and Claire, now grandparents, face political unrest and personal challenges in the colonies.</p>\n</li>\n<li>\n<p><strong>A Breath of Snow and Ashes</strong>: The American Revolution is in full swing, and Jamie and Claire must navigate the challenges of war, loyalty, and survival.</p>\n</li>\n<li>\n<p><strong>An Echo in the Bone</strong>: As the Revolution continues, Jamie and Claire's paths intersect with their time-traveling descendants, leading to complex family dynamics.</p>\n</li>\n<li>\n<p><strong>Written in My Own Heart's Blood</strong>: The narrative continues to weave the intricate tales of the Fraser family across timelines, with battles, betrayals, and timeless love.</p>\n</li>\n<li>\n<p><strong>Go Tell the Bees That I Am Gone</strong>: When Jamie and Claire Fraser sent their daughter, Brianna, her husband, Roger, and their two children back through the stones to the future, they'd resigned themselves to never seeing them again. But they unexpectedly returned, leaving Jamie and Claire rejoicing over having their family back together again.</p>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Love Across Time</strong>: The enduring love between Claire and Jamie, despite the challenges of different timelines, is central to the series.</p>\n</li>\n<li>\n<p><strong>Historical Events</strong>: Real historical events, like the Jacobite risings and the American Revolution, are intricately woven into the narrative.</p>\n</li>\n<li>\n<p><strong>Time Travel</strong>: The implications, ethics, and challenges of time travel are explored throughout, especially concerning changing historical events.</p>\n</li>\n<li>\n<p><strong>Family and Loyalty</strong>: The series delves into complex family dynamics, especially as more time-traveling descendants are introduced.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine being thrust from the 20th century into the tumultuous 18th century, finding love, facing wars, and navigating the complexities of time travel. The &quot;Outlander&quot; series takes readers on this roller-coaster journey with Claire Randall and Jamie Fraser, blending historical events with a timeless romance and the fantastical element of time travel.</p>\n<h3>Concise Summary</h3>\n<p>The &quot;Outlander&quot; series by Diana Gabaldon follows Claire Randall, a 20th-century nurse who is transported to 18th-century Scotland, where she meets and falls in love with Jamie Fraser. Spanning decades and continents, from Scotland to the American colonies, the series intertwines historical events, time-traveling adventures, and a passionate romance. Through wars, betrayals, and the challenges of time, Jamie and Claire's love remains the constant heartbeat of the narrative.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "Percy Jackson & the Olympians Series",
+        "description": "\"Percy Jackson & the Olympians\" is a series of fantasy novels that blend Greek mythology with modern-day settings and characters. The series follows Percy Jackson, a demigod (half-human, half-Greek god), and his friends as they embark on quests to thwart the plans of ancient monsters and deities, all while navigating the challenges of adolescence. The books in the series include 'The Lightning Thief,' 'The Sea of Monsters,' 'The Titan's Curse,' 'The Battle of the Labyrinth,' and 'The Last Olympian.'",
+        "evaluation": [
+            {
+                "question": "Who is Percy Jackson's parent?",
+                "options": [
+                    "Zeus",
+                    "Athena",
+                    "Poseidon",
+                    "Hermes"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "What is the central location for demigods in the series?",
+                "options": [
+                    "Mount Everest",
+                    "Camp Half-Blood",
+                    "Olympus Palace",
+                    "Atlantis"
+                ],
+                "correctOption": "1"
+            },
+            {
+                "question": "What is the quest in 'The Sea of Monsters' centered around?",
+                "options": [
+                    "Finding a lost treasure map",
+                    "Rescuing Grover and saving Camp Half-Blood",
+                    "Capturing a rogue demigod",
+                    "Solving a riddle to gain godly powers"
+                ],
+                "correctOption": "1"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/bq0eie35mt9qfee3ipms.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/phixk4lxziguzyikizb4.webp",
+        "content": "<h3>Summary of the &quot;Percy Jackson &amp; the Olympians&quot; Series by Rick Riordan</h3>\n<h4>Overview</h4>\n<p>&quot;Percy Jackson &amp; the Olympians&quot; is a series of fantasy novels that blend Greek mythology with modern-day settings and characters. The series follows Percy Jackson, a demigod (half-human, half-Greek god) and his friends as they embark on quests to thwart the plans of ancient monsters and deities, all while navigating the challenges of adolescence.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>The Lightning Thief</strong>: Percy Jackson discovers he's a demigod, the son of Poseidon. He's accused of stealing Zeus's lightning bolt. To clear his name, Percy, along with friends Annabeth (daughter of Athena) and Grover (a satyr), embarks on a quest to retrieve the bolt and prevent a war among the gods.</p>\n</li>\n<li>\n<p><strong>The Sea of Monsters</strong>: Percy and Annabeth set out to rescue Grover and save their camp, Camp Half-Blood, by finding the Golden Fleece, which has healing powers. They face various monsters and challenges, including the titular Sea of Monsters.</p>\n</li>\n<li>\n<p><strong>The Titan's Curse</strong>: Percy, Annabeth, and their friends must rescue the goddess Artemis and Annabeth from the Titan Atlas. Along the way, they encounter various creatures and face the prophecy of a demigod (a child of the &quot;Big Three&quot; gods) reaching the age of sixteen and making a decision that will determine the fate of Olympus.</p>\n</li>\n<li>\n<p><strong>The Battle of the Labyrinth</strong>: To prevent Luke (a rogue demigod) and the Titan army from invading Camp Half-Blood, Percy and his friends navigate the ancient, vast, and ever-changing Labyrinth. The journey tests their courage, loyalty, and wits.</p>\n</li>\n<li>\n<p><strong>The Last Olympian</strong>: Percy and the campers of Camp Half-Blood wage a final battle against the Titans in Manhattan to protect Mount Olympus. Percy confronts Luke and the Titan lord Kronos, and the long-foreshadowed prophecy concerning Percy's sixteenth birthday unfolds.</p>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Identity and Self-Discovery</strong>: As demigods, the characters grapple with their dual identities—part human, part god—and the responsibilities and challenges that come with it.</p>\n</li>\n<li>\n<p><strong>Friendship and Loyalty</strong>: The bonds between Percy, Annabeth, Grover, and other characters are central to the narrative. Their loyalty to each other often plays a crucial role in their quests.</p>\n</li>\n<li>\n<p><strong>Destiny and Choice</strong>: Prophecies and the characters' destinies are recurring elements, but the series emphasizes the power of personal choice in shaping one's future.</p>\n</li>\n<li>\n<p><strong>Good vs. Evil</strong>: The series delves into the battle between the forces of good (the Olympians and demigods) and the forces of evil (Titans, monsters, and rogue demigods).</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine discovering that Greek gods are real, and you're the child of one of them! The &quot;Percy Jackson &amp; the Olympians&quot; series takes readers on thrilling adventures with Percy Jackson and his friends as they battle monsters, navigate prophecies, and save the world, all while dealing with typical teenage challenges.</p>\n<h3>Concise Summary</h3>\n<p>&quot;Percy Jackson &amp; the Olympians&quot; by Rick Riordan is a fantasy series that follows Percy Jackson, a demigod and son of Poseidon, as he embarks on quests to thwart threats from ancient Greek monsters and deities. Alongside his friends Annabeth and Grover, Percy navigates challenges, prophecies, and battles to protect the world and Mount Olympus. The series blends Greek mythology with modern settings, exploring themes of identity, friendship, destiny, and the eternal battle between good and evil.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "The Chronicles of Narnia Series",
+        "description": "The \"Chronicles of Narnia\" is a series of seven fantasy novels that revolve around the adventures of children who play central roles in the unfolding history of the fictional realm of Narnia, a place where animals talk, magic is common, and good battles evil. The series is known for its rich allegorical themes, drawing heavily from Christian theology. The books in the series include 'The Magician's Nephew,' 'The Lion, the Witch and the Wardrobe,' 'The Horse and His Boy,' 'Prince Caspian,' 'The Voyage of the Dawn Treader,' 'The Silver Chair,' and 'The Last Battle.'",
+        "evaluation": [
+            {
+                "question": "Who creates Narnia in 'The Magician's Nephew'?",
+                "options": [
+                    "Aslan",
+                    "The White Witch",
+                    "Digory",
+                    "Lucy"
+                ],
+                "correctOption": "0"
+            },
+            {
+                "question": "What is the primary theme of 'The Lion, the Witch and the Wardrobe'?",
+                "options": [
+                    "Sibling rivalry",
+                    "Redemption and sacrifice",
+                    "Treasure hunting",
+                    "Adventure and exploration"
+                ],
+                "correctOption": "1"
+            },
+            {
+                "question": "Who accompanies King Caspian on a sea voyage in 'The Voyage of the Dawn Treader'?",
+                "options": [
+                    "Peter and Susan",
+                    "Edmund and Lucy",
+                    "Eustace and Jill",
+                    "Prince Rilian"
+                ],
+                "correctOption": "1"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/mvi5eubf1ddmdu62crmu.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/an7krlovy4thlkyqipfe.webp",
+        "content": "<h3>Summary of &quot;The Chronicles of Narnia&quot; Series by C.S. Lewis</h3>\n<h4>Overview</h4>\n<p>&quot;The Chronicles of Narnia&quot; is a series of seven fantasy novels that revolve around the adventures of children who play central roles in the unfolding history of the fictional realm of Narnia, a place where animals talk, magic is common, and good battles evil. The series is known for its rich allegorical themes, drawing heavily from Christian theology.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>The Magician's Nephew</strong>: This prequel describes the creation of Narnia by Aslan, the lion and Christ-like figure. Two children, Digory and Polly, are brought to Narnia via magic rings and witness its creation and the introduction of evil.</p>\n</li>\n<li>\n<p><strong>The Lion, the Witch and the Wardrobe</strong>: Four siblings—Peter, Susan, Edmund, and Lucy—enter Narnia through a magical wardrobe. They join Aslan to defeat the White Witch, who has cast Narnia into perpetual winter.</p>\n</li>\n<li>\n<p><strong>The Horse and His Boy</strong>: Set during the reign of the Pevensie siblings in Narnia, this story follows a boy, Shasta, and a talking horse, Bree, as they journey to Narnia to escape captivity.</p>\n</li>\n<li>\n<p><strong>Prince Caspian</strong>: The Pevensie siblings are summoned back to Narnia, which is under the rule of an evil king. They join forces with Prince Caspian to reclaim his rightful throne.</p>\n</li>\n<li>\n<p><strong>The Voyage of the Dawn Treader</strong>: Edmund, Lucy, and their cousin Eustace join King Caspian on a sea voyage to find the seven lost lords of Narnia.</p>\n</li>\n<li>\n<p><strong>The Silver Chair</strong>: Eustace and his friend Jill are called to Narnia by Aslan to rescue Prince Rilian, Caspian's son, from an enchantress.</p>\n</li>\n<li>\n<p><strong>The Last Battle</strong>: The final battle for Narnia is waged. Eustace and Jill return to help, and the series concludes with the end of Narnia as it's known, but with the promise of a new eternal Narnia.</p>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Good vs. Evil</strong>: The series consistently pits the forces of good (often represented by Aslan and the children) against the forces of evil (various antagonists).</p>\n</li>\n<li>\n<p><strong>Redemption and Sacrifice</strong>: Themes of redemption are evident, most notably in &quot;The Lion, the Witch and the Wardrobe&quot; where Aslan sacrifices himself for Edmund.</p>\n</li>\n<li>\n<p><strong>Faith and Belief</strong>: The characters' faith in Aslan and in the greater good is tested and rewarded throughout the series.</p>\n</li>\n<li>\n<p><strong>Growth and Maturity</strong>: The series also deals with themes of growing up, as the children age and learn important life lessons in Narnia.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine a world where animals talk, mythical creatures abound, and epic battles between good and evil take place. &quot;The Chronicles of Narnia&quot; transports readers to such a world, following the adventures of various children who are thrust into pivotal roles in Narnia's history. With allegorical undertones and timeless themes, the series offers a rich tapestry of fantasy and morality.</p>\n<h3>Concise Summary</h3>\n<p>&quot;The Chronicles of Narnia&quot; by C.S. Lewis is a seven-book fantasy series set in the magical land of Narnia. Following various children, from the Pevensie siblings to Eustace and Jill, the series explores their adventures as they confront evil forces, from the White Witch to corrupt kings. Guided by the majestic lion, Aslan, the series delves into themes of good vs. evil, redemption, faith, and personal growth, all set against the backdrop of a richly imagined world filled with talking animals and mythical creatures.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "The Hunger Games Series",
+        "description": "\"The Hunger Games\" series is a dystopian trilogy set in the nation of Panem, which consists of the Capitol and twelve districts. The narrative follows Katniss Everdeen, a young woman from District 12, as she becomes the symbol of a rebellion against the tyrannical Capitol. The series delves into themes of survival, totalitarianism, societal inequality, and the consequences of war. The books in the series include 'The Hunger Games,' 'Catching Fire,' and 'Mockingjay.'",
+        "evaluation": [
+            {
+                "question": "What is the annual event that forces each district to send tributes to fight to the death?",
+                "options": [
+                    "The Reaping",
+                    "The Contest",
+                    "The Showdown",
+                    "The Battle Royale"
+                ],
+                "correctOption": "0"
+            },
+            {
+                "question": "What is Katniss Everdeen's role in the rebellion against the Capitol?",
+                "options": [
+                    "District 12 leader",
+                    "The Mockingjay",
+                    "Capitol spy",
+                    "Hunger Games mentor"
+                ],
+                "correctOption": "1"
+            },
+            {
+                "question": "Which district is Katniss Everdeen from?",
+                "options": [
+                    "District 1",
+                    "District 12",
+                    "District 13",
+                    "Capitol"
+                ],
+                "correctOption": "1"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/xmuewqzx4mlzow40fyhu.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/bzpnv9sr55sqgrcljbfh.webp",
+        "content": "<h3>Summary of &quot;The Hunger Games&quot; Series by Suzanne Collins</h3>\n<h4>Overview</h4>\n<p>&quot;The Hunger Games&quot; series is a dystopian trilogy set in the nation of Panem, which consists of the Capitol and twelve districts. The narrative follows Katniss Everdeen, a young woman from District 12, as she becomes the symbol of a rebellion against the tyrannical Capitol. The series delves into themes of survival, totalitarianism, societal inequality, and the consequences of war.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>The Hunger Games</strong>: In a twisted annual event to maintain control over the districts, the Capitol forces each district to send one boy and one girl as tributes to participate in the Hunger Games—a televised fight to the death. Katniss Everdeen volunteers to take her younger sister's place and, alongside the male tribute Peeta Mellark, navigates the deadly arena. They form a strategic alliance, which culminates in them threatening a double suicide, forcing the Capitol to declare them joint winners.</p>\n</li>\n<li>\n<p><strong>Catching Fire</strong>: As victors, Katniss and Peeta embark on a Victory Tour. However, their act of defiance in the previous Games sparks unrest in the districts. To quell the rebellion, the Capitol announces a special edition of the Games featuring past victors. Katniss and Peeta are once again thrust into the arena but are rescued by a group of rebels from District 13, previously thought to be destroyed.</p>\n</li>\n<li>\n<p><strong>Mockingjay</strong>: Katniss becomes the &quot;Mockingjay,&quot; the symbol of the rebellion against the Capitol. As the districts unite and war ensues, she grapples with her role and the moral complexities of war. The rebels eventually take the Capitol, but at great personal cost to Katniss, including the death of her sister. The trilogy concludes with the fall of President Snow, the tyrant leader, and the rise of a new leadership. Katniss returns to District 12, finding solace with Peeta.</p>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Survival</strong>: The series consistently explores the lengths to which individuals will go to survive, both physically and psychologically.</p>\n</li>\n<li>\n<p><strong>Media and Manipulation</strong>: The Capitol uses the Hunger Games as a form of entertainment and control, highlighting the power of media manipulation.</p>\n</li>\n<li>\n<p><strong>Rebellion and Totalitarianism</strong>: The series delves into the consequences of totalitarian rule and the sacrifices required for rebellion.</p>\n</li>\n<li>\n<p><strong>Moral Ambiguity</strong>: Characters grapple with complex moral decisions, especially in the context of war and rebellion.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine a future where a powerful Capitol, in a show of dominance, forces its subjugated districts to send children to fight to the death on live television. &quot;The Hunger Games&quot; series follows Katniss Everdeen as she navigates this brutal world, from being a tribute in the Games to becoming the face of a rebellion. The series blends thrilling action with deep societal commentary on power, resistance, and the human spirit.</p>\n<h3>Concise Summary</h3>\n<p>&quot;The Hunger Games&quot; series by Suzanne Collins is a dystopian trilogy set in Panem, where the Capitol exerts control over its districts by forcing them to participate in a televised death match. Katniss Everdeen, initially a participant, becomes a symbol of rebellion against the oppressive regime. The series chronicles the rise of the rebellion, the challenges of war, and the hope for a better future, all through the lens of Katniss's personal journey of survival, love, and resilience.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "The Lord of the Rings Series",
+        "description": "\"The Lord of the Rings\" is an epic high-fantasy trilogy that follows the quest to destroy the One Ring, a powerful artifact that can control all other magical rings and grant its master dominion over Middle-earth. The series delves into themes of friendship, power, corruption, and sacrifice. The books in the series include 'The Fellowship of the Ring,' 'The Two Towers,' and 'The Return of the King.'",
+        "evaluation": [
+            {
+                "question": "Who is the main character tasked with destroying the One Ring?",
+                "options": [
+                    "Gandalf",
+                    "Aragorn",
+                    "Frodo Baggins",
+                    "Legolas"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "What is the ultimate goal of the Fellowship of the Ring?",
+                "options": [
+                    "To defeat the orcs",
+                    "To conquer Middle-earth",
+                    "To destroy the One Ring",
+                    "To claim the throne of Gondor"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "What is the name of the Dark Lord seeking to reclaim the One Ring?",
+                "options": [
+                    "Smaug",
+                    "Saruman",
+                    "Sauron",
+                    "Shelob"
+                ],
+                "correctOption": "2"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/khbtzdm1yksftqyqbevy.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/k5gtmy6xuobdkpgw7kwd.webp",
+        "content": "<h3>Summary of &quot;The Lord of the Rings&quot; Series by J.R.R. Tolkien</h3>\n<h4>Overview</h4>\n<p>&quot;The Lord of the Rings&quot; is an epic high-fantasy trilogy that follows the quest to destroy the One Ring, a powerful artifact that can control all other magical rings and grant its master dominion over Middle-earth. The series delves into themes of friendship, power, corruption, and sacrifice.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>The Fellowship of the Ring</strong>:</p>\n<ul>\n<li><strong>Beginning</strong>: The story starts in the Shire, a peaceful hobbit land. Bilbo Baggins, an elderly hobbit, leaves his home and bequeaths his possessions, including a mysterious ring, to his nephew, Frodo Baggins.</li>\n<li><strong>Discovery</strong>: Gandalf the Grey, a wizard, discovers that Bilbo's ring is the One Ring, forged by the Dark Lord Sauron. Frodo must leave the Shire to protect it from Sauron's agents, the Ringwraiths.</li>\n<li><strong>Journey</strong>: Accompanied by his friends Sam, Merry, and Pippin, Frodo journeys to Rivendell. Along the way, they're joined by Aragorn, the ranger and heir to the throne of Gondor. In Rivendell, a council decides that the Ring must be destroyed in Mount Doom, where it was forged.</li>\n<li><strong>Formation of the Fellowship</strong>: A fellowship is formed to aid Frodo, consisting of Frodo, Sam, Merry, Pippin, Gandalf, Aragorn, Legolas the elf, Gimli the dwarf, and Boromir of Gondor.</li>\n<li><strong>Challenges</strong>: The Fellowship faces numerous challenges, including a failed attempt to cross the Misty Mountains and a perilous journey through the Mines of Moria, where they lose Gandalf to the Balrog.</li>\n</ul>\n</li>\n<li>\n<p><strong>The Two Towers</strong>:</p>\n<ul>\n<li><strong>Separation</strong>: The Fellowship is broken. Boromir is killed defending Merry and Pippin, who are captured by orcs. Aragorn, Legolas, and Gimli set out to rescue them.</li>\n<li><strong>Ents and Isengard</strong>: Merry and Pippin escape and encounter Treebeard, an Ent (a tree-like being). The Ents, roused by the hobbits, march against Saruman, a corrupted wizard, and destroy his stronghold, Isengard.</li>\n<li><strong>Rohan</strong>: Aragorn, Legolas, and Gimli aid the kingdom of Rohan against Saruman's forces. Gandalf returns, now as Gandalf the White.</li>\n<li><strong>Frodo's Journey</strong>: Frodo and Sam, guided by Gollum (a creature corrupted by the Ring), continue towards Mordor. They witness the fall of the city of Osgiliath and narrowly escape capture.</li>\n</ul>\n</li>\n<li>\n<p><strong>The Return of the King</strong>:</p>\n<ul>\n<li><strong>Siege of Gondor</strong>: Sauron's forces attack Gondor's capital, Minas Tirith. Aragorn musters an army and, with the help of Rohan, repels the siege.</li>\n<li><strong>Aragorn's Coronation</strong>: After the battle, Aragorn is crowned king, signaling the return of the rightful ruler to Gondor.</li>\n<li><strong>Journey to Mount Doom</strong>: Frodo and Sam continue their journey to Mount Doom. Gollum, seeking to reclaim the Ring, betrays them. In the climax at Mount Doom, Gollum bites off Frodo's finger to take the Ring but falls into the fiery chasm, destroying the Ring.</li>\n<li><strong>Victory</strong>: With the Ring's destruction, Sauron is defeated.</li>\n<li><strong>Return to the Shire</strong>: The hobbits return home to find the Shire under the control of ruffians. They lead a rebellion and restore peace.</li>\n<li><strong>Endings</strong>: Frodo, affected by the Ring's burden, departs Middle-earth for the Undying Lands. Sam, Merry, and Pippin remain, and the Fourth Age begins.</li>\n</ul>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li><strong>Power and Corruption</strong>: The Ring symbolizes absolute power and its corrupting influence.</li>\n<li><strong>Friendship and Sacrifice</strong>: The bonds among the members of the Fellowship and their sacrifices are central to the narrative.</li>\n<li><strong>Nature vs. Industry</strong>: The destruction of nature by Saruman and Sauron contrasts with the peaceful Shire and the Ents.</li>\n<li><strong>Heroism</strong>: The series redefines heroism, emphasizing inner strength and resilience over traditional martial prowess.</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine a world filled with ancient magic, mythical creatures, and epic battles. &quot;The Lord of the Rings&quot; transports readers to Middle-earth, where a small hobbit carries the weight of the world's fate. With a diverse fellowship by his side, they embark on a perilous journey to destroy a powerful ring and confront the looming shadow of a dark lord. The series is a rich tapestry of adventure, camaraderie, and the timeless battle between good and evil.</p>\n<h3>Concise Summary</h3>\n<p>&quot;The Lord of the Rings&quot; by J.R.R. Tolkien is an epic tale set in Middle-earth, following Frodo Baggins and a diverse fellowship on a quest to destroy the One Ring and defeat the Dark Lord Sauron. Facing immense challenges, from treacherous landscapes to powerful adversaries, the story delves into themes of power, friendship, sacrifice, and heroism. Through their journey, the characters confront both external threats and internal struggles, culminating in a timeless narrative of adventure and resilience.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    },
+    {
+        "name": "The Pillars of the Earth Series",
+        "description": "Ken Follett's historical novel series, often referred to as the \"Kingsbridge\" series, begins with \"The Pillars of the Earth.\" The series is known for its intricate plots set against the backdrop of major historical events, primarily in the fictional town of Kingsbridge, England. The novels span centuries, exploring themes of love, war, betrayal, ambition, and the quest for power. The books in the series include 'The Pillars of the Earth', 'World Without End' and 'A Column of Fire",
+        "evaluation": [
+            {
+                "question": "In which century is the first book, 'The Pillars of the Earth,' set?",
+                "options": [
+                    "12th century",
+                    "14th century",
+                    "16th century",
+                    "18th century"
+                ],
+                "correctOption": "0"
+            },
+            {
+                "question": "What major historical event is a central backdrop in 'The Pillars of the Earth'?",
+                "options": [
+                    "The American Revolution",
+                    "The Renaissance",
+                    "The Anarchy",
+                    "The Industrial Revolution"
+                ],
+                "correctOption": "2"
+            },
+            {
+                "question": "What is the central architectural project in 'The Pillars of the Earth'?",
+                "options": [
+                    "A castle",
+                    "A bridge",
+                    "A cathedral",
+                    "A palace"
+                ],
+                "correctOption": "2"
+            }
+        ],
+        "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/lihftn6kujrtrzngkjug.webp",
+        "imageSM": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1694026597/qwbmppshtes4xswqqidr.webp",
+        "content": "<h3>Summary of &quot;The Pillars of the Earth&quot; Series by Ken Follett</h3>\n<h4>Overview</h4>\n<p>Ken Follett's historical novel series, often referred to as the &quot;Kingsbridge&quot; series, begins with &quot;The Pillars of the Earth.&quot; The series is known for its intricate plots set against the backdrop of major historical events, primarily in the fictional town of Kingsbridge, England. The novels span centuries, exploring themes of love, war, betrayal, ambition, and the quest for power.</p>\n<h4>Book-by-Book Breakdown</h4>\n<ol>\n<li>\n<p><strong>The Pillars of the Earth (1989)</strong>:</p>\n<ul>\n<li><strong>Setting</strong>: The story is set in the 12th century during a time of political turmoil known as The Anarchy.</li>\n<li><strong>Plot</strong>: The narrative revolves around the construction of a cathedral in Kingsbridge. The central characters include Tom Builder, an ambitious builder; Prior Philip, a devout monk; Lady Aliena, a noblewoman; and William Hamleigh, a ruthless knight.</li>\n<li><strong>Themes</strong>: The novel delves into the intricacies of architecture, the power struggles between the church and the nobility, and the daily lives of the townspeople. It also touches on revenge, love, and redemption.</li>\n</ul>\n</li>\n<li>\n<p><strong>World Without End (2007)</strong>:</p>\n<ul>\n<li><strong>Setting</strong>: The story picks up in Kingsbridge two centuries later, during the 14th century.</li>\n<li><strong>Plot</strong>: The descendants of the original characters face new challenges, including the onset of the Black Death. Key characters include Caris, a woman ahead of her time with a passion for medicine; Merthin, a visionary builder; and Godwyn, an ambitious monk.</li>\n<li><strong>Themes</strong>: The novel explores the societal changes of the Middle Ages, the tension between science and religion, and the impact of the plague on European society.</li>\n</ul>\n</li>\n<li>\n<p><strong>A Column of Fire (2017)</strong>:</p>\n<ul>\n<li><strong>Setting</strong>: The narrative moves to the 16th century during the tumultuous period of the Protestant Reformation.</li>\n<li><strong>Plot</strong>: The story follows the lives of Ned Willard, a loyal supporter of Elizabeth I, and Margery Fitzgerald, Ned's love interest but on the opposite side of the religious divide. As religious conflict intensifies, espionage and intelligence become crucial to the crown.</li>\n<li><strong>Themes</strong>: The novel delves into the religious conflicts between Catholics and Protestants, espionage, political intrigue, and the challenges of love in a time of turmoil.</li>\n</ul>\n</li>\n</ol>\n<h4>Themes and Motifs</h4>\n<ul>\n<li>\n<p><strong>Power and Ambition</strong>: Throughout the series, characters grapple with their ambitions, whether it's building the grandest cathedral, gaining political power, or advancing in the church hierarchy.</p>\n</li>\n<li>\n<p><strong>Love and Betrayal</strong>: Romantic and familial relationships play a significant role, with love often being tested by societal norms, religious divides, and personal ambitions.</p>\n</li>\n<li>\n<p><strong>Historical Evolution</strong>: Each book provides a snapshot of societal, technological, and political changes during its respective era, from architectural advancements to shifts in religious beliefs.</p>\n</li>\n</ul>\n<h4>Accessibility</h4>\n<p>Imagine a series that takes you on a journey through centuries, where the aspirations to build grand cathedrals intertwine with political intrigues, love stories, and societal upheavals. &quot;The Pillars of the Earth&quot; series offers this experience, set against the rich tapestry of historical England. From the challenges of constructing a cathedral in the 12th century to navigating religious conflicts in the 16th century, the series provides a deep dive into the lives, loves, and struggles of the people of Kingsbridge.</p>\n<h3>Concise Summary</h3>\n<p>Ken Follett's &quot;The Pillars of the Earth&quot; series, set in the fictional town of Kingsbridge, spans centuries of English history, from the 12th to the 16th century. Through the eyes of builders, monks, nobles, and commoners, the series explores the construction of a cathedral, the societal impact of the Black Death, and the religious upheavals of the Protestant Reformation. Rich in historical detail, the series weaves intricate tales of love, ambition, betrayal, and power against the backdrop of significant historical events.</p>\n",
+        "subject": "64f374de3cf19f490e4fb427",
+        "autor": "64f375163cf19f490e4fb42a"
+    }
+]

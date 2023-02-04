@@ -11,7 +11,7 @@ const autorSchema: Schema<IAutor> = new Schema({
         type: String,
         unique: true,
         uppercase: true,
-        required: [true, 'El Autor es obligatorio'],
+        required: [true, 'El Autor es obligatorio']
     },
     state: {
         type: Boolean,
@@ -29,4 +29,4 @@ autorSchema.methods.toJSON = function () {
     return resto
 }
 
-export default model<IAutor>('Autor', autorSchema)
+export const Autor =  model<IAutor>('Autor', autorSchema)

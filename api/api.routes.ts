@@ -6,8 +6,11 @@ export const router = Router()
 import { router as autorRoute } from './autor/autor.routes'
 import { router as authRoute } from './auth/auth.routes'
 import { router as bookRoute } from './book/book.routes'
+import { router as cashbackRoute } from './cashback/cashback.routes'
+
 import { router as myLearningRoute } from './myLearning/myLearning.routes'
 
+import { router as settingsRoute } from './settings/settings.routes'
 
 import { router as subjectRoute } from './subject/subject.routes'
 import { router as userRoute } from './user/user.routes'
@@ -24,6 +27,11 @@ router.use('/autor' , autorRoute)
 router.use('/book', bookRoute)
 router.use('/mylearning', myLearningRoute)
 router.use('/myorder', myOrderRoute)
+router.use('/myorder', myOrderRoute)
+router.use('/cashback', cashbackRoute)
+
+
+router.use('/settings', settingsRoute)
 
 router.use('/subject', subjectRoute)
 router.use('/user' ,userRoute)

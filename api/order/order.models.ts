@@ -2,19 +2,22 @@ import mongoose, { model, Schema, Types, Document } from 'mongoose'
 
 export interface IOrder extends Document {
     user: Types.ObjectId
-    book: Types.ObjectId
+    books: Types.ObjectId[]
     price: number
     condition: string
     dateCreated: Date
+    dateClaimable: Date
+
+
 }
 
 const orderSchema: Schema<IOrder> = new Schema({
-    book: {
+    books: [{
         type: Schema.Types.ObjectId,
         ref: 'Book',
 
         required: true,
-    },
+    }],
 
     price: {
         type: Number,
@@ -22,7 +25,7 @@ const orderSchema: Schema<IOrder> = new Schema({
     },
     condition: {
         type: String,
-        enum: ['place order', 'purchased', 'pending giftback', 'giftbacked' , 'failed'],
+        enum: ['place order', 'purchased', 'pending cashback', 'claimable cashback', 'claimed cashback' ,'refunded','failed'],
         default: 'place order',
     },
     user: {
@@ -35,6 +38,10 @@ const orderSchema: Schema<IOrder> = new Schema({
     dateCreated: {
         type: Date,
         default: Date.now,
+    },
+
+    dateClaimable: {
+        type: Date,
     },
 })
 orderSchema.methods.toJSON = function () {

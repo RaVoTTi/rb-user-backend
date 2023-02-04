@@ -1,6 +1,6 @@
 import { Request, Response } from 'express'
 import resIdError from '../../utils/res-idError'
-import Subject from './subject.models'
+import {Subject} from './subject.models'
 
 export const subjectGet = async (req: Request, res: Response) => {
     const { state } = req.query
@@ -15,7 +15,7 @@ export const subjectGet = async (req: Request, res: Response) => {
 
     return res.status(200).json({
         ok: true,
-        msg: [],
+        msg: '',
         result: subjects,
     })
 }

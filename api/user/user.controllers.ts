@@ -11,7 +11,7 @@ export const userGetByJWT = async (req: Request, res: Response) => {
 
     res.status(200).json({
         ok: true,
-        msg: [],
+        msg: '',
         result: user,
     })
 }
@@ -31,7 +31,7 @@ export const userPhonePutByJWT = async (req: Request, res: Response) => {
 
     res.status(201).json({
         ok: true,
-        msg: ['User modificated succesful'],
+        msg: 'User modificated Succesfull'
     })
 }
 export const userAddressPutByJWT = async (req: Request, res: Response) => {
@@ -55,7 +55,7 @@ export const userAddressPutByJWT = async (req: Request, res: Response) => {
 
     res.status(201).json({
         ok: true,
-        msg: ['User modificated succesful'],
+        msg: 'User modificated Succesfull'
     })
 }
 // export const userCryptoAddressPutByJWT = async (
@@ -76,7 +76,7 @@ export const userAddressPutByJWT = async (req: Request, res: Response) => {
 
 //     res.status(201).json({
 //         ok: true,
-//         msg: ['User modificated succesful'],
+//         msg: 'User modificated Succesfull'
 //     })
 // }
 
@@ -92,6 +92,6 @@ export const userAddressPutByJWT = async (req: Request, res: Response) => {
 
 //     res.status(200).json({
 //         ok: true,
-//         msg: ['User remove succesful'],
+//         msg: 'User remove Succesfull'
 //     })
 // }

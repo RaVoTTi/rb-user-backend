@@ -13,21 +13,21 @@ export const validateUserJwt = async (
     if (!token) {
         return res.status(401).json({
             ok: false,
-            msg: ["Token doesn't exist"],
+            msg: "Token doesn't exist",
             result: [],
         })
     }
 
     try {
-        if (!process.env.PRIVATE_KEY) {
+        if (!process.env.AUTH_PRIVATE_KEY) {
             return res.status(500).json({
                 ok: false,
-                msg: ["Private Key doesn't exist"],
+                msg: "Private Key doesn't exist",
                 result: [],
             })
         }
 
-        const payload = jwt.verify(token, process.env.PRIVATE_KEY) as JwtPayload
+        const payload = jwt.verify(token, process.env.AUTH_PRIVATE_KEY) as JwtPayload
 
         // console.log(payload);
         const { uid } = payload
@@ -36,7 +36,7 @@ export const validateUserJwt = async (
         if (!user) {
             return res.status(401).json({
                 ok: false,
-                msg: ['Invalid Token'],
+                msg: 'Invalid Token',
                 result: [],
             })
         }
@@ -45,7 +45,7 @@ export const validateUserJwt = async (
     } catch (error) {
         return res.status(401).json({
             ok: false,
-            msg: ['Invalid Token'],
+            msg: 'Invalid Token',
             result: [],
         })
     }

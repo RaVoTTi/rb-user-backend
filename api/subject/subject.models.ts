@@ -38,4 +38,4 @@ subjectSchema.methods.toJSON = function () {
     return resto
 }
 
-export default model<ISubject>('Subject', subjectSchema)
+export const Subject =  model<ISubject>('Subject', subjectSchema)

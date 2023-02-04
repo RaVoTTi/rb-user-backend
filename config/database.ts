@@ -1,15 +1,15 @@
-import { connect } from 'mongoose'
+import mongoose from 'mongoose'
 
 const dbConnection = async () => {
-    const { MONGODB_CNN, MONGODB_CNN_ADMIN, NODE_ENV } = process.env
-    const connectionString =
-        NODE_ENV === 'prod' ? MONGODB_CNN : MONGODB_CNN_ADMIN
+    const { MONGODB_CNN, MONGODB_CNN_TEST , NODE_ENV  } = process.env
+
+    const url = NODE_ENV === 'prod' ? MONGODB_CNN : MONGODB_CNN_TEST
 
     try {
-        await connect(connectionString || '')
-        console.log('Database Online')
+        mongoose.set('strictQuery', true)
 
-        
+        await mongoose.connect(url || '')
+        console.log('Database Online')
     } catch (error) {
         console.log(error)
     }

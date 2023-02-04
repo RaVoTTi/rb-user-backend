@@ -1,0 +1,2106 @@
+[{
+  "_id": {
+    "$oid": "647fa9cc785caefc11f486ef"
+  },
+  "name": "the pragmatic programmer",
+  "description": "A practical guide for software developers, 'The Pragmatic Programmer' offers insightful advice on improving programming skills, embracing a pragmatic approach, and mastering essential tools.",
+  "state": true,
+  "subject": {
+    "$oid": "63a71777847f944a5af385d8"
+  },
+  "price": 40,
+  "autor": {
+    "$oid": "63e76a784318a6e15770028c"
+  },
+  "content": "<p>&quot;The Pragmatic Programmer&quot; is a well-known book written by Andrew Hunt and David Thomas. It is aimed at software developers and focuses on providing practical and insightful advice to improve their programming skills and overall craft. The book is divided into various sections, and I'll provide a summary for each, trying to balance detail and brevity as you requested.</p>\n<h3>1. A Pragmatic Philosophy</h3>\n<p>This section is about the mindset and the philosophical approach to programming. The authors stress the importance of critical thinking, continuous learning, and adapting to change.</p>\n<h4>Key Takeaways:</h4>\n<ul>\n<li><strong>The Cat Ate My Source Code:</strong> Taking responsibility for one's work and mistakes.</li>\n<li><strong>Software Entropy:</strong> Avoiding “broken windows” in code to prevent degradation.</li>\n<li><strong>Stone Soup and Boiled Frogs:</strong> Encouraging collaboration and gradual improvement.</li>\n<li><strong>Good-Enough Software:</strong> Striving for excellence without falling into perfectionism.</li>\n</ul>\n<h3>2. A Pragmatic Approach</h3>\n<p>Here, practical advice on approaching software development is given, emphasizing flexibility, collaboration, and efficiency.</p>\n<h4>Key Takeaways:</h4>\n<ul>\n<li><strong>The Specification Trap:</strong> Avoiding overly detailed specifications.</li>\n<li><strong>It's a Small World after All:</strong> Encouraging code reuse and automation.</li>\n<li><strong>The Sabermetric Anomaly:</strong> Using metrics wisely.</li>\n</ul>\n<h3>3. The Basic Tools</h3>\n<p>This section discusses essential tools that every programmer should master.</p>\n<h4>Key Takeaways:</h4>\n<ul>\n<li><strong>The Power of Plain Text:</strong> Storing data in a simple, durable, and versatile format.</li>\n<li><strong>Shell Games:</strong> Leveraging the command line.</li>\n<li><strong>Power Editing:</strong> Understanding your text editor inside and out.</li>\n<li><strong>Source Code Control:</strong> Using version control systems.</li>\n</ul>\n<h3>4. Pragmatic Paranoia</h3>\n<p>This part talks about defensive programming, error handling, and expecting the unexpected.</p>\n<h4>Key Takeaways:</h4>\n<ul>\n<li><strong>Design by Contract:</strong> Ensuring that code meets its specifications.</li>\n<li><strong>Dead Programs Tell No Lies:</strong> Handling errors appropriately.</li>\n<li><strong>Assertive Programming:</strong> Using assertions to catch unexpected scenarios.</li>\n</ul>\n<h3>5. Bend, or Break</h3>\n<p>This section explores how to create flexible and maintainable code.</p>\n<h4>Key Takeaways:</h4>\n<ul>\n<li><strong>Decoupling:</strong> Keeping components independent.</li>\n<li><strong>Juggling the Real World:</strong> Handling external resources with care.</li>\n<li><strong>Transforming Programming:</strong> Emphasizing code that is easy to change and adapt.</li>\n</ul>\n<h3>6. Concurrency</h3>\n<p>The authors explain concurrency, threading, and parallel programming.</p>\n<h4>Key Takeaways:</h4>\n<ul>\n<li><strong>Domain Languages:</strong> Creating specialized languages for specific problem domains.</li>\n<li><strong>Estimating:</strong> Learning how to make educated guesses about time and resources.</li>\n</ul>\n<h3>7. While You Are Coding</h3>\n<p>Practical tips for coding, debugging, and testing.</p>\n<h4>Key Takeaways:</h4>\n<ul>\n<li><strong>Programming by Coincidence:</strong> Avoiding assumptions and understanding how things work.</li>\n<li><strong>Algorithm Speed:</strong> Considering time complexity.</li>\n<li><strong>Refactoring:</strong> Improving code structure without changing its behavior.</li>\n</ul>\n<h3>8. Before the Project</h3>\n<p>This section talks about the initial stages of a project, including requirements gathering and project planning.</p>\n<h4>Key Takeaways:</h4>\n<ul>\n<li><strong>The Requirements Pit:</strong> Understanding what the user really wants.</li>\n<li><strong>Solving Impossible Puzzles:</strong> How to tackle seemingly insurmountable problems.</li>\n</ul>\n<h3>Conclusion</h3>\n<p>&quot;The Pragmatic Programmer&quot; covers a broad array of topics, from philosophical concepts to very technical advice. The authors use engaging anecdotes and analogies to make their points, often imbued with a touch of humor. It's considered a must-read for aspiring software engineers, as it provides essential lessons that go beyond any specific programming language or technology.</p>\n<p>For an even more in-depth analysis, you may want to explore the specific tips and exercises included in each chapter, or consult additional resources such as <a href=\"https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/\">the book's official website</a>.</p>\n",
+  "dateCreated": {
+    "$date": "2023-06-06T21:49:00.348Z"
+  },
+  "__v": 0,
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873899/k19uhyh8zgwnbpewu48j.webp",
+  "isFeatured": true,
+  "evaluation": [
+    {
+      "question": "What is the main focus of the 'A Pragmatic Philosophy' section?",
+      "options": [
+        "Promoting the idea of perfectionism in coding.",
+        "Exploring different programming languages in depth.",
+        "Discussing the importance of critical thinking and continuous learning.",
+        "Providing a step-by-step guide for debugging complex code."
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b73"
+      }
+    },
+    {
+      "question": "Which key takeaway is highlighted in the 'The Basic Tools' section?",
+      "options": [
+        "Focusing solely on automated testing.",
+        "Emphasizing code reuse and automation.",
+        "Advocating for manual code formatting.",
+        "Highlighting the significance of excessive documentation."
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b74"
+      }
+    },
+    {
+      "question": "What is the primary topic of the 'Bend, or Break' section?",
+      "options": [
+        "Exploring the history of software development.",
+        "Analyzing the psychological aspects of programming.",
+        "Creating flexible and maintainable code.",
+        "Discussing the impact of machine learning on coding."
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b75"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733558"
+  },
+  "name": "pride and prejudice",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7850"
+  },
+  "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.777Z"
+  },
+  "__v": 0,
+  "description": "Pride and Prejudice is a novel by Jane Austen, first published in 1813. The novel tells the story of the Bennett family, a middle-class family living in England in the early 19th century. The Bennett sisters, particularly Elizabeth, are central to the story. The novel is known for its wit, its portrayal of English society and its intricate exploration of relationships between characters. The main theme of the novel is the danger of judging others based on first impressions and societal status, and the ultimate triumph of love over pride and prejudice. Throughout the novel, Elizabeth and Mr. Darcy, the wealthy and arrogant hero, are initially at odds with each other due to their pride and prejudice. However, as they get to know each other better, they begin to see the error of their ways and ultimately fall in love. Pride and Prejudice is a classic work of English literature and is widely considered one of Austen's greatest novels. It has been adapted into numerous films, television shows, and stage productions.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873921/r0tymg9epkoxja1sy9ow.webp",
+  "content": "<p>The novel follows the lives of the five Bennett sisters, who live in the countryside of England in the early 19th century. The Bennett sisters, particularly Elizabeth, the second oldest, must navigate the expectations of society, marriage, and love in a time when women had very little agency and were largely dependent on men for their social and financial status.</p><p>At the beginning of the novel, the Bennett sisters are introduced to the wealthy and eligible Mr. Charles Bingley, who has recently moved into the neighborhood with his friend, Mr. Darcy. Mr. Bingley is immediately taken with the eldest Bennett sister, Jane, and begins to court her, much to the delight of the Bennett family. However, Mr. Darcy, who is considered the most desirable bachelor in the area, takes an instant dislike to Elizabeth and makes no secret of his disdain for her and her family.</p><p>As the story progresses, Elizabeth and Mr. Darcy's initial animosity towards each other slowly transforms into a deeper understanding and respect. However, their relationship is fraught with misunderstandings and societal expectations that threaten to keep them apart. Elizabeth's pride in her own abilities and her prejudice against Mr. Darcy's wealth and status create numerous obstacles for the couple, and it is only through a series of events and the intervention of those around them that they are ultimately able to overcome their pride and prejudices and find their way to each other.</p><p>Pride and Prejudice is a timeless love story that explores themes of love, marriage, class, and gender roles. It is a classic tale of two people from different worlds learning to see past their own biases and expectations to find true love and happiness.</p>",
+  "evaluation": [
+    {
+      "question": "What is the main purpose of the book 'Pride and Prejudice'?",
+      "options": [
+        "To provide practical advice and tips for software developers.",
+        "To explore the themes of love and societal norms.",
+        "To delve into existentialism and the human condition."
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "6493a845421126609ad12d0a"
+      }
+    },
+    {
+      "question": "What stands out as a key strength of 'Pride and Prejudice'?",
+      "options": [
+        "Its detailed analysis of 19th-century British society.",
+        "Its focus on practical techniques and approaches for software development.",
+        "Its exploration of the concept of identity and alienation."
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "6493a845421126609ad12d0b"
+      }
+    },
+    {
+      "question": "Which of the following is a theme explored in 'Pride and Prejudice'?",
+      "options": [
+        "Optimization algorithms in computer science.",
+        "The impact of technology on society.",
+        "The role of class and social expectations in relationships."
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "6493a845421126609ad12d0c"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e77d386f370db6ec16b13b"
+  },
+  "name": "introduction to algorithms",
+  "description": "A comprehensive textbook by Cormen, Leiserson, Rivest, and Stein, 'Introduction to Algorithms' offers a deep exploration of algorithm design, analysis, and data structures in computer science.",
+  "state": true,
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873905/qisaczqnuzzs34ajfual.webp",
+  "subject": {
+    "$oid": "63a71777847f944a5af385d8"
+  },
+  "price": 40,
+  "autor": {
+    "$oid": "63e77a2d6f370db6ec16b108"
+  },
+  "content": "<p>&quot;Introduction to Algorithms&quot; is a widely-recognized textbook in computer science, written by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. This comprehensive text provides a deep insight into modern algorithm design and analysis. Here's an extended and detailed summary, organized by sections:</p>\n<h3>Part I: Foundations</h3>\n<ol>\n<li>\n<p><strong>Chapter 1: The Role of Algorithms in Computing</strong></p>\n<ul>\n<li>Introduction to algorithms, their importance, and efficiency.</li>\n<li>Comparison between algorithms to explain why efficiency matters.</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 2: Getting Started</strong></p>\n<ul>\n<li>Basic sorting algorithms (e.g., insertion sort).</li>\n<li>An introduction to algorithm analysis.</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 3: Growth of Functions</strong></p>\n<ul>\n<li>Asymptotic analysis, big O notation, and growth rate of functions.</li>\n<li>Analyzing the running time of algorithms.</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 4: Divide-and-Conquer</strong></p>\n<ul>\n<li>Breaking down problems into smaller parts.</li>\n<li>Examples: merge sort, quicksort, and master theorem.</li>\n</ul>\n</li>\n</ol>\n<h3>Part II: Sorting and Order Statistics</h3>\n<ol start=\"5\">\n<li>\n<p><strong>Chapter 5: Probabilistic Analysis and Randomized Algorithms</strong></p>\n<ul>\n<li>Randomized algorithms like randomized quicksort.</li>\n<li>Analyzing the average-case performance of an algorithm.</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 6: Heapsort</strong></p>\n<ul>\n<li>Heap data structure, heap operations, and heapsort algorithm.</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 7: Quicksort</strong></p>\n<ul>\n<li>Detailed analysis of the quicksort algorithm.</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 8: Sorting in Linear Time</strong></p>\n<ul>\n<li>Non-comparative sorting algorithms like counting sort and bucket sort.</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 9: Medians and Order Statistics</strong></p>\n<ul>\n<li>Finding medians, order statistics, and related algorithms.</li>\n</ul>\n</li>\n</ol>\n<h3>Part III: Data Structures</h3>\n<ol start=\"10\">\n<li>\n<p><strong>Chapter 10: Elementary Data Structures</strong></p>\n<ul>\n<li>Basic data structures like stacks, queues, linked lists.</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 11: Hash Tables</strong></p>\n<ul>\n<li>Hash functions, collision resolution, and applications.</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 12: Binary Search Trees</strong></p>\n<ul>\n<li>Tree structures, in-order traversal, insertions, and deletions.</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 13: Red-Black Trees</strong></p>\n<ul>\n<li>Balanced binary search trees and related operations.</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 14: Augmenting Data Structures</strong></p>\n<ul>\n<li>Additional structures like order-statistic trees.</li>\n</ul>\n</li>\n</ol>\n<h3>Part IV: Advanced Design and Analysis Techniques</h3>\n<ol start=\"15\">\n<li>\n<p><strong>Chapter 15: Dynamic Programming</strong></p>\n<ul>\n<li>Problem-solving using dynamic programming (e.g., Rod Cutting).</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 16: Greedy Algorithms</strong></p>\n<ul>\n<li>Greedy methods, applications like Huffman coding.</li>\n</ul>\n</li>\n</ol>\n<h3>Part V: Advanced Data Structures</h3>\n<ol start=\"17\">\n<li>\n<p><strong>Chapter 17: Amortized Analysis</strong></p>\n<ul>\n<li>Analyzing sequences of operations on data structures.</li>\n</ul>\n</li>\n<li>\n<p><strong>Chapter 18: B-Trees</strong></p>\n<ul>\n<li>Multi-level index structures used in databases.</li>\n</ul>\n</li>\n</ol>\n<h3>Part VI: Graph Algorithms</h3>\n<ol start=\"19\">\n<li><strong>Chapters 19-22: Various Graph Algorithms</strong>\n<ul>\n<li>Breadth-first search, depth-first search, minimum spanning trees, etc.</li>\n</ul>\n</li>\n</ol>\n<h3>Part VII: Mathematical Algorithms</h3>\n<ol start=\"20\">\n<li><strong>Chapters 23-25: Various Mathematical Algorithms</strong>\n<ul>\n<li>Numeric algorithms, fast Fourier transform, number theoretic algorithms.</li>\n</ul>\n</li>\n</ol>\n<h3>Part VIII: Appendix</h3>\n<ul>\n<li>Mathematical background and reference materials.</li>\n</ul>\n<p>This book is an essential resource for computer science students, professionals, and enthusiasts. It covers a wide range of topics, providing both theoretical understanding and practical implementation. Concepts are explained using mathematical rigor, yet they are made accessible through examples and intuitive explanations.</p>\n<p>For an even richer analysis of each section, the reader is encouraged to delve into the actual book, where complex topics are broken down into manageable lessons, complete with examples, pseudocode, and exercises.</p>\n",
+  "dateCreated": {
+    "$date": "2023-02-11T11:34:16.480Z"
+  },
+  "__v": 0,
+  "isFeatured": true,
+  "evaluation": [
+    {
+      "question": "What is the primary focus of Part III: Data Structures?",
+      "options": [
+        "Exploring various sorting algorithms.",
+        "Analyzing probabilistic algorithms.",
+        "Discussing dynamic programming techniques.",
+        "Introducing basic data structures like linked lists."
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b53"
+      }
+    },
+    {
+      "question": "Which topic is covered in Part VI: Graph Algorithms?",
+      "options": [
+        "Advanced mathematical concepts.",
+        "Various sorting algorithms.",
+        "Algorithms for analyzing data structures.",
+        "Breadth-first search and depth-first search."
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b54"
+      }
+    },
+    {
+      "question": "What is the purpose of the Appendix in the book?",
+      "options": [
+        "Providing solutions to exercises.",
+        "Exploring real-world applications of algorithms.",
+        "Presenting advanced data structures.",
+        "Offering mathematical background and reference materials."
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b55"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d689334073355c"
+  },
+  "name": "the stranger",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7834"
+  },
+  "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.780Z"
+  },
+  "__v": 0,
+  "description": "\"The Stranger\" is an existentialist novel by Albert Camus, focusing on the emotionally detached protagonist Meursault. After his mother's death, he becomes involved in a conflict and kills an Arab man. His subsequent trial emphasizes his unconventional attitudes more than the crime itself, and he is sentenced to death. Throughout the novel, existential themes like the absurdity of life and the individual's isolation in the universe are explored.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873928/xxb8khzixkqudhskksfw.webp",
+  "content": "<p>Here's a comprehensive summary of &quot;The Stranger&quot; by Albert Camus, followed by a concise summary for quick reference.</p>\n<p><strong>Comprehensive Summary:</strong></p>\n<p>&quot;The Stranger&quot; is a novel written by Albert Camus, published in 1942. It is a seminal work in the existentialism movement and is often interpreted as an exploration of the absurdity of life. Here's a detailed look into the novel:</p>\n<p><strong>Part 1:</strong></p>\n<ol>\n<li><strong>Introduction to Meursault</strong>: The protagonist, Meursault, is an emotionally detached French Algerian who learns of his mother's death.</li>\n<li><strong>Funeral</strong>: Meursault attends the funeral but displays an unusual lack of emotion, which is central to his character.</li>\n<li><strong>Life in Algiers</strong>: Returning to Algiers, Meursault resumes his life, spending time with his girlfriend Marie and his neighbor Raymond, who has abusive tendencies.</li>\n<li><strong>The Beach Incident</strong>: Raymond is in conflict with an Arab man and his brother. Meursault becomes involved, and during a confrontation on the beach, he kills the Arab man without any apparent reason.</li>\n</ol>\n<p><strong>Part 2:</strong></p>\n<ol>\n<li><strong>Arrest and Imprisonment</strong>: Meursault is arrested and imprisoned. His detachment continues to be apparent in his interactions with legal authorities.</li>\n<li><strong>Trial</strong>: The trial turns more into an examination of Meursault's character and his inability to conform to social norms, rather than focusing on the crime itself. His atheism and behavior at his mother's funeral are scrutinized.</li>\n<li><strong>Verdict</strong>: Meursault is found guilty and sentenced to death by guillotine.</li>\n<li><strong>Reflection on Existence</strong>: The novel concludes with Meursault reflecting on the meaninglessness of life and accepting the absurdity of existence.</li>\n</ol>\n<p><strong>Themes and Symbolism:</strong></p>\n<ul>\n<li><strong>Existentialism and Absurdism</strong>: The novel explores existentialist themes such as the meaningless of existence and the isolation of the individual in an indifferent universe.</li>\n<li><strong>Society's Expectations</strong>: Meursault's lack of emotional response and refusal to adhere to societal norms ultimately lead to his downfall.</li>\n<li><strong>Sun and Heat Imagery</strong>: The recurring imagery of intense heat and sunlight symbolizes the blinding truth of Meursault's reality and his confrontation with the absurd.</li>\n</ul>\n<p><strong>Concise Summary:</strong>\n&quot;The Stranger&quot; is an existentialist novel by Albert Camus, focusing on the emotionally detached protagonist Meursault. After his mother's death, he becomes involved in a conflict and kills an Arab man. His subsequent trial emphasizes his unconventional attitudes more than the crime itself, and he is sentenced to death. Throughout the novel, existential themes like the absurdity of life and the individual's isolation in the universe are explored.</p>\n<p>I hope this summary provides you with the information you were looking for. Feel free to ask if you'd like more details on any particular aspect!</p>\n",
+  "evaluation": [
+    {
+      "question": "What philosophical movement is closely associated with \"The Stranger\"?",
+      "options": [
+        "Romanticism",
+        "Existentialism",
+        "Realism",
+        "Surrealism"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b6b"
+      }
+    },
+    {
+      "question": "How does Meursault's emotional detachment impact the events of the novel?",
+      "options": [
+        "It leads him to commit multiple crimes",
+        "It causes him to show excessive emotions",
+        "It isolates him from society but has no effect on the plot",
+        "It affects his actions and relationships, contributing to his downfall"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b6c"
+      }
+    },
+    {
+      "question": "What is a recurring symbol in the novel that represents the blinding truth of Meursault's reality?",
+      "options": [
+        "A mirror",
+        "A clock",
+        "A sun and intense heat",
+        "A closed door"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b6d"
+      }
+    }
+  ],
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d689334073355d"
+  },
+  "name": "don quixote of la mancha",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f785e"
+  },
+  "link": "https://en.wikipedia.org/wiki/Don_Quixote",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.780Z"
+  },
+  "__v": 0,
+  "description": "*Don Quixote of La Mancha* follows Alonso Quixano, who, driven mad by reading chivalric romances, becomes the self-proclaimed knight Don Quixote. Along with his squire, Sancho Panza, he embarks on a series of misguided adventures, mistaking everyday objects for fantastical elements. His delusions, encounters with others playing along, and self-awareness within a narrative create a complex and humorous tale that ends with his return to sanity and death. The novel explores themes of idealism, reality, and the human condition.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873930/ny2qdv6nq9tjz6sfkslu.webp",
+  "content": "<p>Sure, here's a detailed summary followed by a concise version at the end:</p>\n<p><strong>Detailed Summary:</strong></p>\n<p><em>Don Quixote of La Mancha</em> is a novel written by Miguel de Cervantes, first published in two parts in 1605 and 1615. It's considered one of the greatest works of literature ever written and is often regarded as the first modern novel.</p>\n<p><strong>Part I</strong></p>\n<ol>\n<li>\n<p><strong>Introduction to the Main Characters</strong>: The story follows a hidalgo (minor nobleman) named Alonso Quixano, who becomes enamored with the chivalric romances he's read. He loses his sanity and sets out to revive chivalry under the name Don Quixote. He recruits a simple farmer, Sancho Panza, as his squire.</p>\n</li>\n<li>\n<p><strong>Adventures Begin</strong>: Don Quixote embarks on his first sally, mistaking windmills for giants and attacking them. This episode becomes one of his most famous misadventures.</p>\n</li>\n<li>\n<p><strong>Further Misadventures</strong>: Numerous adventures follow, most of them characterized by Don Quixote's delusions and misconceptions. He often sees ordinary objects or people as fantastical elements from chivalric tales.</p>\n</li>\n<li>\n<p><strong>The Knight of the Wood</strong>: Don Quixote encounters another man pretending to be a knight, leading to a battle of wits and further confusion.</p>\n</li>\n<li>\n<p><strong>Return Home</strong>: His friends and family, concerned about his mental state, trick him into returning home. They confine him to his bed, hoping to cure his madness.</p>\n</li>\n</ol>\n<p><strong>Part II</strong></p>\n<ol>\n<li>\n<p><strong>Return to Adventures</strong>: Discovering that his story has been published, Don Quixote decides to set out again with Sancho Panza. His delusions continue, but there's a subtle shift in his character.</p>\n</li>\n<li>\n<p><strong>Interaction with Readers</strong>: The characters are aware of their existence within a published narrative, and this self-awareness leads to complex interactions with other characters who've read about them.</p>\n</li>\n<li>\n<p><strong>Duke and Duchess</strong>: They meet a Duke and Duchess who play along with Don Quixote's fantasies, orchestrating elaborate pranks.</p>\n</li>\n<li>\n<p><strong>Sancho's Governance</strong>: Sancho is given the opportunity to govern an &quot;island&quot; (actually a small village), providing comic relief and insights into human nature.</p>\n</li>\n<li>\n<p><strong>Don Quixote’s Final Adventure</strong>: A final encounter with another pretender knight leads to Don Quixote's defeat and his promise to renounce his chivalric fantasies.</p>\n</li>\n<li>\n<p><strong>Return and Death</strong>: Don Quixote returns home, regains his sanity, acknowledges the folly of his ideals, and dies, marking a tragic end to his quest.</p>\n</li>\n</ol>\n<p><strong>Themes and Analysis</strong></p>\n<p>The novel is a profound exploration of idealism and reality, madness and sanity, and the human need for dreams and nobility. It's rich with satire, parodying the chivalric romances popular at the time.</p>\n<p><strong>Concise Summary</strong>:</p>\n<p><em>Don Quixote of La Mancha</em> follows Alonso Quixano, who, driven mad by reading chivalric romances, becomes the self-proclaimed knight Don Quixote. Along with his squire, Sancho Panza, he embarks on a series of misguided adventures, mistaking everyday objects for fantastical elements. His delusions, encounters with others playing along, and self-awareness within a narrative create a complex and humorous tale that ends with his return to sanity and death. The novel explores themes of idealism, reality, and the human condition.</p>\n",
+  "isFeatured": true,
+  "evaluation": [
+    {
+      "question": "Who becomes Don Quixote's loyal squire?",
+      "options": [
+        "Alonso Quixano",
+        "Sancho Panza",
+        "Duke",
+        "Duchess"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b9b"
+      }
+    },
+    {
+      "question": "What is Don Quixote's primary motivation for his actions?",
+      "options": [
+        "To seek revenge against his enemies",
+        "To win the love of a noble lady",
+        "To restore chivalry and right wrongs",
+        "To acquire great wealth"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b9c"
+      }
+    },
+    {
+      "question": "How does the novel play with the idea of reality and illusion?",
+      "options": [
+        "Don Quixote's delusions are presented as reality throughout the novel.",
+        "The characters are completely unaware of their existence within a narrative.",
+        "Sancho Panza's governance is a true representation of effective leadership.",
+        "The novel refrains from exploring the boundary between reality and illusion."
+      ],
+      "correctOption": 0,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b9d"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733562"
+  },
+  "name": "jacques the fatalist",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f783b"
+  },
+  "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.782Z"
+  },
+  "__v": 0,
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873937/rgk5fpqsoscqnkybxrhk.webp",
+  "content": "<p>&quot;Jacques the Fatalist&quot; is a novel by Denis Diderot, written in the late 18th century. It's an unconventional work that delves into philosophical ideas and themes, most notably fatalism.</p>\n<h3>Main Plot and Characters</h3>\n<p><strong>Main Characters:</strong></p>\n<ul>\n<li><strong>Jacques:</strong> The protagonist, a fatalist who believes everything happens by fate.</li>\n<li><strong>His Master:</strong> Often engaging Jacques in philosophical discussions, their relationship is more like friends than master and servant.</li>\n</ul>\n<p><strong>Plot Summary:</strong></p>\n<ul>\n<li><strong>Journey:</strong> The novel follows Jacques and his master's travels. Throughout their journey, they meet various characters and share stories, leading to a nested story structure.</li>\n<li><strong>Philosophical Conversations:</strong> Jacques and his master often engage in philosophical dialogues, exploring concepts like love, fate, and free will.</li>\n<li><strong>Interruptions and Digressions:</strong> The narrator frequently interrupts the story with comments or additional anecdotes. These interruptions serve to challenge the traditional storytelling form and highlight Diderot's thoughts on literature and philosophy.</li>\n<li><strong>Conclusion:</strong> The novel doesn't follow a conventional conclusion; instead, it ends in a way that aligns with the novel's explorative and experimental nature.</li>\n</ul>\n<h3>Themes and Interpretations</h3>\n<ul>\n<li><strong>Fatalism vs. Free Will:</strong> Jacques's belief in fatalism is a recurring theme, and his master often challenges this belief.</li>\n<li><strong>Narrative Structure:</strong> The novel is noted for its unconventional narrative form, with a non-linear structure, frequent interruptions, and stories within stories.</li>\n<li><strong>Influence of Enlightenment:</strong> Reflecting the Enlightenment era, the book includes themes of reason, individualism, and skepticism.</li>\n</ul>\n<h3>Literary Importance and Impact</h3>\n<p>&quot;Jacques the Fatalist&quot; is considered a significant work in the history of literature. Its philosophical depth, unique structure, and playful narrative have inspired critical study and influenced later writers like Milan Kundera.</p>\n<h3>Concise Summary</h3>\n<p>&quot;Jacques the Fatalist&quot; is a novel by Denis Diderot that follows Jacques and his master on a journey filled with philosophical dialogues and various anecdotes. With a strong emphasis on fatalism and a unique narrative structure that includes interruptions and digressions, the novel is a playful exploration of philosophical themes and literary techniques. It's an experimental piece that doesn't conform to conventional storytelling, reflecting the intellectual spirit of the Enlightenment era.</p>\n",
+  "description": "\"Jacques the Fatalist\" by Denis Diderot is an unconventional novel exploring fatalism and philosophy. It follows the journey of Jacques and his master, engaging in philosophical dialogues and sharing anecdotes. The unique narrative structure, with interruptions and digressions, challenges traditional storytelling. The book's themes of fatalism, free will, and Enlightenment ideals have left a lasting impact on literature.",
+  "evaluation": [
+    {
+      "question": "What is a central theme explored in 'Jacques the Fatalist'?",
+      "options": [
+        "The supernatural and paranormal",
+        "The power of technology and industrialization",
+        "The clash of cultures and societal norms",
+        "Fatalism and its implications"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b97"
+      }
+    },
+    {
+      "question": "What distinguishes the narrative structure of the novel?",
+      "options": [
+        "Linear and chronological storytelling",
+        "Interruptions, digressions, and nested stories",
+        "Multiple plotlines and parallel universes",
+        "Stream-of-consciousness narration"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b98"
+      }
+    },
+    {
+      "question": "How does 'Jacques the Fatalist' reflect the Enlightenment era?",
+      "options": [
+        "It focuses on romantic ideals and emotions",
+        "It emphasizes traditional religious beliefs",
+        "It explores themes of reason, individualism, and skepticism",
+        "It promotes blind obedience to authority"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b99"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733568"
+  },
+  "name": "invisible man",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7865"
+  },
+  "link": "https://en.wikipedia.org/wiki/Invisible_Man",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.783Z"
+  },
+  "__v": 0,
+  "evaluation": [
+    {
+      "question": "Who is the protagonist in 'Invisible Man'?",
+      "options": [
+        "The Invisible Woman",
+        "The unnamed African American narrator",
+        "The Phantom of the Opera"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "6493a845421126609ad12d26"
+      }
+    },
+    {
+      "question": "What type of invisibility is explored in 'Invisible Man'?",
+      "options": [
+        "Magical invisibility",
+        "Technological invisibility",
+        "Social and racial invisibility"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "6493a845421126609ad12d27"
+      }
+    },
+    {
+      "question": "What is the protagonist's struggle in 'Invisible Man'?",
+      "options": [
+        "Navigating racism and finding his identity",
+        "Solving a murder mystery",
+        "Discovering a hidden underground city"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "6493a845421126609ad12d28"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d689334073356e"
+  },
+  "name": "faust",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7851"
+  },
+  "link": "https://en.wikipedia.org/wiki/Goethe%27s_Faust",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.784Z"
+  },
+  "__v": 0,
+  "evaluation": [
+    {
+      "question": "What is the main theme explored in 'Faust'?",
+      "options": [
+        "The rise and fall of an ambitious politician",
+        "The challenges of space exploration",
+        "The pursuit of knowledge and the human condition"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "6493a845421126609ad12cee"
+      }
+    },
+    {
+      "question": "Who is the central character in 'Faust'?",
+      "options": [
+        "Dr. Faust",
+        "Mephistopheles",
+        "Gretchen"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "6493a845421126609ad12cef"
+      }
+    },
+    {
+      "question": "Which famous playwright wrote 'Faust'?",
+      "options": [
+        "William Shakespeare",
+        "Johann Wolfgang von Goethe",
+        "Anton Chekhov"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "6493a845421126609ad12cf0"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733573"
+  },
+  "name": "odyssey",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f784d"
+  },
+  "link": "https://en.wikipedia.org/wiki/Odyssey",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.785Z"
+  },
+  "__v": 0,
+  "evaluation": [
+    {
+      "question": "Who is the epic hero in 'Odyssey'?",
+      "options": [
+        "Perseus",
+        "Hercules",
+        "Odysseus"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "6493a845421126609ad12cf5"
+      }
+    },
+    {
+      "question": "Which Greek poet is credited with writing 'Odyssey'?",
+      "options": [
+        "Homer",
+        "Sappho",
+        "Euripides"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "6493a845421126609ad12cf6"
+      }
+    },
+    {
+      "question": "What is the primary goal of Odysseus in 'Odyssey'?",
+      "options": [
+        "To find a hidden treasure",
+        "To return home after the Trojan War",
+        "To conquer new lands and establish an empire"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "6493a845421126609ad12cf7"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733551"
+  },
+  "name": "things fall apart",
+  "state": true,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7838"
+  },
+  "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.772Z"
+  },
+  "__v": 0,
+  "description": "\"Things Fall Apart\" by Chinua Achebe tells the story of Okonkwo, a strong-willed Igbo leader who faces personal downfall and the erosion of his culture with the arrival of European colonizers. The novel illustrates the complex interplay between traditional African society and Western influence, culminating in Okonkwo's tragic end. Themes of cultural clash, masculinity, and tradition weave through this seminal work that casts a critical eye on the impacts of colonization.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873911/kahgje0uvwkzynk0nvoi.webp",
+  "evaluation": [
+    {
+      "question": "What is the significance of Okonkwo's exile in the novel?",
+      "options": [
+        "It leads to his eventual triumph over the colonizers.",
+        "It strengthens his loyalty to his clan's traditions.",
+        "It results in the complete breakdown of his family.",
+        "It marks a turning point that disrupts his life and identity."
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b7f"
+      }
+    },
+    {
+      "question": "Which cultural aspect of the Igbo society is significantly challenged by European colonialism?",
+      "options": [
+        "The role of men as warriors",
+        "The belief in ancestral spirits",
+        "The practice of polygamy",
+        "The importance of yam farming"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b80"
+      }
+    },
+    {
+      "question": "What is the main theme that runs throughout \"Things Fall Apart\"?",
+      "options": [
+        "Romantic love overcoming all obstacles",
+        "The struggle for political power and dominance",
+        "The clash between traditional culture and colonial influence",
+        "The pursuit of wealth and material success"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b81"
+      }
+    }
+  ],
+  "content": "<p>&quot;Things Fall Apart&quot; is a novel by Chinua Achebe, published in 1958. It's a seminal work that played a crucial role in reshaping African literature, and it has been translated into numerous languages worldwide.</p>\n<h3>Detailed Summary:</h3>\n<p><strong>Part One:</strong></p>\n<ul>\n<li><strong>Setting:</strong> The story is set in the Igbo village of Umuofia in Nigeria.</li>\n<li><strong>Main Character:</strong> Okonkwo, a prominent and respected warrior and local leader.</li>\n<li><strong>Family and Ambitions:</strong> Okonkwo is determined to succeed where his father failed, who died a shameful death. He's strict and leads his family with a firm hand.</li>\n<li><strong>Festivals and Traditions:</strong> Achebe delves into the daily life, traditions, and beliefs of the Igbo people, describing various ceremonies and the role of local gods.</li>\n<li><strong>Tragedy Strikes:</strong> Okonkwo accidentally kills a clansman, and as punishment, he and his family are exiled for seven years.</li>\n</ul>\n<p><strong>Part Two:</strong></p>\n<ul>\n<li><strong>Exile:</strong> The family moves to Okonkwo's mother's homeland, where they start anew.</li>\n<li><strong>Cultural Shifts:</strong> Meanwhile, Christian missionaries and European colonizers begin to arrive in Umuofia.</li>\n<li><strong>Return to Umuofia:</strong> Okonkwo returns home after seven years, only to find his village drastically changed by colonial influence.</li>\n</ul>\n<p><strong>Part Three:</strong></p>\n<ul>\n<li><strong>Clash of Cultures:</strong> Okonkwo struggles with the erosion of traditional Igbo culture under British rule and Christian influence.</li>\n<li><strong>Resistance and Despair:</strong> Okonkwo attempts to rally the villagers to resist the colonizers, but his efforts are in vain.</li>\n<li><strong>Tragic End:</strong> In a final act of desperation, Okonkwo takes his life, a grave sin in the Igbo culture.</li>\n</ul>\n<h3>Themes:</h3>\n<ul>\n<li><strong>Cultural Clash:</strong> The novel portrays the complex clash between indigenous African culture and European colonialism.</li>\n<li><strong>Tragedy and Heroism:</strong> Okonkwo's tragic flaw is his inflexibility and inability to adapt to change.</li>\n<li><strong>Gender Roles:</strong> The book also explores gender roles within the Igbo society.</li>\n</ul>\n<h3>Analysis:</h3>\n<p>&quot;Things Fall Apart&quot; stands as a profound commentary on the loss of cultural identity faced by many African nations during the colonization era. It humanizes the African experience, showing the rich and complex fabric of Igbo society before European intervention.</p>\n<h3>Concise Summary:</h3>\n<p>&quot;Things Fall Apart&quot; by Chinua Achebe tells the story of Okonkwo, a strong-willed Igbo leader who faces personal downfall and the erosion of his culture with the arrival of European colonizers. The novel illustrates the complex interplay between traditional African society and Western influence, culminating in Okonkwo's tragic end. Themes of cultural clash, masculinity, and tradition weave through this seminal work that casts a critical eye on the impacts of colonization.</p>\n"
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733552"
+  },
+  "name": "fairy tales",
+  "state": true,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f784a"
+  },
+  "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.774Z"
+  },
+  "__v": 0,
+  "description": "Fairy Tales are stories filled with magical elements, fantastical creatures, and moral lessons. Originating from oral traditions, they have been popularized by authors like the Brothers Grimm and vary across cultures. Often ending happily, Fairy Tales influence children's literature and continue to be reinterpreted in modern media. They are sometimes criticized for outdated norms, but they remain a vibrant part of global storytelling culture.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873913/c8wunllhhxfbqsgbcq1e.webp",
+  "evaluation": [
+    {
+      "question": "What is a common characteristic of Fairy Tales?",
+      "options": [
+        "Complex plot twists",
+        "Historical accounts",
+        "Magical elements",
+        "Philosophical debates"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b8f"
+      }
+    },
+    {
+      "question": "Which writer popularized many famous Fairy Tales in written form?",
+      "options": [
+        "Brothers Grimm",
+        "Hans Christian Andersen",
+        "Charles Perrault",
+        "Mark Twain"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b90"
+      }
+    },
+    {
+      "question": "What role do Fairy Tales play in children's literature?",
+      "options": [
+        "They discourage imagination",
+        "They provide entertainment only",
+        "They foster imagination and emotional development",
+        "They promote strict adherence to norms"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b91"
+      }
+    }
+  ],
+  "content": "<p>Fairy Tales are a genre of literature that includes stories filled with magical elements, fantastical creatures, and often moral lessons. They have been passed down through generations and vary widely across cultures. Below is a detailed look at Fairy Tales, followed by a concise summary.</p>\n<h3>Characteristics</h3>\n<ol>\n<li><strong>Magical Elements</strong>: Fairy Tales often include magic or supernatural phenomena as a key plot element.</li>\n<li><strong>Fantastical Creatures</strong>: Characters like fairies, trolls, witches, and giants are common.</li>\n<li><strong>Moral Lessons</strong>: Many Fairy Tales teach moral lessons or values, such as the importance of honesty or kindness.</li>\n<li><strong>Timeless and Universal Themes</strong>: These stories often deal with universal human experiences and emotions.</li>\n<li><strong>Happy Endings</strong>: They usually conclude with a &quot;happily ever after&quot; ending.</li>\n</ol>\n<h3>Historical Background</h3>\n<p>Fairy Tales have their roots in oral tradition, and some date back thousands of years. Writers like the Brothers Grimm, Hans Christian Andersen, and Charles Perrault have popularized many famous Fairy Tales in written form.</p>\n<h3>Cultural Variations</h3>\n<p>Different cultures have their unique versions of Fairy Tales. For instance, Russian Fairy Tales often feature characters like Baba Yaga, while Japanese Fairy Tales might include spirits and gods.</p>\n<h3>Modern Interpretations</h3>\n<p>In modern times, Fairy Tales have been adapted into various media including films, novels, and plays. They continue to be reinterpreted and often used as allegories for contemporary social issues.</p>\n<h3>Impact on Children's Literature</h3>\n<p>Fairy Tales play a significant role in children's literature, offering entertainment and education. They foster imagination, social understanding, and emotional development.</p>\n<h3>Controversies</h3>\n<p>Some critics argue that certain Fairy Tales promote stereotypes or outdated societal norms. However, many authors and filmmakers are reimagining these tales to reflect more inclusive and diverse perspectives.</p>\n<h3>Famous Examples</h3>\n<ul>\n<li><strong>Cinderella</strong>: A story of kindness and grace overcoming adversity.</li>\n<li><strong>Little Red Riding Hood</strong>: A warning tale about the dangers of straying off the known path.</li>\n<li><strong>The Little Mermaid</strong>: A tale of love and sacrifice.</li>\n</ul>\n<h2>Concise Summary</h2>\n<p>Fairy Tales are stories filled with magical elements, fantastical creatures, and moral lessons. Originating from oral traditions, they have been popularized by authors like the Brothers Grimm and vary across cultures. Often ending happily, Fairy Tales influence children's literature and continue to be reinterpreted in modern media. They are sometimes criticized for outdated norms, but they remain a vibrant part of global storytelling culture.</p>\n"
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733559"
+  },
+  "name": "molloy",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f786a"
+  },
+  "link": "https://en.wikipedia.org/wiki/Molloy_(novel)",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.778Z"
+  },
+  "__v": 0,
+  "description": "\"Molloy\" is a two-part novel by Samuel Beckett. In the first part, Molloy, a disabled old man, recounts his bewildering journey to visit his mother, filled with absurdities and confusion. The second part follows Jacques Moran, a detective assigned to find Molloy. His journey parallels Molloy's, and he gradually takes on Molloy's characteristics. Themes include the uncertainty of existence, identity confusion, and the inadequacy of language. The novel offers no clear resolution, emphasizing the existential dilemma.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873923/mtsria0acywmddkyuhzx.webp",
+  "content": "<p>&quot;Molloy&quot; is a novel written by Samuel Beckett, first published in French in 1951 and then in English in 1955. Here's a detailed summary, followed by a concise version.</p>\n<h3>Detailed Summary</h3>\n<p><strong>Part I: Molloy’s Narrative</strong>\nThe novel is divided into two parts, with the first half narrated by the title character, Molloy.</p>\n<ol>\n<li>\n<p><strong>Molloy's Condition</strong>: Molloy is a decrepit, disabled man living with his mother. His narrative is a tangled, disjointed recollection of his journey to visit his mother.</p>\n</li>\n<li>\n<p><strong>Journey</strong>: Molloy sets out on a journey on his bicycle, but his trip is fraught with absurd mishaps and complications, such as his obsession with calculating the optimal way to suck on a series of stones.</p>\n</li>\n<li>\n<p><strong>Encounter with Lousse</strong>: Molloy meets a woman named Lousse, with whom he stays for a while. He is unsure whether his actions lead to her death or not.</p>\n</li>\n<li>\n<p><strong>Reaching His Mother</strong>: After much suffering and confusion, Molloy finally reaches his mother but cannot communicate with her meaningfully.</p>\n</li>\n<li>\n<p><strong>Uncertain Ending</strong>: The part ends with Molloy in a state of confusion, unable to recall how he ended up in his current state, and his narrative dissolves into incoherence.</p>\n</li>\n</ol>\n<p><strong>Part II: Moran's Narrative</strong>\nThe second part is narrated by Jacques Moran, a private detective.</p>\n<ol>\n<li>\n<p><strong>Assignment</strong>: Moran is assigned to find Molloy by his mysterious superior, Youdi. He sets off with his son to locate Molloy, following obscure clues.</p>\n</li>\n<li>\n<p><strong>Journey</strong>: Moran's journey mirrors Molloy's in many ways, with strange occurrences, and the relationship with his son deteriorates over time.</p>\n</li>\n<li>\n<p><strong>Transformation</strong>: Gradually, Moran begins to take on Molloy's characteristics, both in thought and physical ailments.</p>\n</li>\n<li>\n<p><strong>Return Home</strong>: The search for Molloy becomes secondary, and the story ends with Moran returning home, significantly transformed, with his mission unresolved.</p>\n</li>\n</ol>\n<h3>Themes</h3>\n<p>The novel explores themes of identity, existence, language's inadequacy, and the absurdity of the human condition.</p>\n<h3>Concise Summary</h3>\n<p>&quot;Molloy&quot; is a two-part novel by Samuel Beckett. In the first part, Molloy, a disabled old man, recounts his bewildering journey to visit his mother, filled with absurdities and confusion. The second part follows Jacques Moran, a detective assigned to find Molloy. His journey parallels Molloy's, and he gradually takes on Molloy's characteristics. Themes include the uncertainty of existence, identity confusion, and the inadequacy of language. The novel offers no clear resolution, emphasizing the existential dilemma.</p>\n",
+  "evaluation": [
+    {
+      "question": "What is a central theme of \"Molloy\"?",
+      "options": [
+        "The triumph of reason and order",
+        "The inadequacy of language",
+        "The celebration of traditional values",
+        "The pursuit of material wealth"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b83"
+      }
+    },
+    {
+      "question": "Who narrates the first part of the novel?",
+      "options": [
+        "Jacques Moran",
+        "Youdi",
+        "Molloy",
+        "Lousse"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b84"
+      }
+    },
+    {
+      "question": "What is a common element between Molloy's journey and Moran's journey?",
+      "options": [
+        "Both journeys are straightforward and uneventful",
+        "Both journeys involve seeking medical treatment",
+        "Both journeys are filled with absurdities and confusion",
+        "Both journeys end in clear resolutions"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b85"
+      }
+    }
+  ],
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d689334073355a"
+  },
+  "name": "the decameron",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7848"
+  },
+  "link": "https://en.wikipedia.org/wiki/The_Decameron",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.779Z"
+  },
+  "__v": 0,
+  "description": "\"The Decameron\" by Giovanni Boccaccio is a 14th-century collection of 100 tales told over ten days by a group of young people sheltering from the Black Death in Florence. The stories, ranging in themes from love and tragedy to wit and wisdom, are shared within a structured framework where each day has a particular theme or no theme at all. The tales are often humorous, satirical, and reflective of the values and social norms of medieval European society. The book ends with the characters returning to a recovering Florence, symbolizing hope and renewal.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873924/zmh5yn8845tunbuzpqes.webp",
+  "content": "<p>Here's a detailed summary of &quot;The Decameron,&quot; written by Giovanni Boccaccio, followed by a concise summary for quick reference.</p>\n<h3>Detailed Summary</h3>\n<p><strong>Introduction:</strong>\n&quot;The Decameron&quot; is a collection of 100 stories told over ten days by ten young Florentines who have retreated to a country estate to escape the Black Death plague that's ravaging Florence in the 14th century. Each day, one member of the group is chosen as the king or queen and selects a theme for the day's stories. The ten storytellers are seven women (Pampinea, Fiammetta, Filomena, Emilia, Lauretta, Neifile, and Elissa) and three men (Panfilo, Filostrato, and Dioneo).</p>\n<p><strong>Themes and Stories:</strong>\nThe themes explored in the stories range from love and fortune to wit and practical wisdom. The tales are often playful, witty, and satirical, with occasional moral lessons. Some of the most famous stories include:</p>\n<ul>\n<li><strong>Day 1</strong>: Misadventures and tragic events without a specific theme. Example: Ser Cepperello deceives a holy friar with his false confession.</li>\n<li><strong>Day 2</strong>: Stories of people who achieve something they desire after enduring great difficulties.</li>\n<li><strong>Day 3</strong>: Love tales with happy endings.</li>\n<li><strong>Day 4</strong>: Tragic love stories.</li>\n<li><strong>Day 5</strong>: Tales of love that ends happily.</li>\n<li><strong>Day 6</strong>: Stories of those who escaped danger or solved problems through wit or skill.</li>\n<li><strong>Day 7</strong>: Tricks that women play on men, and vice versa.</li>\n<li><strong>Day 8</strong>: Stories of love and trickery.</li>\n<li><strong>Day 9</strong>: No specific theme, allowing the tellers to choose their favorite stories.</li>\n<li><strong>Day 10</strong>: Stories of individuals who have generously or munificently bestowed their wealth or done other acts of kindness.</li>\n</ul>\n<p><strong>Conclusion:</strong>\nThe Decameron ends with the return of the ten storytellers to Florence. They find the city recovering from the plague, and the book concludes on a hopeful note.</p>\n<h3>Concluding Remarks</h3>\n<p>&quot;The Decameron&quot; is not only an important work in terms of its literary merit but also provides a rich historical insight into medieval European society, including views on morality, relationships, and the human condition.</p>\n<h3>Concise Summary</h3>\n<p>&quot;The Decameron&quot; by Giovanni Boccaccio is a 14th-century collection of 100 tales told over ten days by a group of young people sheltering from the Black Death in Florence. The stories, ranging in themes from love and tragedy to wit and wisdom, are shared within a structured framework where each day has a particular theme or no theme at all. The tales are often humorous, satirical, and reflective of the values and social norms of medieval European society. The book ends with the characters returning to a recovering Florence, symbolizing hope and renewal.</p>\n",
+  "evaluation": [
+    {
+      "question": "What is the framing device used in \"The Decameron\"?",
+      "options": [
+        "A series of monologues by the main character",
+        "A collection of diary entries",
+        "A group of young people telling stories to pass the time",
+        "A dialogue between a philosopher and a poet"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b67"
+      }
+    },
+    {
+      "question": "How many stories are told in \"The Decameron\"?",
+      "options": [
+        "100",
+        "10",
+        "50",
+        "20"
+      ],
+      "correctOption": 0,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b68"
+      }
+    },
+    {
+      "question": "What historical event influences the setting of \"The Decameron\"?",
+      "options": [
+        "The Hundred Years' War",
+        "The Renaissance",
+        "The Norman Conquest",
+        "The Black Death plague"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b69"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d689334073355b"
+  },
+  "name": "ficciones",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7853"
+  },
+  "link": "https://en.wikipedia.org/wiki/Ficciones",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.779Z"
+  },
+  "__v": 0,
+  "description": "\"Ficciones\" by Jorge Luis Borges is a collection of 17 short stories that delve into themes like labyrinths, infinite reality, literary games, and identity. Through intricate and mind-bending narratives, Borges challenges conventional thinking and explores complex metaphysical concepts. The book is divided into two parts, \"The Garden of Forking Paths\" and \"Artifices,\" each containing stories that reflect Borges's unique storytelling style and philosophical insight.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873926/gzsuoiqyaei9wonk8jrj.webp",
+  "content": "<p>&quot;Ficciones&quot; is a collection of short stories written by Argentine author Jorge Luis Borges. Published in 1944, this book is a classic in modern literature and has been translated into multiple languages. Here's a comprehensive breakdown of the work, along with a concise summary at the end.</p>\n<h3>Structure and Themes</h3>\n<p>&quot;Ficciones&quot; is divided into two parts: &quot;The Garden of Forking Paths&quot; and &quot;Artifices.&quot; Each part consists of several short stories, with a total of 17 stories in the entire collection.</p>\n<h4>Themes</h4>\n<p>The stories in &quot;Ficciones&quot; explore various themes, including:</p>\n<ol>\n<li><strong>Labyrinths and Infinite Reality</strong>: Borges often employs maze-like structures, metaphysical paradoxes, and infinite recursions to explore human perception and reality.</li>\n<li><strong>Literary Games</strong>: Borges plays with the idea of authorship and literature itself, creating stories within stories and blending fiction with factual references.</li>\n<li><strong>Identity and Self</strong>: Many of the stories probe the nature of personal identity and the concept of self through philosophical and metaphysical lenses.</li>\n</ol>\n<h3>Selected Stories</h3>\n<p>Below are summaries of a few notable stories from &quot;Ficciones&quot;:</p>\n<ol>\n<li>\n<p><strong>&quot;The Library of Babel&quot;</strong>: This story describes a universe comprising an infinite library filled with every possible combination of 410-page books. It reflects themes of infinity and chaos, challenging the notion of meaning in a world without limits.</p>\n</li>\n<li>\n<p><strong>&quot;The Garden of Forking Paths&quot;</strong>: It tells of a Chinese spy in the First World War who discovers a novel that is both a book and a labyrinth. The story plays with time, causality, and infinite possibilities.</p>\n</li>\n<li>\n<p><strong>&quot;Pierre Menard, Author of the Quixote&quot;</strong>: Here, Borges narrates the story of a writer who aims to rewrite &quot;Don Quixote&quot; by becoming Cervantes, not through imitation but by experiencing everything Cervantes experienced. It's a thought-provoking take on originality and identity.</p>\n</li>\n<li>\n<p><strong>&quot;Funes the Memorious&quot;</strong>: The story of a young man, Funes, who after an accident, gains the ability to remember every detail of his life but becomes trapped by his memory. This story raises questions about the nature of consciousness and the burden of omniscience.</p>\n</li>\n</ol>\n<h3>Influence</h3>\n<p>&quot;Ficciones&quot; is considered one of Borges's masterpieces and has influenced various literary genres, particularly postmodern literature. The collection is a treasure trove of philosophical puzzles and literary innovations that continue to intrigue and inspire readers.</p>\n<h3>Concise Summary</h3>\n<p>&quot;Ficciones&quot; by Jorge Luis Borges is a collection of 17 short stories that delve into themes like labyrinths, infinite reality, literary games, and identity. Through intricate and mind-bending narratives, Borges challenges conventional thinking and explores complex metaphysical concepts. The book is divided into two parts, &quot;The Garden of Forking Paths&quot; and &quot;Artifices,&quot; each containing stories that reflect Borges's unique storytelling style and philosophical insight.</p>\n",
+  "isFeatured": true,
+  "evaluation": [
+    {
+      "question": "What themes are explored in the stories of \"Ficciones\"?",
+      "options": [
+        "Gardening and horticulture",
+        "Time travel and historical events",
+        "Metaphysical concepts, identity, and labyrinths",
+        "Political ideologies and social norms"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527bab"
+      }
+    },
+    {
+      "question": "Which story from \"Ficciones\" involves a universe of an infinite library?",
+      "options": [
+        "\"The Garden of Forking Paths\"",
+        "\"Pierre Menard, Author of the Quixote\"",
+        "\"The Library of Babel\"",
+        "\"Funes the Memorious\""
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527bac"
+      }
+    },
+    {
+      "question": "What is a significant influence of \"Ficciones\"?",
+      "options": [
+        "Postmodern literature and various literary genres",
+        "Classical music compositions",
+        "Political revolutions in South America",
+        "Advancements in medical research"
+      ],
+      "correctOption": 0,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527bad"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d689334073355f"
+  },
+  "name": "stories",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7835"
+  },
+  "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.782Z"
+  },
+  "__v": 0,
+  "description": "Anton Chekhov's stories are known for their emotional depth and universal themes. His works, like 'The Lady with the Dog' and 'The Bet,' portray multi-dimensional characters in ordinary situations. Chekhov's writing style, focusing on human emotions and moral complexity, has left a lasting impact on world literature.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873933/pj8znngcsu7g5tuel2aj.webp",
+  "content": "<p>Here's a detailed overview of &quot;Stories&quot;. Anton Chekhov was a prolific Russian writer known for his short stories. Here's a summary and some insights into his works, followed by a concise summary at the end:</p>\n<h3>Detailed Overview</h3>\n<h4>1. <strong>Writing Style and Themes</strong></h4>\n<p>Chekhov's stories are famous for their depth, emotional resonance, and often unassuming complexity. His writing often focuses on ordinary events and characters but imbues them with universal human emotions and profound insights. Themes such as disillusionment, existential crisis, human folly, and moral complexity are common.</p>\n<h4>2. <strong>Major Stories</strong></h4>\n<p>Some of his famous works include:</p>\n<ul>\n<li>\n<p><strong>&quot;The Lady with the Dog&quot;</strong>: This story follows the extramarital affair between Dmitri Gurov and Anna Sergeyevna, exploring love, loneliness, and the human condition.</p>\n</li>\n<li>\n<p><strong>&quot;The Cherry Orchard&quot;</strong>: A play rather than a short story, this work deals with themes of social change and the decline of the aristocracy in Russia.</p>\n</li>\n<li>\n<p><strong>&quot;The Seagull&quot;</strong>: Another play, it's an intricate exploration of love, art, and the human condition.</p>\n</li>\n<li>\n<p><strong>&quot;Ward No. 6&quot;</strong>: Set in a mental hospital, this story delves into questions of sanity and moral values.</p>\n</li>\n<li>\n<p><strong>&quot;The Bet&quot;</strong>: A tale of a wager that spirals into a profound exploration of the human soul, value of life, and wisdom.</p>\n</li>\n</ul>\n<h4>3. <strong>Character Development and Narration</strong></h4>\n<p>Chekhov's characters are often multi-dimensional and portrayed with empathy. His narration is subtle, leaving much to interpretation, leading readers to think and engage with the text.</p>\n<h4>4. <strong>Impact and Influence</strong></h4>\n<p>Chekhov's stories have left a profound impact on both Russian and world literature. His unique style of storytelling has inspired countless writers, including modern short story writers.</p>\n<h3>Summary for Quick Reference</h3>\n<p>Anton Chekhov's stories are renowned for their emotional depth and nuanced characters. He often wrote about ordinary events, infusing them with universal human emotions and thought-provoking themes. Some of his significant works include &quot;The Lady with the Dog,&quot; &quot;Ward No. 6,&quot; and &quot;The Bet.&quot; His writing has had a significant influence on literature, resonating across generations for its unique blend of simplicity and complexity.</p>\n",
+  "evaluation": [
+    {
+      "question": "What is a common feature of Chekhov's writing style?",
+      "options": [
+        "Elaborate and flowery language",
+        "Focus on fantastical elements",
+        "Exploration of universal human emotions and subtle complexity",
+        "Heavy reliance on action-driven plots"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b77"
+      }
+    },
+    {
+      "question": "Which work by Chekhov explores themes of love, infidelity, and the human condition?",
+      "options": [
+        "The Cherry Orchard",
+        "The Seagull",
+        "The Bet",
+        "The Lady with the Dog"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b78"
+      }
+    },
+    {
+      "question": "What is notable about Chekhov's character development?",
+      "options": [
+        "Characters are one-dimensional and lack depth",
+        "Characters often represent specific archetypes",
+        "Characters are portrayed with empathy and are multi-dimensional",
+        "Characters are always heroic and virtuous"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b79"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733566"
+  },
+  "name": "the brothers karamazov",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7843"
+  },
+  "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d689334073356a"
+  },
+  "name": "absalom, absalom!",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7877"
+  },
+  "link": "https://en.wikipedia.org/wiki/Absalom,_Absalom!",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.784Z"
+  },
+  "__v": 0,
+  "content": "<p>&quot;Absalom, Absalom!&quot; is a novel written by William Faulkner, published in 1936. Here's a comprehensive summary followed by a concise one at the end.</p>\n<h3>Comprehensive Summary</h3>\n<h4>Introduction</h4>\n<p>&quot;Absalom, Absalom!&quot; is a Southern Gothic novel that explores the themes of Southern history, family legacy, and racial identity. Set in the fictional Yoknapatawpha County, Mississippi, it uses a complex narrative structure involving multiple narrators, flashbacks, and varying perspectives.</p>\n<h4>Plot Overview</h4>\n<p>The story is presented through the recollections of Quentin Compson, who learns about the Sutpen family's tragic history from various sources, including his father and Miss Rosa Coldfield.</p>\n<h5>Thomas Sutpen</h5>\n<p>Thomas Sutpen arrives in Jefferson in 1833 with a group of slaves and a mysterious past. He builds a plantation, known as Sutpen's Hundred, and marries Ellen Coldfield, seeking to establish his dynasty.</p>\n<h5>Family Tragedy</h5>\n<p>Sutpen's quest for a family legacy becomes complicated. His son by a previous relationship, Charles Bon, falls in love with his half-sister, Judith. The relationship is discovered, and tragedy unfolds.</p>\n<h5>The Fall of Sutpen's Hundred</h5>\n<p>Sutpen's ambition and ruthlessness lead to the downfall of his family. After the tragic death of many family members, including his own, the plantation falls into decay.</p>\n<h4>Themes and Motifs</h4>\n<ol>\n<li><strong>Racial Tensions</strong>: The novel explores the complexities of race in the South, particularly through Sutpen's hidden mixed-race children.</li>\n<li><strong>Historical Reckoning</strong>: Through the fragmented narrative, Faulkner examines the collective memory and guilt of the South's slave-owning past.</li>\n<li><strong>Familial Legacy</strong>: The obsession with family legacy, status, and inheritance drives the characters' actions and leads to their downfall.</li>\n</ol>\n<h4>Style and Structure</h4>\n<p>The novel is known for its intricate narrative structure, nonlinear timeline, and dense prose. Faulkner's writing challenges the reader to piece together the story through different narrators and time frames.</p>\n<h3>Concise Summary</h3>\n<p>&quot;Absalom, Absalom!&quot; tells the story of Thomas Sutpen, a man who arrives in Mississippi with a mysterious past and a grand ambition to create a family dynasty. Through the fragmented narratives of multiple characters, the novel unfolds Sutpen's tragic downfall, driven by his obsession with legacy, racial tensions, and family secrets. The story serves as a critical examination of Southern history and racial identity, presented through Faulkner's complex and challenging narrative style.</p>\n<p>I hope this summary helps you! If you need more specific details or insights into certain aspects of the novel, feel free to ask!</p>\n",
+  "description": "\"Absalom, Absalom!\" by William Faulkner is a Southern Gothic novel set in Mississippi. It follows Thomas Sutpen's quest to establish a family legacy, which leads to tragedy and downfall. The novel explores themes of race, historical reckoning, and familial legacy. Faulkner's intricate narrative structure and dense prose challenge readers to piece together the story from various perspectives.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873942/rrkyocdy9jr5ocvgkrmc.webp",
+  "evaluation": [
+    {
+      "question": "What is the central theme explored in 'Absalom, Absalom!'?",
+      "options": [
+        "The pursuit of wealth and power",
+        "The complexity of human relationships",
+        "The challenges of urbanization",
+        "Southern history, family legacy, and racial identity"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b7b"
+      }
+    },
+    {
+      "question": "Who is the protagonist of the novel?",
+      "options": [
+        "Thomas Sutpen",
+        "Charles Bon",
+        "Judith Sutpen",
+        "Quentin Compson"
+      ],
+      "correctOption": 0,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b7c"
+      }
+    },
+    {
+      "question": "What is a notable aspect of the novel's narrative structure?",
+      "options": [
+        "Linear and straightforward storytelling",
+        "Single narrator with an objective perspective",
+        "Complex structure with multiple narrators and nonlinear timeline",
+        "Exclusively first-person perspective"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b7d"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d689334073356d"
+  },
+  "name": "sentimental education",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7849"
+  },
+  "link": "https://en.wikipedia.org/wiki/Sentimental_Education",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.784Z"
+  },
+  "__v": 0,
+  "evaluation": [
+    {
+      "question": "What is the central theme of 'Sentimental Education'?",
+      "options": [
+        "The pursuit of wealth and material success",
+        "The disillusionment and moral decay of a generation",
+        "The power dynamics within a dysfunctional family"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "6493a844421126609ad12caf"
+      }
+    },
+    {
+      "question": "Who is the author of 'Sentimental Education'?",
+      "options": [
+        "Gustave Flaubert",
+        "Leo Tolstoy",
+        "Jane Austen"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "6493a844421126609ad12cb0"
+      }
+    },
+    {
+      "question": "What historical period is depicted in 'Sentimental Education'?",
+      "options": [
+        "Ancient Greece",
+        "Renaissance Italy",
+        "19th-century France"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "6493a844421126609ad12cb1"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733571"
+  },
+  "name": "the old man and the sea",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f783f"
+  },
+  "link": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733574"
+  },
+  "name": "a doll's house",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f784b"
+  },
+  "link": "https://en.wikipedia.org/wiki/A_Doll%27s_House",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.785Z"
+  },
+  "__v": 0,
+  "content": "<p>Here's a detailed summary of &quot;A Doll's House&quot; by Henrik Ibsen, followed by a concise summary for quick reference.</p>\n<h3>Detailed Summary</h3>\n<p><strong>Act 1:</strong>\nThe play begins in the Helmer's house, where Nora, the main character, is preparing for Christmas with her husband Torvald. Torvald scolds Nora for her spending, treating her like a child. A friend of Nora, Mrs. Linde, arrives and reveals that she is widowed and seeking work. Nora then admits to secretly borrowing money to pay for Torvald's recovery from illness, forging her father's signature to secure the loan.\n<strong>Act 2:</strong>\nKrogstad, a bank employee who helped Nora with the loan, is about to lose his job at the bank where Torvald works. He threatens to reveal Nora's secret unless she persuades Torvald to let him keep his job. Nora tries to distract Torvald, but she's unsuccessful in preventing Krogstad's dismissal.\n<strong>Act 3:</strong>\nKrogstad sends a letter to Torvald, revealing Nora's secret. In desperation, Nora tries to intercept the letter but fails. Torvald reads the letter and lashes out at Nora, declaring that she has ruined his reputation. However, another letter arrives, saying Krogstad has decided to forgive the debt. Torvald is relieved, but Nora's eyes have been opened to her husband's true character.\n<strong>Conclusion:</strong>\nNora realizes that her marriage has been a façade, and she's been treated like a &quot;doll&quot; in a &quot;doll's house.&quot; She decides to leave Torvald and her children to find her true self, delivering a powerful statement on women's rights and personal freedom.</p>\n<h3>Concise Summary</h3>\n<p>&quot;A Doll's House&quot; is a three-act play by Henrik Ibsen that explores the life of Nora Helmer, a woman treated childishly by her husband, Torvald. Secretly borrowing money to save her husband's life, she becomes entrapped by Krogstad, who threatens to reveal her deceit. After a series of confrontations and revelations, Nora recognizes the superficiality of her marriage and decides to leave Torvald, symbolizing a claim to her independence and individuality.\nThe play is a critical commentary on societal expectations and the role of women, offering a profound look into the dynamics of marriage and personal growth.</p>\n",
+  "description": "\"A Doll's House\" by Henrik Ibsen follows Nora Helmer's journey from a child-like wife to an empowered woman. The play's acts reveal her secret debt and the subsequent turmoil with her husband, Torvald. As the truth comes to light, Nora confronts her shallow marriage and leaves to seek personal freedom, challenging societal norms.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873944/wq5lynwnqudzaqzm7vgv.webp",
+  "evaluation": [
+    {
+      "question": "What is the central theme of 'A Doll's House'?",
+      "options": [
+        "The joys of domestic life",
+        "The struggles of working-class families",
+        "Women's rights and personal freedom",
+        "The pursuit of wealth and social status"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b6f"
+      }
+    },
+    {
+      "question": "Who is Mrs. Linde in the play?",
+      "options": [
+        "Nora's mother",
+        "Torvald's sister",
+        "A friend of Nora's",
+        "The Helmers' neighbor"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b70"
+      }
+    },
+    {
+      "question": "What pivotal decision does Nora make at the end of the play?",
+      "options": [
+        "She decides to reveal Torvald's secrets",
+        "She leaves Torvald and her children to find her independence",
+        "She forgives Krogstad and offers him a job",
+        "She pleads with Torvald to forgive her"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b71"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63e77bfe6f370db6ec16b12f"
+  },
+  "name": "clean code",
+  "description": "A comprehensive guide by Robert C. Martin, 'Clean Code' focuses on writing efficient and readable code. It provides principles and practices to improve software development, enhance collaboration, and promote software craftsmanship.",
+  "state": true,
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873901/ke4u0ftq3avkh0tnsx6p.webp",
+  "subject": {
+    "$oid": "63a71777847f944a5af385d8"
+  },
+  "price": 40,
+  "autor": {
+    "$oid": "63e77a686f370db6ec16b10e"
+  },
+  "content": "<p>Here's a detailed summary of &quot;Clean Code: A Handbook of Agile Software Craftsmanship&quot; by Robert C. Martin. This book is a comprehensive guide aimed at improving the writing of code, making it cleaner and more efficient.</p>\n<h3>1. Introduction</h3>\n<p>In this introductory part, Martin emphasizes the importance of writing clean code, as poor code can slow down a development project and even bring it to a halt. Writing clean code is presented as a professional responsibility.</p>\n<h3>2. Meaningful Names</h3>\n<ul>\n<li><strong>Use Intention-Revealing Names</strong>: The name of a variable, function, or class should tell you why it exists, what it does, and how it is used.</li>\n<li><strong>Avoid Disinformation</strong>: Don't mislead the reader; choose names that don't have hidden meanings or contradictions.</li>\n<li><strong>Make Pronounceable and Searchable Names</strong>: If you can't pronounce it, you can't discuss it without sounding silly. If it's not searchable, you won't be able to find it.</li>\n</ul>\n<h3>3. Functions</h3>\n<ul>\n<li><strong>Short and Focused</strong>: A function should do one thing and do it well.</li>\n<li><strong>A Limited Number of Arguments</strong>: Fewer arguments make testing and understanding functions easier.</li>\n<li><strong>Use Descriptive Names</strong>: The name should describe the function's purpose.</li>\n</ul>\n<h3>4. Comments</h3>\n<ul>\n<li><strong>Comments Do Not Make Up for Bad Code</strong>: Comments can mislead; instead, focus on writing code that explains itself.</li>\n<li><strong>Write Helpful and Accurate Comments</strong>: When necessary, comments should elucidate why something is being done, rather than what is being done.</li>\n</ul>\n<h3>5. Formatting</h3>\n<ul>\n<li><strong>Vertical and Horizontal Formatting</strong>: Code needs to be organized in a way that makes it easily readable, both vertically and horizontally.</li>\n</ul>\n<h3>6. Objects and Data Structures</h3>\n<ul>\n<li><strong>Abstraction</strong>: Hide details, reveal essentials. A well-designed object does not expose its internal structure but communicates through its methods.</li>\n</ul>\n<h3>7. Error Handling</h3>\n<ul>\n<li><strong>Use Exceptions Rather Than Error Codes</strong>: Throwing exceptions allows you to separate error-handling code from the main logic.</li>\n<li><strong>Provide Context with Exceptions</strong>: Include information within an exception to make it informative.</li>\n</ul>\n<h3>8. Boundaries</h3>\n<ul>\n<li><strong>Define and Maintain Boundaries</strong>: Keep third-party code and other systems at arm's length to maintain control over your project.</li>\n</ul>\n<h3>9. Unit Tests</h3>\n<ul>\n<li><strong>TDD (Test-Driven Development)</strong>: Writing tests first encourages better design and ensures that code meets requirements.</li>\n<li><strong>Keep Tests Clean</strong>: Tests must evolve and adapt as the code changes, so they should be as clean as the code itself.</li>\n</ul>\n<h3>10. Classes</h3>\n<ul>\n<li><strong>Organization</strong>: Classes should be small and focused on a single responsibility.</li>\n<li><strong>Maintainability</strong>: Class organization affects maintainability, so it should reflect a coherent structure.</li>\n</ul>\n<h3>11. Systems</h3>\n<ul>\n<li><strong>Build, Don't Buy</strong>: It's often better to build custom solutions than to force your system to fit an off-the-shelf product.</li>\n<li><strong>Keep It Simple</strong>: Design simple and flexible systems that can evolve.</li>\n</ul>\n<h3>12. Conclusion</h3>\n<p>In closing, Martin emphasizes the collaborative nature of code. You write it not only for machines but for other developers who will read, change, and maintain it. Embrace the principles of clean code to become a better programmer and contribute positively to the software community.</p>\n<p>This book is a must-read for any programmer who wants to enhance their skills, maintain better code, and develop a keen understanding of software craftsmanship. By adhering to the guidelines provided by Robert C. Martin, one can not only improve their personal coding style but also contribute to a more efficient and effective collaborative coding environment.</p>\n",
+  "dateCreated": {
+    "$date": "2023-02-11T11:29:02.666Z"
+  },
+  "__v": 0,
+  "evaluation": [
+    {
+      "question": "What is the primary emphasis of the 'Meaningful Names' section?",
+      "options": [
+        "Exploring different programming languages in depth.",
+        "Analyzing the psychological aspects of programming.",
+        "Discussing the importance of clean and efficient code.",
+        "Providing a guide for error handling in code."
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b87"
+      }
+    },
+    {
+      "question": "What practice is recommended in the 'Unit Tests' section?",
+      "options": [
+        "Writing unit tests after implementing the code.",
+        "Avoiding unit tests to save development time.",
+        "Applying Test-Driven Development (TDD) principles.",
+        "Writing unit tests only for complex functions."
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b88"
+      }
+    },
+    {
+      "question": "What is the main idea behind the 'Objects and Data Structures' section?",
+      "options": [
+        "Hiding essential details within objects.",
+        "Exposing internal structure through methods.",
+        "Prioritizing code organization over abstraction.",
+        "Focusing on readability rather than maintainability."
+      ],
+      "correctOption": 0,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b89"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733556"
+  },
+  "name": "one thousand and one nights",
+  "state": false,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7870"
+  },
+  "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.776Z"
+  },
+  "__v": 0,
+  "description": "The One Thousand and One Nights, also known as the Arabian Nights, is a collection of Middle Eastern and South Asian stories, folktales, and legends. The stories are told by a woman named Shahrazad, who is married to the king of Persia. In order to avoid being executed, Shahrazad tells the king a story each night, leaving him in suspense and causing him to postpone her execution in order to hear the end of the story.The stories told by Shahrazad are varied and diverse, ranging from tales of adventure and romance to moral fables and supernatural stories. The tales are often filled with magical elements, such as genies, sorcerers, and enchanted objects. The One Thousand and One Nights is a classic work of world literature that has been widely translated and adapted over the centuries. It is known for its colorful and imaginative storytelling, as well as its themes of love, honor, and adventure.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873918/dwqcecy5qhpg8v8xdoh4.webp",
+  "content": "<p>There was once a wise and beautiful Persian queen named Shahrazad, who was married to a king known for his cruelty and mistrust of women. The king had a habit of marrying a new bride every night, only to have her executed the next morning. Shahrazad, determined to save her own life and the lives of countless other women, hatched a plan.</p><p>Every evening, she would tell the king a mesmerizing story, one that would leave him hanging on the edge of his seat, desperate to hear the conclusion. And so, for one thousand and one nights, Shahrazad regaled the king with tales of adventure, romance, magic, and mystery.</p><p>As the stories unfolded, the king found himself becoming more and more entranced by Shahrazad's wit and intelligence. Slowly but surely, his heart began to soften, and he came to see the value and worth of women in a whole new light.</p><p>In the end, the king spared Shahrazad's life, and the two of them ruled justly and happily for many years to come. And the stories that Shahrazad had told became known as One Thousand and One Nights, a treasure trove of wisdom and wonder that continues to be beloved by readers all around the world.</p>",
+  "evaluation": [
+    {
+      "question": "What is the framing device used in 'One Thousand and One Nights'?",
+      "options": [
+        "A storyteller telling stories to postpone her execution",
+        "A journey through a magical world",
+        "A series of interconnected short stories"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "6493a844421126609ad12c9a"
+      }
+    },
+    {
+      "question": "Where is the original setting of 'One Thousand and One Nights'?",
+      "options": [
+        "Ancient Egypt",
+        "Medieval England",
+        "The Islamic Golden Age"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "6493a844421126609ad12c9b"
+      }
+    },
+    {
+      "question": "What is a recurring theme in 'One Thousand and One Nights'?",
+      "options": [
+        "Love and romance",
+        "The power of storytelling and the art of narrative",
+        "Social and political commentary"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "6493a844421126609ad12c9c"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733560"
+  },
+  "name": "nostromo",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7854"
+  },
+  "link": "https://en.wikipedia.org/wiki/Nostromo",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.782Z"
+  },
+  "__v": 0,
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873934/d1hmymcl60pacchvt9qg.webp",
+  "content": "<p>Here's a detailed summary of &quot;Nostromo&quot; by Joseph Conrad, followed by a concise summary.</p>\n<h3>Detailed Summary</h3>\n<p><strong>Setting and Context:</strong>\n&quot;Nostromo&quot; is set in the fictional South American country of Costaguana, focusing on the port town of Sulaco. The novel explores political turmoil, colonialism, and personal ambition, particularly related to the mining of a silver lode in the region.</p>\n<p><strong>Main Characters:</strong></p>\n<ul>\n<li>Nostromo: A charismatic Italian expatriate and head longshoreman.</li>\n<li>Charles Gould: The English owner of the San Tomé silver mine.</li>\n<li>Emilia Gould: Charles Gould's wife.</li>\n<li>Martin Decoud: A journalist and political activist.</li>\n<li>Dr. Monygham: A doctor and former political prisoner.</li>\n</ul>\n<p><strong>Plot:</strong></p>\n<ol>\n<li>\n<p><strong>Introduction to Sulaco:</strong> The novel opens with the background of Sulaco, its history, and the political situation, focusing on the silver mine, which represents both wealth and power.</p>\n</li>\n<li>\n<p><strong>Rise of Nostromo:</strong> Nostromo is introduced as a powerful and respected figure, known for his integrity and courage.</p>\n</li>\n<li>\n<p><strong>Political Upheaval:</strong> Charles Gould seeks to use his silver mine to stabilize the country but inadvertently ignites political unrest.</p>\n</li>\n<li>\n<p><strong>Transporting the Silver:</strong> During a revolt, Nostromo is entrusted with transporting a shipment of silver to keep it safe. However, the ship carrying it is believed to have sunk, and the silver is presumed lost.</p>\n</li>\n<li>\n<p><strong>Betrayal and Despair:</strong> Unbeknownst to others, Nostromo has hidden the silver. His once unshakeable integrity begins to waver, leading him to question his own identity and motivations.</p>\n</li>\n<li>\n<p><strong>Decoud's Isolation:</strong> Parallel to Nostromo's story, Martin Decoud becomes isolated on an island and struggles with existential despair, ultimately taking his own life.</p>\n</li>\n<li>\n<p><strong>Discovery of Betrayal:</strong> The hidden silver is eventually discovered, and the consequences of Nostromo's actions unfold, leading to a tragic end.</p>\n</li>\n<li>\n<p><strong>Conclusion:</strong> The novel concludes with a reflection on the impermanence of personal and political triumphs, the complexity of human motives, and the ultimate price of ambition.</p>\n</li>\n</ol>\n<h3>Themes:</h3>\n<ul>\n<li>Corruption and Integrity</li>\n<li>Colonialism and Imperialism</li>\n<li>Individualism vs. Community</li>\n<li>The complexity of human motives</li>\n</ul>\n<h3>Concise Summary:</h3>\n<p>&quot;Nostromo&quot; by Joseph Conrad is a novel set in the fictional South American town of Sulaco, focusing on the political unrest ignited by a silver mine. The titular character, Nostromo, is a figure of great integrity who becomes compromised when entrusted with a shipment of silver. Parallel stories of ambition, betrayal, and existential despair weave through the novel, culminating in tragic consequences. The work explores themes of corruption, colonialism, individualism, and the complexity of human motives.</p>\n",
+  "description": "Set in the fictional town of Sulaco, 'Nostromo' explores political unrest triggered by a silver mine. The protagonist, Nostromo, known for his integrity, faces compromise when entrusted with silver. Themes of corruption, colonialism, and human complexity are central.",
+  "evaluation": [
+    {
+      "question": "What is the main setting of 'Nostromo'?",
+      "options": [
+        "A fictional European city",
+        "A South American country named Costaguana",
+        "An African mining town",
+        "An Asian trading port"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b63"
+      }
+    },
+    {
+      "question": "Who is Nostromo?",
+      "options": [
+        "The owner of the San Tomé silver mine",
+        "A journalist and political activist",
+        "The head longshoreman and an Italian expatriate",
+        "A doctor and former political prisoner"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b64"
+      }
+    },
+    {
+      "question": "What role does the silver mine play in the novel?",
+      "options": [
+        "It symbolizes the protagonist's identity crisis",
+        "It is a source of political unrest and wealth",
+        "It represents a failed business venture",
+        "It serves as a backdrop but has no significant role"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b65"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733561"
+  },
+  "name": "great expectations",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7837"
+  },
+  "link": "https://en.wikipedia.org/wiki/Great_Expectations",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.782Z"
+  },
+  "__v": 0,
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873936/xzbpu7o7cglgxrcfux6l.webp",
+  "content": "<p>&quot;Great Expectations&quot; is a novel by Charles Dickens, first published in 1860-1861. Here's a detailed summary followed by a concise version:</p>\n<h3>Detailed Summary</h3>\n<h4>Part I: Childhood</h4>\n<p>The protagonist, Pip, is an orphan living with his abusive sister and her gentle husband, Joe, in rural England. One day, Pip encounters an escaped convict, Magwitch, who forces him to steal food and a file to aid his escape. Shortly after, Pip is hired by the wealthy but eccentric Miss Havisham to entertain her adopted daughter, Estella, with whom Pip falls in love.</p>\n<h4>Part II: Adolescence</h4>\n<p>Pip is mysteriously chosen by an anonymous benefactor to become a gentleman. He moves to London, abandoning his humble roots, and pursues his &quot;great expectations.&quot; He becomes friends with Herbert Pocket and learns the ways of the upper class. All the while, he secretly pines for Estella and remains oblivious to the identity of his benefactor.</p>\n<h4>Part III: Adulthood</h4>\n<p>Pip discovers that his benefactor is none other than Magwitch, the convict he helped as a child. He struggles with this revelation but eventually recognizes the convict's genuine love for him. Miss Havisham's manipulation of Estella becomes evident, and Pip realizes that his infatuation with her was built on false hopes. When Magwitch is captured and sentenced to death, Pip loses his fortune.</p>\n<h4>Part IV: Resolution</h4>\n<p>Stripped of his wealth and social status, Pip returns home, finding solace in Joe's unconditional love and friendship. He reconciles with Joe and his wife Biddy and becomes a working man. The novel's ending varies, but in most versions, Pip encounters a matured and softened Estella, leaving their future relationship ambiguous.</p>\n<h3>Concise Summary</h3>\n<p>&quot;Great Expectations&quot; follows the life of Pip, an orphan who rises from humble beginnings with the aid of a mysterious benefactor. Over the course of the novel, he learns valuable lessons about love, friendship, and social class as he navigates his feelings for the cold and manipulative Estella and comes to understand the true nature of his &quot;great expectations.&quot; The novel explores themes of personal development, morality, and the often arbitrary nature of societal distinctions. It ends with a note of ambiguity about Pip and Estella's future relationship.</p>\n",
+  "description": "\"Great Expectations\" by Charles Dickens traces Pip's journey from orphaned obscurity to unexpected fortune, exploring love, class, and personal growth. Pip's infatuation with Estella and his mysterious benefactor's identity drive the narrative. The novel delves into societal distinctions and ends with Pip's realization of true values.",
+  "evaluation": [
+    {
+      "question": "What is the main focus of 'Great Expectations'?",
+      "options": [
+        "Pip's journey from riches to poverty",
+        "Pip's quest for vengeance",
+        "Pip's search for his long-lost parents",
+        "Pip's transformation and personal growth"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b5b"
+      }
+    },
+    {
+      "question": "Who is Pip's mysterious benefactor?",
+      "options": [
+        "Joe, Pip's adoptive father",
+        "Miss Havisham, Pip's adoptive mother",
+        "Estella, Pip's love interest",
+        "Magwitch, an escaped convict"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b5c"
+      }
+    },
+    {
+      "question": "What are some central themes explored in the novel?",
+      "options": [
+        "Personal growth, love, and societal distinctions",
+        "Revenge, betrayal, and manipulation",
+        "War, politics, and social reform",
+        "Science fiction and technological advancement"
+      ],
+      "correctOption": 0,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b5d"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733565"
+  },
+  "name": "the possessed",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7843"
+  },
+  "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d689334073356b"
+  },
+  "name": "the sound and the fury",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7877"
+  },
+  "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d689334073356f"
+  },
+  "name": "dead souls",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7861"
+  },
+  "link": "https://en.wikipedia.org/wiki/Dead_Souls",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733553"
+  },
+  "name": "the divine comedy",
+  "state": true,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f783a"
+  },
+  "link": "https://en.wikipedia.org/wiki/Divine_Comedy",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.775Z"
+  },
+  "__v": 0,
+  "description": "Dante Alighieri's epic masterpiece, 'The Divine Comedy,' takes readers on a transformative journey through Hell, Purgatory, and Paradise. It's a profound allegorical exploration of sin, redemption, and divine love.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873903/q56zwtx0stvtdsaelbsj.webp",
+  "evaluation": [
+    {
+      "question": "What is the purpose of the 'Inferno' section of 'The Divine Comedy'?",
+      "options": [
+        "To depict a utopian vision of paradise.",
+        "To explore the process of cleansing and redemption.",
+        "To narrate the protagonist's encounters with earthly sins.",
+        "To provide a detailed account of the heavenly spheres."
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b93"
+      }
+    },
+    {
+      "question": "Who guides Dante through the 'Purgatorio' section?",
+      "options": [
+        "Virgil and Beatrice.",
+        "Saint Bernard.",
+        "Lucifer and Cato.",
+        "Dante navigates it alone."
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b94"
+      }
+    },
+    {
+      "question": "What is the main focus of the 'Paradiso' section?",
+      "options": [
+        "Depicting the horrors of hell.",
+        "Exploring the complexities of human psychology.",
+        "Describing the struggles of the human condition.",
+        "Portraying the soul's ascent through heavenly spheres."
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b95"
+      }
+    }
+  ],
+  "content": "<p>Here's an extended summary of &quot;The Divine Comedy&quot; by Dante Alighieri, one of the most celebrated works in world literature. I'll break down the summary into three main parts, corresponding to the three canticas: Inferno (Hell), Purgatorio (Purgatory), and Paradiso (Paradise).</p>\n<h3>Inferno (Hell)</h3>\n<p><strong>Setting and Main Characters:</strong></p>\n<ul>\n<li><strong>Dante</strong> - the protagonist and author</li>\n<li><strong>Virgil</strong> - the poet who guides Dante through Hell</li>\n</ul>\n<p><strong>Plot:</strong></p>\n<ol>\n<li><strong>Introduction:</strong> Lost in a dark forest, Dante is guided by Virgil, the Roman poet.</li>\n<li><strong>Descent into Hell:</strong> They enter the gates of Hell and encounter souls receiving their punishments.</li>\n<li><strong>Nine Circles of Hell:</strong> Dante and Virgil traverse through the nine circles, each representing a different sin and corresponding punishment.\n<ul>\n<li><em>Limbo:</em> virtuous pagans reside</li>\n<li><em>Lust, Gluttony, Greed, Wrath:</em> souls suffer from various physical torments</li>\n<li><em>Heresy:</em> those who went against church teachings suffer here</li>\n<li><em>Violence:</em> subdivided into three rounds (against others, self, God/nature)</li>\n<li><em>Fraud:</em> divided into ten bolgias with various deceptions</li>\n<li><em>Treachery:</em> betrayers of various kinds are trapped in ice</li>\n</ul>\n</li>\n<li><strong>Meeting Lucifer:</strong> At the center of Hell, they meet Lucifer, trapped in ice.</li>\n<li><strong>Exit:</strong> They climb down Lucifer's body and exit Hell, preparing to ascend Mount Purgatory.</li>\n</ol>\n<h3>Purgatorio (Purgatory)</h3>\n<p><strong>Setting and Main Characters:</strong></p>\n<ul>\n<li><strong>Dante and Virgil</strong> continue their journey</li>\n<li><strong>Cato</strong> - guardian of Purgatory</li>\n</ul>\n<p><strong>Plot:</strong></p>\n<ol>\n<li><strong>Arrival:</strong> Dante and Virgil arrive at Mount Purgatory, where souls are cleansed.</li>\n<li><strong>Seven Terraces:</strong> The mountain's terraces correspond to the seven deadly sins.\n<ul>\n<li><em>Pride, Envy, Wrath, Sloth, Avarice, Gluttony, Lust:</em> Souls atone and learn lessons.</li>\n</ul>\n</li>\n<li><strong>Meeting Beatrice:</strong> Virgil is replaced by Dante's idealized love, Beatrice, who scolds Dante for his errors.</li>\n<li><strong>Into Eden:</strong> They move into the Earthly Paradise, a pre-fallen state of Eden.</li>\n</ol>\n<h3>Paradiso (Paradise)</h3>\n<p><strong>Setting and Main Characters:</strong></p>\n<ul>\n<li><strong>Dante and Beatrice</strong> - as they ascend through Heaven</li>\n<li><strong>Saint Bernard</strong> - who guides Dante in the final sphere</li>\n</ul>\n<p><strong>Plot:</strong></p>\n<ol>\n<li><strong>Nine Celestial Spheres:</strong> They ascend through spheres representing heavenly virtues.\n<ul>\n<li><em>Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn:</em> Various blessed souls reside.</li>\n<li><em>Fixed Stars:</em> Contains the celestial virtues of Faith, Hope, and Charity.</li>\n<li><em>Primum Mobile:</em> The outermost sphere, governing all others.</li>\n</ul>\n</li>\n<li><strong>Empyrean:</strong> The ultimate heaven where God resides, full of divine light.</li>\n<li><strong>Vision of God:</strong> Dante achieves the vision of God, the Ultimate Truth.</li>\n<li><strong>Conclusion:</strong> Dante ends his journey with a profound understanding of divine wisdom and love.</li>\n</ol>\n<h3>Themes and Analysis</h3>\n<ul>\n<li><strong>Moral and Ethical Guidance:</strong> The work provides a spiritual guide for right living.</li>\n<li><strong>Allegory:</strong> Each part is filled with allegorical meanings, representing various virtues, vices, punishments, and rewards.</li>\n<li><strong>Poetic Achievement:</strong> Written in terza rima, Dante's work set a standard for Italian poetry.</li>\n<li><strong>Human Understanding of Divine:</strong> Dante's personal journey represents a soul's journey towards God.</li>\n</ul>\n<p>&quot;The Divine Comedy&quot; is more than a literal journey; it's an allegorical representation of the soul's quest for God, understanding, and enlightenment. Its vivid imagery and profound philosophical insights make it a timeless masterpiece, resonant with readers across centuries and cultures.</p>\n"
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733554"
+  },
+  "name": "the epic of gilgamesh",
+  "state": true,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7870"
+  },
+  "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.775Z"
+  },
+  "__v": 0,
+  "description": "The \"Epic of Gilgamesh\" narrates the story of the historical king Gilgamesh of Uruk, who is initially a tyrant but later matures into a wise ruler. The epic covers his friendship with Enkidu, their adventures, Enkidu's death, and Gilgamesh's subsequent quest for immortality. Along the way, Gilgamesh learns valuable lessons about friendship, mortality, and leadership. His ultimate realization is that true immortality is not achieved through living forever but through leaving a lasting legacy.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873915/s2p2qq90xqb3r6byslpl.webp",
+  "evaluation": [
+    {
+      "question": "What is the central theme of the \"Epic of Gilgamesh\"?",
+      "options": [
+        "The pursuit of wealth and power",
+        "The quest for immortality",
+        "The nature of dreams",
+        "The importance of revenge"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527ba3"
+      }
+    },
+    {
+      "question": "Who is Enkidu in the epic?",
+      "options": [
+        "A powerful demon",
+        "A wise king",
+        "A wild man and Gilgamesh's friend",
+        "A deity of the underworld"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527ba4"
+      }
+    },
+    {
+      "question": "What lesson does Gilgamesh ultimately learn?",
+      "options": [
+        "The importance of revenge",
+        "The pursuit of material wealth",
+        "The value of friendship and the legacy of a wise ruler",
+        "The futility of all human endeavors"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527ba5"
+      }
+    }
+  ],
+  "content": "<p>The &quot;Epic of Gilgamesh&quot; is a Mesopotamian poem that is among the earliest known works of literary writing. Here's a detailed overview followed by a concise summary:</p>\n<h3>Detailed Overview</h3>\n<h4>Introduction</h4>\n<p>The &quot;Epic of Gilgamesh&quot; is an ancient poem from Mesopotamia, dating back to around 2100 BCE. Written in Akkadian, it is regarded as one of the oldest works of literature. The story is composed in twelve tablets and is centered around the historical king Gilgamesh of Uruk.</p>\n<h4>Main Plot</h4>\n<ol>\n<li>\n<p><strong>Tablets I-II: Gilgamesh's Tyranny and Enkidu's Creation</strong></p>\n<ul>\n<li>Gilgamesh, the king of Uruk, is a powerful but tyrannical ruler.</li>\n<li>The gods create Enkidu, a wild man, to balance Gilgamesh.</li>\n<li>Enkidu is civilized and becomes Gilgamesh's close friend.</li>\n</ul>\n</li>\n<li>\n<p><strong>Tablets III-V: The Cedar Forest</strong></p>\n<ul>\n<li>Gilgamesh and Enkidu embark on an adventure to the Cedar Forest to slay the demon Humbaba.</li>\n<li>They successfully defeat Humbaba but incur the wrath of the gods.</li>\n</ul>\n</li>\n<li>\n<p><strong>Tablets VI-VII: The Bull of Heaven and Enkidu's Death</strong></p>\n<ul>\n<li>Gilgamesh rejects the advances of the goddess Ishtar, leading her to send the Bull of Heaven to punish him.</li>\n<li>Enkidu and Gilgamesh kill the Bull, but Enkidu is later punished by the gods with a fatal illness.</li>\n</ul>\n</li>\n<li>\n<p><strong>Tablets VIII-X: Gilgamesh's Mourning and Quest for Immortality</strong></p>\n<ul>\n<li>Devastated by Enkidu's death, Gilgamesh seeks immortality.</li>\n<li>He meets various figures, including the immortal flood survivor Utnapishtim.</li>\n</ul>\n</li>\n<li>\n<p><strong>Tablets XI-XII: The Story of the Flood and the Return Home</strong></p>\n<ul>\n<li>Utnapishtim tells Gilgamesh the story of a great flood (similar to the biblical flood).</li>\n<li>Gilgamesh learns of a plant that can grant youth but loses it to a snake.</li>\n<li>He returns to Uruk, realizing that true immortality lies in his legacy as a king.</li>\n</ul>\n</li>\n</ol>\n<h3>Concise Summary</h3>\n<p>The &quot;Epic of Gilgamesh&quot; narrates the story of the historical king Gilgamesh of Uruk, who is initially a tyrant but later matures into a wise ruler. The epic covers his friendship with Enkidu, their adventures, Enkidu's death, and Gilgamesh's subsequent quest for immortality. Along the way, Gilgamesh learns valuable lessons about friendship, mortality, and leadership. His ultimate realization is that true immortality is not achieved through living forever but through leaving a lasting legacy.</p>\n<p>Though the story is wrapped in mythology and fantastical elements, it deals with universal themes and provides insight into ancient Mesopotamian culture, religion, and philosophy. It's a timeless tale that continues to resonate with modern readers.</p>\n"
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733555"
+  },
+  "name": "the book of job",
+  "state": true,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7870"
+  },
+  "link": "https://en.wikipedia.org/wiki/Book_of_Job",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.776Z"
+  },
+  "__v": 0,
+  "description": "The Book of Job is a poetic dialogue in the Old Testament that explores the nature of suffering and human integrity. Job, a righteous man, is tested by God after Satan challenges his faith. Despite losing everything, Job maintains his integrity, although he questions why he's suffering. He engages in a series of dialogues and monologues with friends and God, ultimately recognizing the limitations of human understanding and accepting God's divine wisdom. In the end, Job's fortunes are restored, and the book closes with a meditation on the complexities of faith and the human condition.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873916/q7s6qqqsshdyb0hugpcj.webp",
+  "content": "<p>Here's a detailed summary of the Book of Job, a part of the Hebrew Bible, with a concise version at the end.</p>\n<h3>Introduction</h3>\n<p>The Book of Job is one of the poetic books in the Old Testament. It addresses profound questions about suffering, human integrity, and the relationship between humanity and the divine. Its protagonist, Job, is a wealthy and pious man who is subjected to a series of calamities to test his faith.</p>\n<h3>Main Sections</h3>\n<ol>\n<li>\n<p><strong>Prologue (Chapters 1-2)</strong>:</p>\n<ul>\n<li><strong>Heavenly Scene</strong>: Satan challenges Job's faith, asserting that Job is only righteous because he's blessed. God allows Satan to test Job.</li>\n<li><strong>Job's Suffering</strong>: Job loses his wealth, children, and health, but doesn't curse God.</li>\n<li><strong>Job's Friends Arrive</strong>: Three friends (Eliphaz, Bildad, and Zophar) come to comfort Job.</li>\n</ul>\n</li>\n<li>\n<p><strong>Dialogue (Chapters 3-27)</strong>:</p>\n<ul>\n<li><strong>Job's Lament (Chapter 3)</strong>: Job curses the day of his birth.</li>\n<li><strong>Three Cycles of Debate</strong>: Job's friends argue that he must have sinned to suffer so much, while Job maintains his innocence.</li>\n<li><strong>Job's Final Summary</strong>: Job challenges God to answer him.</li>\n</ul>\n</li>\n<li>\n<p><strong>Monologues (Chapters 28-41)</strong>:</p>\n<ul>\n<li><strong>Wisdom Poem (Chapter 28)</strong>: A reflection on human inability to comprehend divine wisdom.</li>\n<li><strong>Job's Soliloquy (Chapters 29-31)</strong>: Job recalls his past blessings and asserts his innocence again.</li>\n<li><strong>Elihu's Speeches (Chapters 32-37)</strong>: A younger friend, Elihu, criticizes Job and his friends, emphasizing God's wisdom.</li>\n</ul>\n</li>\n<li>\n<p><strong>God's Speeches and Job's Responses (Chapters 38-42)</strong>:</p>\n<ul>\n<li><strong>God's Challenge</strong>: God answers from a whirlwind, emphasizing His omnipotence and the mystery of creation.</li>\n<li><strong>Job's Humility</strong>: Job acknowledges his inability to understand God's ways.</li>\n<li><strong>God's Rebuke of Job's Friends</strong>: God rebukes the friends for not speaking rightly about Him.</li>\n<li><strong>Restoration of Job</strong>: Job's fortunes are restored, and he has new children.</li>\n</ul>\n</li>\n</ol>\n<h3>Themes</h3>\n<ul>\n<li><strong>The Problem of Suffering</strong>: The book explores why good people suffer.</li>\n<li><strong>The Nature of God</strong>: God's wisdom, justice, and sovereignty are central themes.</li>\n<li><strong>Human Understanding vs. Divine Wisdom</strong>: The limits of human wisdom compared to divine understanding.</li>\n</ul>\n<h3>Conclusion</h3>\n<p>The Book of Job doesn't provide easy answers to the questions it raises. Instead, it portrays a complex relationship between the divine and human understanding, emphasizing the need for humility and faith.</p>\n<h3>Concise Summary</h3>\n<p>The Book of Job is a poetic dialogue in the Old Testament that explores the nature of suffering and human integrity. Job, a righteous man, is tested by God after Satan challenges his faith. Despite losing everything, Job maintains his integrity, although he questions why he's suffering. He engages in a series of dialogues and monologues with friends and God, ultimately recognizing the limitations of human understanding and accepting God's divine wisdom. In the end, Job's fortunes are restored, and the book closes with a meditation on the complexities of faith and the human condition.</p>\n",
+  "evaluation": [
+    {
+      "question": "What is the central theme of the Book of Job?",
+      "options": [
+        "The importance of material wealth",
+        "The challenge of maintaining religious rituals",
+        "The nature of suffering and human integrity",
+        "The pursuit of power and authority"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b9f"
+      }
+    },
+    {
+      "question": "Who challenges Job's faith in the prologue of the book?",
+      "options": [
+        "God",
+        "Satan",
+        "Job's friends",
+        "Elihu"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527ba0"
+      }
+    },
+    {
+      "question": "What is emphasized in God's speeches to Job?",
+      "options": [
+        "The insignificance of human suffering",
+        "Job's unworthiness",
+        "Divine wisdom and the mystery of creation",
+        "The importance of worldly possessions"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527ba1"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733557"
+  },
+  "name": "njál's saga",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7870"
+  },
+  "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.777Z"
+  },
+  "__v": 0,
+  "description": "Njál's Saga is an Icelandic saga that tells the story of a group of people living in medieval Iceland. The saga follows the lives of Njál and his family, as well as a number of other characters, including warriors, chieftains, and priests. The saga is known for its vivid depiction of Icelandic society in the 10th and 11th centuries, including the laws and customs of the time. It also explores themes of honor, loyalty, and the role of law in resolving disputes. Njál's Saga is noted for its detailed and realistic portrayal of characters and its use of irony and symbolism. It is considered one of the greatest works of Icelandic literature and has had a significant influence on the development of the Icelandic language and culture.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873919/cggiitfsbssgbd8i7q7k.webp",
+  "content": "<p>Njál is known for his wisdom and his ability to see into the future, and he uses these gifts to try to prevent the conflicts and feuds that threaten to tear his community apart. However, despite his best efforts, a series of tragic events ultimately leads to a bloody and violent feud between two rival families.</p><p>As the feud escalates, Njál's own family becomes drawn into the conflict, and he is forced to watch helplessly as his loved ones suffer and die. In the end, Njál is himself killed in the feud, but his legacy lives on as a symbol of wisdom, peace, and justice.</p><p>Njál's Saga is a powerful and poignant tale that explores the theme of fate, the destructive power of feuds, and the importance of wisdom in navigating the challenges of life. It is a timeless classic that continues to captivate and inspire readers to this day.</p>",
+  "evaluation": [
+    {
+      "question": "Which region or culture is associated with 'Njál's Saga'?",
+      "options": [
+        "Ancient Greece",
+        "Medieval Iceland",
+        "Renaissance Italy"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "6493a843421126609ad12c70"
+      }
+    },
+    {
+      "question": "What genre does 'Njál's Saga' belong to?",
+      "options": [
+        "Saga literature",
+        "Romantic poetry",
+        "Epic fantasy"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "6493a843421126609ad12c71"
+      }
+    },
+    {
+      "question": "What is the central conflict in 'Njál's Saga'?",
+      "options": [
+        "The quest for power and glory",
+        "The battle between gods and mortals",
+        "A blood feud between families"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "6493a843421126609ad12c72"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d689334073355e"
+  },
+  "name": "the canterbury tales",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7844"
+  },
+  "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.782Z"
+  },
+  "__v": 0,
+  "description": "\"The Canterbury Tales\" by Geoffrey Chaucer is a collection of 24 diverse stories told by pilgrims on their way to Canterbury Cathedral. Ranging from noble tales of love and chivalry to bawdy and comedic stories, the tales provide a vivid snapshot of medieval English society. The characters and their stories serve to entertain, reflect, and comment on human nature and social norms.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873931/rf5ukr0ri9cvklbfqc4z.webp",
+  "content": "<p>&quot;The Canterbury Tales&quot; by Geoffrey Chaucer is a significant work of English literature, written in the late 14th century. Here's a detailed summary followed by a concise version for quick reference.</p>\n<h3>Detailed Summary</h3>\n<p><strong>Introduction</strong>\n&quot;The Canterbury Tales&quot; is a collection of 24 stories told by a group of pilgrims on their way to Canterbury Cathedral to visit the shrine of Saint Thomas Becket. The pilgrims, who come from various social classes, agree to tell stories to entertain one another along the journey, and the book's structure is built around these tales.</p>\n<p><strong>The General Prologue</strong>\nThe narrator, presumably Chaucer himself, describes the 29 pilgrims who are taking part in this pilgrimage. These characters represent a cross-section of medieval English society, including a knight, a prioress, a miller, a reeve, and many others.</p>\n<p><strong>The Tales</strong>\nThe tales vary in style and subject, reflecting the diversity of the pilgrims. They cover themes like love, betrayal, greed, honor, and social criticism. Some notable tales include:</p>\n<ol>\n<li><strong>The Knight's Tale</strong>: A romantic story of love and chivalry among noble knights.</li>\n<li><strong>The Miller's Tale</strong>: A farcical story of adultery, trickery, and revenge.</li>\n<li><strong>The Wife of Bath's Tale</strong>: A tale that delves into issues of female authority, marriage, and the role of women in society.</li>\n<li><strong>The Pardoner's Tale</strong>: A moral tale warning against the evils of greed.</li>\n<li><strong>The Nun's Priest's Tale</strong>: A beast fable that humorously illustrates human folly.</li>\n</ol>\n<p>The tales often include bawdy humor, serious moral reflections, and acute social commentary.</p>\n<p><strong>Conclusion</strong>\n&quot;The Canterbury Tales&quot; concludes with a retraction, where Chaucer asks for forgiveness for any offense his stories may have caused. This has led to some debate over whether this was a sincere apology or a literary device.</p>\n<h3>Concise Summary</h3>\n<p>&quot;The Canterbury Tales&quot; by Geoffrey Chaucer is a collection of 24 diverse stories told by pilgrims on their way to Canterbury Cathedral. Ranging from noble tales of love and chivalry to bawdy and comedic stories, the tales provide a vivid snapshot of medieval English society. The characters and their stories serve to entertain, reflect, and comment on human nature and social norms.</p>\n<p>By presenting these tales, Chaucer has given readers an entertaining and critical look at a wide range of human experiences, emotions, and societal observations. From lighthearted comedy to profound reflections, &quot;The Canterbury Tales&quot; continues to be a compelling exploration of human complexity.</p>\n",
+  "evaluation": [
+    {
+      "question": "What is the purpose of the pilgrims in \"The Canterbury Tales\" telling stories?",
+      "options": [
+        "To compete for a prize offered by the host",
+        "To pass the time during their journey",
+        "To create a written record of their experiences",
+        "To practice their storytelling skills"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527ba7"
+      }
+    },
+    {
+      "question": "Which tale from \"The Canterbury Tales\" features themes of female authority and the role of women in society?",
+      "options": [
+        "The Knight's Tale",
+        "The Miller's Tale",
+        "The Wife of Bath's Tale",
+        "The Pardoner's Tale"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527ba8"
+      }
+    },
+    {
+      "question": "What type of stories does \"The Canterbury Tales\" encompass?",
+      "options": [
+        "Only tragic love stories",
+        "Exclusively religious parables",
+        "A wide range of genres and themes",
+        "Stories centered on political intrigue"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527ba9"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733563"
+  },
+  "name": "crime and punishment",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7843"
+  },
+  "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.783Z"
+  },
+  "__v": 0,
+  "content": "<p>Here's a detailed summary of &quot;Crime and Punishment&quot; by Fyodor Dostoevsky, followed by a concise summary.</p>\n<h3>Detailed Summary</h3>\n<p><strong>1. Introduction:</strong>\n&quot;Crime and Punishment&quot; is a novel written by Russian author Fyodor Dostoevsky, published in 1866. It explores themes of guilt, morality, and redemption through the story of Raskolnikov, a former student in St. Petersburg who is both intellectually gifted and deeply troubled.</p>\n<p><strong>2. Plot:</strong></p>\n<p><strong>A. Part I: Crime</strong>\nRaskolnikov, impoverished and desperate, conceives a plan to murder a pawnbroker to obtain her money and assert his philosophical idea that certain individuals are permitted to commit crimes for the greater good. He carries out the murder but also kills the pawnbroker's half-sister, who stumbles upon the scene.</p>\n<p><strong>B. Part II: Punishment</strong>\nPlagued by guilt and paranoia, Raskolnikov struggles with the moral implications of his crime. He encounters several characters that either support or challenge his views, including Sonia, a prostitute with a heart of gold, who represents Christian compassion.</p>\n<p>Raskolnikov is pursued by the intelligent and methodical detective Porfiry Petrovich, who suspects him of the murders. The cat-and-mouse game between them explores the psychological torment Raskolnikov undergoes.</p>\n<p><strong>C. Part III: Redemption</strong>\nSonia's love and influence lead Raskolnikov towards redemption. He eventually confesses his crime and is sentenced to penal servitude in Siberia. Sonia follows him, and together they seek spiritual redemption.</p>\n<p><strong>3. Themes and Analysis:</strong>\nThe novel examines complex philosophical and ethical questions, particularly concerning morality and the nature of sin and salvation. It's a profound exploration of the human psyche and societal conditions in 19th-century Russia.</p>\n<h3>Characters:</h3>\n<ul>\n<li><strong>Raskolnikov:</strong> The protagonist, an intellectual who believes in a theory that some people are above the moral laws that govern humanity.</li>\n<li><strong>Sonia Marmeladov:</strong> A prostitute who represents compassion and love, guiding Raskolnikov to redemption.</li>\n<li><strong>Porfiry Petrovich:</strong> The detective determined to prove Raskolnikov's guilt.</li>\n<li><strong>Dunya and Pulcheria:</strong> Raskolnikov's sister and mother, who provide a familial connection and moral grounding.</li>\n</ul>\n<h3>Concise Summary:</h3>\n<p>&quot;Crime and Punishment&quot; is a psychological drama by Fyodor Dostoevsky that delves into the mind of Raskolnikov, a desperate young man who murders a pawnbroker. Consumed by guilt and engaging in a battle of wits with detective Porfiry Petrovich, he struggles with his own philosophy about being above moral law. Influenced by the loving Sonia, he ultimately confesses and seeks redemption in Siberia. Themes include guilt, morality, and the complexity of human nature.</p>\n<p>I hope this provides a thorough understanding of the novel! If you're looking for specific details or analysis on particular aspects, please let me know.</p>\n",
+  "description": "\"Crime and Punishment\" by Fyodor Dostoevsky is a psychological drama following Raskolnikov, an intellectually gifted but troubled young man who commits a murder to test his theory about moral law. As guilt consumes him, he engages in a psychological battle with detective Porfiry Petrovich. Guided by Sonia's compassion, he confesses and seeks redemption in Siberia. The novel explores themes of guilt, morality, and the complexity of human nature.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873939/s6nt2en6k2jbrwpohjxi.webp",
+  "evaluation": [
+    {
+      "question": "What is the central theme of 'Crime and Punishment'?",
+      "options": [
+        "The pursuit of power and wealth",
+        "The consequences of political rebellion",
+        "The exploration of human psychology and morality",
+        "The celebration of romantic love"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b5f"
+      }
+    },
+    {
+      "question": "Who is Sonia Marmeladov?",
+      "options": [
+        "A detective investigating the crime",
+        "Raskolnikov's sister",
+        "A compassionate prostitute who guides Raskolnikov to redemption",
+        "A wealthy benefactor of the protagonist"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b60"
+      }
+    },
+    {
+      "question": "What role does Porfiry Petrovich play in the novel?",
+      "options": [
+        "He is the protagonist's close friend and confidant",
+        "He is a romantic interest of Sonia",
+        "He is a police officer investigating the murders, engaging in a psychological battle with Raskolnikov",
+        "He is the novel's narrator"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b61"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733564"
+  },
+  "name": "the idiot",
+  "state": true,
+  "subject": {
+    "$oid": "63a85373e4e171f2877898f1"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7843"
+  },
+  "link": "https://en.wikipedia.org/wiki/The_Idiot",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.783Z"
+  },
+  "__v": 0,
+  "content": "<p>Below you'll find a detailed summary of &quot;The Idiot&quot; by Fyodor Dostoevsky, followed by a concise summary.</p>\n<h3>Detailed Summary</h3>\n<p><strong>Introduction:</strong>\n&quot;The Idiot&quot; is a novel by the Russian author Fyodor Dostoevsky, published in 1869. The story revolves around Prince Lev Nikolayevich Myshkin, a nobleman whose innocence, kindness, and naivete earn him the title of &quot;idiot.&quot;</p>\n<p><strong>Plot:</strong></p>\n<ol>\n<li>\n<p><strong>Return to Russia:</strong> The story begins with Prince Myshkin returning to Russia after treatment for epilepsy in Switzerland. He’s pure of heart and socially naive.</p>\n</li>\n<li>\n<p><strong>Meeting Rogozhin:</strong> On the train, he meets Parfyon Rogozhin, who becomes infatuated with Nastasya Filippovna, a beautiful but tormented woman.</p>\n</li>\n<li>\n<p><strong>Love Triangle:</strong> Prince Myshkin himself becomes entranced by Nastasya, and a complex love triangle develops. Both men propose to her, but she chooses Rogozhin, only to leave him the same night.</p>\n</li>\n<li>\n<p><strong>Myshkin's Good Intentions:</strong> Myshkin tries to help everyone he meets, but his naivete often leads to misunderstandings and disaster. His relationship with Rogozhin becomes increasingly strained.</p>\n</li>\n<li>\n<p><strong>Engagement to Aglaya:</strong> Myshkin becomes engaged to Aglaya Ivanovna Yepanchin, another beautiful woman, but this relationship also ends tragically.</p>\n</li>\n<li>\n<p><strong>Climax:</strong> The rivalry between Myshkin and Rogozhin culminates in Rogozhin attempting to murder Myshkin and eventually killing Nastasya.</p>\n</li>\n<li>\n<p><strong>Conclusion:</strong> The novel ends tragically with Myshkin’s complete mental breakdown, Rogozhin's trial for murder, and the shattered lives of those Myshkin tried to help.</p>\n</li>\n</ol>\n<p><strong>Themes:</strong></p>\n<ul>\n<li><strong>Innocence and Corruption:</strong> The purity and goodness of Myshkin are contrasted with the corruption and depravity of Russian society.</li>\n<li><strong>Love and Jealousy:</strong> The novel explores the destructive power of love and jealousy.</li>\n<li><strong>Madness and Sanity:</strong> It examines the fine line between madness and sanity and challenges the definition of both.</li>\n</ul>\n<p><strong>Analysis:</strong>\nDostoevsky's novel is a deep psychological exploration of innocence in a corrupt society. The characters are multidimensional, and the plot is intricate. Myshkin’s goodness becomes a mirror reflecting others’ flaws, causing discomfort and ultimately leading to tragedy.</p>\n<h3>Concise Summary</h3>\n<p>&quot;The Idiot&quot; by Fyodor Dostoevsky is a tragic novel about Prince Myshkin, a naive and kind-hearted man. His innocence is contrasted with the corruption of Russian society. The novel follows Myshkin's entanglements with various characters, especially the love triangle with Rogozhin and Nastasya, leading to a series of tragic events. Themes of innocence, love, jealousy, and madness are explored deeply. The story ends with Myshkin's mental collapse, Rogozhin's conviction, and the disintegration of those Myshkin tried to aid.</p>\n",
+  "description": "A novel by Fyodor Dostoevsky, 'The Idiot' explores innocence and corruption in Russian society through the character of Prince Myshkin. It delves into themes of love, jealousy, and madness, resulting in tragic consequences.",
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1680873940/uydlxhbwrvv1v0qj2svg.webp",
+  "evaluation": [
+    {
+      "question": "What is the central conflict in 'The Idiot'?",
+      "options": [
+        "A war between two nations.",
+        "The struggle for power and dominance.",
+        "The clash between innocence and corruption in society.",
+        "The search for hidden treasure."
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b57"
+      }
+    },
+    {
+      "question": "What is the significance of Prince Myshkin's character?",
+      "options": [
+        "He represents pure evil in the story.",
+        "He symbolizes the epitome of corruption.",
+        "He embodies innocence and goodness in a corrupt world.",
+        "He portrays a cunning manipulator."
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b58"
+      }
+    },
+    {
+      "question": "What is a recurring theme explored in the novel?",
+      "options": [
+        "The triumph of reason over emotion.",
+        "The glorification of material wealth.",
+        "The futility of human relationships.",
+        "The destructive power of love and jealousy."
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b59"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733567"
+  },
+  "name": "middlemarch",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7845"
+  },
+  "link": "https://en.wikipedia.org/wiki/Middlemarch",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733569"
+  },
+  "name": "medea",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7840"
+  },
+  "link": "https://en.wikipedia.org/wiki/Medea_(play)",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d689334073356c"
+  },
+  "name": "madame bovary",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7849"
+  },
+  "link": "https://en.wikipedia.org/wiki/Madame_Bovary",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733570"
+  },
+  "name": "hunger",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f7856"
+  },
+  "link": "https://en.wikipedia.org/wiki/Hunger_(Hamsun_novel)",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733572"
+  },
+  "name": "iliad",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f784d"
+  },
+  "link": "https://en.wikipedia.org/wiki/Iliad",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63a776b1c2d6893340733575"
+  },
+  "name": "ulysses",
+  "state": false,
+  "subject": {
+    "$oid": "63a71589847f944a5af38597"
+  },
+  "price": 30,
+  "autor": {
+    "$oid": "63a735c618a9a0bbd73f784f"
+  },
+  "link": "https://en.wikipedia.org/wiki/Ulysses_(novel)",
+  "dateCreated": {
+    "$date": "2022-12-24T22:01:21.786Z"
+  },
+  "__v": 0,
+  "evaluation": [
+    {
+      "question": "Who is the author of the novel 'Ulysses'?",
+      "options": [
+        "James Joyce",
+        "Virginia Woolf",
+        "Ernest Hemingway"
+      ],
+      "correctOption": 1,
+      "_id": {
+        "$oid": "6493a843421126609ad12c62"
+      }
+    },
+    {
+      "question": "In which city is 'Ulysses' primarily set?",
+      "options": [
+        "London",
+        "Dublin",
+        "Paris"
+      ],
+      "correctOption": 2,
+      "_id": {
+        "$oid": "6493a843421126609ad12c63"
+      }
+    },
+    {
+      "question": "Which literary technique is prominently used in 'Ulysses'?",
+      "options": [
+        "Stream of consciousness",
+        "Magical realism",
+        "Historical fiction"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "6493a843421126609ad12c64"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "644845c4aabdeedda4dcf7b5"
+  },
+  "name": "design patterns",
+  "description": "Design Patterns in software engineering offer reusable solutions to common problems. They are categorized into Creational, Structural, and Behavioral patterns, providing guidelines for flexible and efficient code development. By promoting reusability, maintainability, and adaptability, design patterns enhance software quality. A seminal book on this subject is 'Design Patterns: Elements of Reusable Object-Oriented Software'.",
+  "state": true,
+  "subject": {
+    "$oid": "63a71777847f944a5af385d8"
+  },
+  "price": 20,
+  "autor": {
+    "$oid": "644843edaabdeedda4dcf7a7"
+  },
+  "image": "https://res.cloudinary.com/dvzlb1euk/image/upload/v1682469027/Design-Pattern_dvnm2n.webp",
+  "content": "<p>&quot;Design Patterns&quot; is a concept in software engineering that typically refers to reusable solutions to common problems encountered in software design. Here's an overview of the concept, divided into relevant sections, followed by a concise summary.</p>\n<h3>Introduction</h3>\n<p>Design patterns are general reusable solutions to common problems faced during software development. They're not blueprints but guidelines that can be adapted to suit particular needs. Design patterns are about design and interaction of objects, rather than implementation.</p>\n<h3>Types of Design Patterns</h3>\n<ol>\n<li>\n<p><strong>Creational Patterns</strong>: Deal with object creation mechanisms.</p>\n<ul>\n<li><strong>Singleton</strong>: Ensures a class has only one instance.</li>\n<li><strong>Factory Method</strong>: Defines an interface for creating an object but allows subclasses to alter the type of objects that will be created.</li>\n<li><strong>Abstract Factory</strong>: A family of related or dependent objects without specifying their concrete classes.</li>\n<li><strong>Builder</strong>: Constructs a complex object step by step.</li>\n<li><strong>Prototype</strong>: Creates new objects by copying an existing object.</li>\n</ul>\n</li>\n<li>\n<p><strong>Structural Patterns</strong>: Concerned with the composition of classes or objects.</p>\n<ul>\n<li><strong>Adapter</strong>: Allows incompatible interfaces to work together.</li>\n<li><strong>Bridge</strong>: Separates an object’s abstraction from its implementation.</li>\n<li><strong>Composite</strong>: Composes objects into tree-like structures.</li>\n<li><strong>Decorator</strong>: Adds new functionality to an object without altering its structure.</li>\n<li><strong>Facade</strong>: Provides a simplified interface to a complex subsystem.</li>\n</ul>\n</li>\n<li>\n<p><strong>Behavioral Patterns</strong>: Deal with object collaboration and responsibilities.</p>\n<ul>\n<li><strong>Observer</strong>: Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified.</li>\n<li><strong>Strategy</strong>: Defines a family of algorithms and makes them interchangeable.</li>\n<li><strong>State</strong>: Allows an object to alter its behavior when its internal state changes.</li>\n<li><strong>Command</strong>: Encapsulates a request as an object.</li>\n<li><strong>Memento</strong>: Captures an object's internal state to restore it later.</li>\n<li><strong>Chain of Responsibility</strong>: Passes a request along a chain of handlers.</li>\n</ul>\n</li>\n</ol>\n<h3>Importance</h3>\n<p>Design patterns provide solutions that are tested, proven, and efficient. They promote reusability, making the code more robust and maintainable. By using design patterns, developers can achieve flexibility, efficiency, and effectiveness in their code.</p>\n<h3>Sources and References</h3>\n<p>The seminal book on this subject is &quot;Design Patterns: Elements of Reusable Object-Oriented Software&quot; by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides. Many online resources also cover design patterns in-depth.</p>\n<h3>Concise Summary</h3>\n<p>Design Patterns in software engineering are reusable solutions to common problems, categorized into three main types: Creational, Structural, and Behavioral. They serve as guidelines to provide flexibility and efficiency in code development. By using design patterns, developers can ensure that their code is more maintainable and adaptable to changing requirements, thereby enhancing software quality. The concept is widely documented in literature and has become a fundamental tool in modern software development.</p>\n",
+  "dateCreated": {
+    "$date": "2023-04-25T21:27:32.266Z"
+  },
+  "__v": 0,
+  "evaluation": [
+    {
+      "question": "What are design patterns in software engineering?",
+      "options": [
+        "Reusable solutions to software implementation challenges",
+        "Step-by-step guides for building software applications",
+        "Blueprints for designing databases",
+        "Documentation for coding standards"
+      ],
+      "correctOption": 0,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b8b"
+      }
+    },
+    {
+      "question": "Which type of design pattern deals with object creation mechanisms?",
+      "options": [
+        "Creational Patterns",
+        "Structural Patterns",
+        "Behavioral Patterns",
+        "Modular Patterns"
+      ],
+      "correctOption": 0,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b8c"
+      }
+    },
+    {
+      "question": "What is the main benefit of using design patterns in software development?",
+      "options": [
+        "Reduced code complexity",
+        "Increased runtime performance",
+        "Elimination of debugging",
+        "Enhanced software quality and maintainability"
+      ],
+      "correctOption": 3,
+      "_id": {
+        "$oid": "64dfc5aac411b2ed44527b8d"
+      }
+    }
+  ]
+}]
